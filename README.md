@@ -74,4 +74,4 @@
 ## 致谢
 
 - 特别鸣谢：特里王，在「南宋」活字收集、整理、研究上的贡献。
-- [落霞孤鹜](lxgw)的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)、[Fontworks Klee One](https://github.com/fontworks-fonts/Klee)、[思源宋体](https://github.com/adobe-fonts/source-han-serif)，这些开源字体是本项目人与机在设计过程中的写法参考。
+- [落霞孤鹜](https://github.com/lxgw)的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)、[Fontworks Klee One](https://github.com/fontworks-fonts/Klee)、[思源宋体](https://github.com/adobe-fonts/source-han-serif)，这些开源字体是本项目人与机在设计过程中的写法参考。
