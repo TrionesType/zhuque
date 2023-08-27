@@ -1,3 +1,5 @@
+[English](docs/README-en.md)
+
 # 朱雀仿宋
 
 ![](docs/preview.png)
@@ -62,6 +64,8 @@
 
 我们恳请您**暂时不要**在「朱雀仿宋」正式版发布之前大量传播非「朱雀」团队所修改的本字体。如果您有改进「朱雀仿宋」意愿，我们非常欢迎您提出宝贵的意见建议——包括与我们讨论如何参与到朱雀的设计工作。
 
+朱雀的西文与符号暂采用 [Alegreya](https://github.com/huertatipografica/Alegreya) 的一个外插值实例。Alegreya 由 Huerta Tipográfica 的 Juan Pablo del Peral 创作，同样以 SIL Open Font License 1.1 发布。
+
 ## 「朱雀」团队
 
 **主创：**[余俊益](https://github.com/Lottin0113)
@@ -72,7 +76,7 @@
 
 ## 关于璇玑造字
 
-[「璇玑造字」]((http://trionestype.com/))是[智琮科技](https://jadefoci.com/)的字库品牌。我们以传统文化为立足基本，从自然风物汲取设计灵感，藉前沿科技更新文字风景。无论技术如何变迁，我们将始终把「人」置于第一位，关心设计者的创意与读者的体验。
+[「璇玑造字」](http://trionestype.com/)是[智琮科技](https://jadefoci.com/)的字库品牌。我们以传统文化为立足基本，从自然风物汲取设计灵感，藉前沿科技更新文字风景。无论技术如何变迁，我们将始终把「人」置于第一位，关心设计者的创意与读者的体验。
 
 欢迎你来和璇玑造字一起塑造属于未来的文字！
 
