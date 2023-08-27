@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Ndotaccent;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = 1;
+pos = (161,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 719;
+}
+);
+locked = 1;
+production = uni1E44;
+unicode = 7748;
+}

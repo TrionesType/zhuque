@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = ocircumflex.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (100,24);
+ref = circumflexcomb;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+}

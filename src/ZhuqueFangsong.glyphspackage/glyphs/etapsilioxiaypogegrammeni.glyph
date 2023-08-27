@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etapsilioxiaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (65,0);
+ref = psilioxia;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F94;
+unicode = 8084;
+}

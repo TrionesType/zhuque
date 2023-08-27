@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = sigmafinal.sc;
+kernLeft = X;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = sigma.sc;
+}
+);
+width = 486;
+}
+);
+locked = 1;
+production = uni03C2.sc;
+}

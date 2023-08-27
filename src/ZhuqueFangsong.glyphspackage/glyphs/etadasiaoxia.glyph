@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etadasiaoxia;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (65,0);
+ref = dasiaoxia;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F25;
+unicode = 7973;
+}

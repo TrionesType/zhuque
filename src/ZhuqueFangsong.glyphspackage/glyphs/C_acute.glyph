@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Cacute;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (170,0);
+ref = acutecomb.case;
+}
+);
+width = 626;
+}
+);
+locked = 1;
+unicode = 262;
+}

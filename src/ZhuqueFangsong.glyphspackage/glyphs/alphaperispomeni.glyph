@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = alphaperispomeni;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (92,-20);
+ref = perispomeni;
+}
+);
+width = 540;
+}
+);
+locked = 1;
+production = uni1FB6;
+unicode = 8118;
+}

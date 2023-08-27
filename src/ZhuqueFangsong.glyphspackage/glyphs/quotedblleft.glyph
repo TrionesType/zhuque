@@ -1,0 +1,77 @@
+{
+color = 2;
+glyphname = quotedblleft;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,463,l),
+(275,476,o),
+(257,498,o),
+(257,525,cs),
+(257,559,o),
+(289,599,o),
+(329,624,c),
+(329,634,l),
+(311,649,l),
+(256,620,o),
+(183,566,o),
+(183,494,cs),
+(183,450,o),
+(207,423,o),
+(237,423,cs),
+(259,423,o),
+(282,439,o),
+(295,449,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(142,463,l),
+(120,476,o),
+(102,498,o),
+(102,525,cs),
+(102,559,o),
+(134,599,o),
+(174,624,c),
+(174,634,l),
+(156,649,l),
+(101,620,o),
+(28,566,o),
+(28,494,cs),
+(28,450,o),
+(52,423,o),
+(82,423,cs),
+(104,423,o),
+(127,439,o),
+(140,449,c)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (155,0);
+ref = quoteleft;
+},
+{
+alignment = -1;
+ref = quoteleft;
+}
+);
+width = 331;
+}
+);
+locked = 1;
+metricLeft = quoteleft;
+metricRight = quoteleft;
+unicode = 8220;
+}

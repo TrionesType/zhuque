@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etapsiliypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (93,0);
+ref = psili;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F90;
+unicode = 8080;
+}

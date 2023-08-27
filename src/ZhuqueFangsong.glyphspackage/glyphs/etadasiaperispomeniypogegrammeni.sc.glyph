@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = etadasiaperispomeniypogegrammeni.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni.sc;
+},
+{
+pos = (94,45);
+ref = dasiaperispomeni;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+production = uni1F97.sc;
+}

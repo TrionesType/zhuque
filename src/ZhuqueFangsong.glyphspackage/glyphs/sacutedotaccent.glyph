@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = sacutedotaccent;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-16,-185);
+ref = acutecomb.case;
+},
+{
+pos = (2,-61);
+ref = dotaccentcomb.case;
+}
+);
+width = 402;
+}
+);
+locked = 1;
+production = uni1E65;
+unicode = 7781;
+}

@@ -1,0 +1,34 @@
+{
+color = 2;
+glyphname = mu.sc;
+kernLeft = M;
+kernRight = M;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = m.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 715;
+}
+);
+locked = 1;
+metricLeft = "=M";
+metricRight = "=M";
+production = uni03BC.sc;
+userData = {
+RMXScaler = {
+source = M;
+};
+};
+}

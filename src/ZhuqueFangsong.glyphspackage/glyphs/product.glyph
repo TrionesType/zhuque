@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = product;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Pi;
+}
+);
+width = 710;
+}
+);
+locked = 1;
+unicode = 8719;
+}

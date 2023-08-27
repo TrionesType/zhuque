@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = ydieresis;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (30,0);
+ref = dieresiscomb;
+}
+);
+width = 446;
+}
+);
+locked = 1;
+unicode = 255;
+}

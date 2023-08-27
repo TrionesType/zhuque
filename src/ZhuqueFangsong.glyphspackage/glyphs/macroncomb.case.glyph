@@ -1,0 +1,43 @@
+{
+color = 2;
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = top;
+pos = (200,745);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(56,719,o),
+(141,720,o),
+(200,720,cs),
+(342,721,l),
+(349,768,l),
+(343,778,l),
+(343,778,o),
+(264,772,o),
+(214,772,cs),
+(155,772,o),
+(60,773,o),
+(60,773,c),
+(50,728,l),
+(56,719,l)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni0304.case;
+}

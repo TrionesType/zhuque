@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = udieresisacute.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (91,5);
+ref = dieresiscomb_acutecomb;
+},
+{
+alignment = -1;
+ref = u.sc;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+production = uni01D8.sc;
+}

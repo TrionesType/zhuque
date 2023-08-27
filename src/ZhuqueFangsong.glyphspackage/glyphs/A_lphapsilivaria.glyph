@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphapsilivaria;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (149,0);
+ref = Alpha;
+},
+{
+pos = (227,195);
+ref = psilivaria.case;
+}
+);
+width = 733;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = Alpha;
+production = uni1F0A;
+unicode = 7946;
+}

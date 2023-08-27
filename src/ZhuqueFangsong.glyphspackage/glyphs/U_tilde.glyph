@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Utilde;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (132,175);
+ref = tilde;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+unicode = 360;
+}

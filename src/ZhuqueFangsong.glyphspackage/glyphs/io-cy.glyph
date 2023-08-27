@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = "io-cy";
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = "ie-cy";
+},
+{
+alignment = 1;
+pos = (59,0);
+ref = dieresiscomb;
+}
+);
+width = 456;
+}
+);
+locked = 1;
+production = uni0451;
+unicode = 1105;
+}

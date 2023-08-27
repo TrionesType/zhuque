@@ -1,0 +1,31 @@
+{
+color = 2;
+glyphname = dieresisbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (199,0);
+},
+{
+name = bottom;
+pos = (199,-248);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-814);
+ref = dieresiscomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+metricLeft = "=dieresiscomb";
+metricRight = "=dieresiscomb";
+production = uni0324;
+unicode = 804;
+}

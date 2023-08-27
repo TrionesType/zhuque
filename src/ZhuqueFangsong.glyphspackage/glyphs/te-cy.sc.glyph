@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "te-cy.sc";
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t.sc;
+}
+);
+width = 474;
+}
+);
+locked = 1;
+production = uni0442.sc;
+}

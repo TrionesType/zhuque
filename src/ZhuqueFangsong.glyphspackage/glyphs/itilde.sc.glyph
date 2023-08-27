@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = itilde.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = i.sc;
+},
+{
+alignment = -1;
+pos = (-36,35);
+ref = tilde;
+}
+);
+width = 319;
+}
+);
+locked = 1;
+}

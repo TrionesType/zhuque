@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = ecaron;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (44,0);
+ref = caroncomb;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+unicode = 283;
+}

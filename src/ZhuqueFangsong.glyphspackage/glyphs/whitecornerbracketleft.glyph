@@ -1,0 +1,12 @@
+{
+color = 7;
+export = 0;
+glyphname = whitecornerbracketleft;
+layers = (
+{
+layerId = m01;
+width = 1000;
+}
+);
+unicode = 12302;
+}

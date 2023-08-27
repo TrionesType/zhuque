@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ubreve.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u.sc;
+},
+{
+alignment = -1;
+pos = (85,35);
+ref = brevecomb;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+}

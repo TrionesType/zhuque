@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "Zedieresis-cy";
+kernLeft = "Ereversed-cy";
+kernRight = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Ze-cy";
+},
+{
+pos = (71,0);
+ref = dieresiscomb.case;
+}
+);
+width = 528;
+}
+);
+locked = 1;
+production = uni04DE;
+unicode = 1246;
+}

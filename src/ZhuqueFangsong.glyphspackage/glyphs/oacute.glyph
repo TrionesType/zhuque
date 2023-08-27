@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = oacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (53,0);
+ref = acutecomb;
+}
+);
+width = 498;
+}
+);
+locked = 1;
+unicode = 243;
+}

@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Etadasiaoxia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Eta;
+},
+{
+pos = (377,185);
+ref = dasiaoxia.case;
+}
+);
+width = 980;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = H;
+production = uni1F2D;
+unicode = 7981;
+}

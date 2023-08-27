@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ohornacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (153,0);
+ref = acutecomb.case;
+}
+);
+width = 703;
+}
+);
+locked = 1;
+production = uni1EDA;
+unicode = 7898;
+}

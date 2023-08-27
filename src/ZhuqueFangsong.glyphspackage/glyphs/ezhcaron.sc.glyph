@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = ezhcaron.sc;
+kernLeft = "Ereversed-cy";
+kernRight = Ezh;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ezh.sc;
+},
+{
+pos = (53,46);
+ref = caroncomb;
+}
+);
+width = 475;
+}
+);
+locked = 1;
+production = uni01EF.sc;
+}

@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = emacron.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (56,45);
+ref = macroncomb;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+}

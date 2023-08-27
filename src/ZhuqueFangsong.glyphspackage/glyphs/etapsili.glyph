@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etapsili;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (93,0);
+ref = psili;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F20;
+unicode = 7968;
+}

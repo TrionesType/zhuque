@@ -1,0 +1,17 @@
+{
+color = 7;
+glyphname = asterisk.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (272,0);
+ref = asterisk;
+}
+);
+width = 1000;
+}
+);
+unicode = 65290;
+}

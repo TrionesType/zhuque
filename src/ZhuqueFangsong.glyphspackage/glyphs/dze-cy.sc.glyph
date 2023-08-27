@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "dze-cy.sc";
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+production = uni0455.sc;
+}

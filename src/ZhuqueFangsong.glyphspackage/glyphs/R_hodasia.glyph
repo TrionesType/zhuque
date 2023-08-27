@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Rhodasia;
+kernLeft = Etatonos;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (108,0);
+ref = Rho;
+},
+{
+pos = (226,195);
+ref = dasia.case;
+}
+);
+width = 659;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = P;
+production = uni1FEC;
+unicode = 8172;
+}

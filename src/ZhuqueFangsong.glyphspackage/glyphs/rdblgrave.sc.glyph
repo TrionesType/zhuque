@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = rdblgrave.sc;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (72,45);
+ref = dblgravecomb;
+}
+);
+width = 529;
+}
+);
+locked = 1;
+production = uni0211.sc;
+}

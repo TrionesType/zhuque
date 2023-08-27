@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Iotadasiavaria;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (216,0);
+ref = Iota;
+},
+{
+pos = (171,185);
+ref = dasiavaria.case;
+}
+);
+width = 577;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3B;
+unicode = 7995;
+}

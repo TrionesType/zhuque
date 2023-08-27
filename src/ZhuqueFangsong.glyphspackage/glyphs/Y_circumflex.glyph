@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Ycircumflex;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (86,0);
+ref = circumflexcomb.case;
+}
+);
+width = 538;
+}
+);
+locked = 1;
+unicode = 374;
+}

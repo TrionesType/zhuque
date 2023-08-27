@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = acircumflexgrave.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (63,45);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EA7.sc;
+}

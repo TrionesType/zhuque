@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = "ha-cy";
+kernLeft = x;
+kernRight = x;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = x;
+}
+);
+width = 491;
+}
+);
+locked = 1;
+production = uni0445;
+unicode = 1093;
+}

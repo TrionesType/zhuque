@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = parenright.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = parenright;
+}
+);
+width = 274;
+}
+);
+locked = 1;
+}

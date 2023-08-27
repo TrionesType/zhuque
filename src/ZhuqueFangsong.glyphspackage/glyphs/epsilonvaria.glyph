@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = epsilonvaria;
+kernLeft = epsilon;
+kernRight = epsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (22,0);
+ref = varia;
+}
+);
+width = 421;
+}
+);
+locked = 1;
+production = uni1F72;
+unicode = 8050;
+}

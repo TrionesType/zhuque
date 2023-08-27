@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = onehalf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = one.numr;
+},
+{
+alignment = -1;
+pos = (279,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (384,0);
+ref = two.dnom;
+}
+);
+width = 713;
+}
+);
+locked = 1;
+unicode = 189;
+}

@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = Germandbls.alt;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (530,0);
+ref = S;
+}
+);
+width = 1060;
+}
+);
+locked = 1;
+production = uni1E9E.alt;
+}

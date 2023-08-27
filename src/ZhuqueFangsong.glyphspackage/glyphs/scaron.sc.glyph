@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = scaron.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (31,45);
+ref = caroncomb;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+}

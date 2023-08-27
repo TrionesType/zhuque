@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = gtilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (66,0);
+ref = tilde;
+}
+);
+width = 501;
+}
+);
+locked = 1;
+}

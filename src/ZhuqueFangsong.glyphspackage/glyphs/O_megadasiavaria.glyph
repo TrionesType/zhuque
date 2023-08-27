@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Omegadasiavaria;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (174,0);
+ref = Omega;
+},
+{
+pos = (349,185);
+ref = dasiavaria.case;
+}
+);
+width = 975;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = Omega;
+production = uni1F6B;
+unicode = 8043;
+}

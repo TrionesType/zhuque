@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Etapsiliperispomeniprosgegrammeni.ss05;
+kernLeft = asterisk;
+kernRight = iota;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (191,0);
+ref = Etaprosgegrammeni.ss05;
+},
+{
+pos = (849,0);
+ref = psiliperispomeni.case;
+}
+);
+width = 1213;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=iota";
+production = uni1F9E.ss05;
+}

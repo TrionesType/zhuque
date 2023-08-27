@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "umacron-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (57,46);
+ref = macroncomb;
+}
+);
+width = 476;
+}
+);
+locked = 1;
+production = uni04EF.sc;
+}

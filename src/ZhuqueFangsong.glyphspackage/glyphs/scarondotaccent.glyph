@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = scarondotaccent;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (10,-160);
+ref = caroncomb.case;
+scale = (0.9615,0.9615);
+},
+{
+pos = (2,-73);
+ref = dotaccentcomb.case;
+}
+);
+width = 402;
+}
+);
+locked = 1;
+production = uni1E67;
+unicode = 7783;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = alphadasiaoxiaypogegrammeni;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alphaypogegrammeni;
+},
+{
+pos = (61,0);
+ref = dasiaoxia;
+}
+);
+width = 540;
+}
+);
+locked = 1;
+production = uni1F85;
+unicode = 8069;
+}

@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = four.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = four.sinf;
+}
+);
+width = 311;
+}
+);
+locked = 1;
+metricLeft = four.sinf;
+metricRight = four.sinf;
+}

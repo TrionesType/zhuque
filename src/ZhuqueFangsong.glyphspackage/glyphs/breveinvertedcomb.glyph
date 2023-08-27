@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (178,452);
+},
+{
+name = top;
+pos = (178,662);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,604,o),
+(257,582,o),
+(274,538,c),
+(282,538,l),
+(298,548,l),
+(284,605,o),
+(247,662,o),
+(178,662,cs),
+(109,662,o),
+(72,605,o),
+(58,548,c),
+(74,538,l),
+(82,538,l),
+(99,582,o),
+(136,604,o),
+(178,604,cs)
+);
+}
+);
+width = 356;
+}
+);
+locked = 1;
+production = uni0311;
+unicode = 785;
+}

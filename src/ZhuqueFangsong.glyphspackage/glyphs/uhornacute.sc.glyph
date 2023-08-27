@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = uhornacute.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uhorn.sc;
+},
+{
+alignment = -1;
+pos = (93,40);
+ref = acutecomb;
+}
+);
+width = 578;
+}
+);
+locked = 1;
+production = uni1EE9.sc;
+}

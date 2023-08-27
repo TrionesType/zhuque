@@ -1,0 +1,16 @@
+{
+color = 2;
+glyphname = caron.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = caroncomb.alt;
+}
+);
+width = 600;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = idieresis;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-45,-10);
+ref = dieresiscomb.i;
+}
+);
+width = 282;
+}
+);
+locked = 1;
+unicode = 239;
+}

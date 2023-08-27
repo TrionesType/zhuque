@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = umacron;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = macroncomb;
+}
+);
+width = 541;
+}
+);
+locked = 1;
+unicode = 363;
+}

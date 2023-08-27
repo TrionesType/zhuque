@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "Ghestroke-cy.loclBSH";
+kernLeft = H;
+kernRight = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = F;
+}
+);
+width = 512;
+}
+);
+locked = 1;
+production = uni0492.loclBSH;
+}

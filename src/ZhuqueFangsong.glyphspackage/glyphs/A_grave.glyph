@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Agrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (96,0);
+ref = gravecomb.case;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+unicode = 192;
+}

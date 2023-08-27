@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "Abreve-cy";
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "A-cy";
+},
+{
+pos = (91,184);
+ref = "brevecomb-cy.case";
+}
+);
+width = 584;
+}
+);
+locked = 1;
+production = uni04D0;
+unicode = 1232;
+}

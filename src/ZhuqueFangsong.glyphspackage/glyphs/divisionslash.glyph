@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = divisionslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = slash;
+}
+);
+width = 329;
+}
+);
+locked = 1;
+production = uni2215;
+unicode = 8725;
+}

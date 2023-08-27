@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = ohungarumlaut.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+alignment = 1;
+pos = (144,45);
+ref = hungarumlautcomb;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+}

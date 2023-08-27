@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = adotbelow.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (44,0);
+ref = dotbelowcomb;
+},
+{
+alignment = -1;
+ref = a.sc;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EA1.sc;
+}

@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ecircumflexhookabove;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,140);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 591;
+}
+);
+locked = 1;
+production = uni1EC2;
+unicode = 7874;
+}

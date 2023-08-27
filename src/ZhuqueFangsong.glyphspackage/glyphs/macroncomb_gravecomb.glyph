@@ -1,0 +1,65 @@
+{
+color = 2;
+glyphname = macroncomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,452);
+},
+{
+name = top;
+pos = (200,747);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (200,452);
+},
+{
+name = top;
+pos = (200,817);
+}
+);
+shapes = (
+{
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (-40,-24);
+ref = acutecomb.case;
+},
+{
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (-40,-24);
+ref = acutecomb.case;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,-60);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (47,-94);
+ref = gravecomb.case;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+metricLeft = "=macroncomb";
+metricRight = "=macroncomb";
+production = uni03040300;
+}

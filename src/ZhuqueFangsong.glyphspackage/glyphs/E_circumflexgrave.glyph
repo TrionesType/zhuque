@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ecircumflexgrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,140);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 591;
+}
+);
+locked = 1;
+production = uni1EC0;
+unicode = 7872;
+}

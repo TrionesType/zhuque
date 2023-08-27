@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ocaron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (67,0);
+ref = caroncomb;
+}
+);
+width = 498;
+}
+);
+locked = 1;
+production = uni01D2;
+unicode = 466;
+}

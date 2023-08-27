@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = seven.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = seven.sinf;
+}
+);
+width = 289;
+}
+);
+locked = 1;
+metricLeft = seven.sinf;
+metricRight = seven.sinf;
+}

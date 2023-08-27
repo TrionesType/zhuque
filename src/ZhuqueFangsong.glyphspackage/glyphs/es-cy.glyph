@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = "es-cy";
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = c;
+}
+);
+width = 433;
+}
+);
+locked = 1;
+production = uni0441;
+unicode = 1089;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = iogonek;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-54,0);
+ref = ogonekcomb;
+},
+{
+alignment = -1;
+ref = i;
+}
+);
+width = 282;
+}
+);
+locked = 1;
+unicode = 303;
+}

@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = acaron.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (56,45);
+ref = caroncomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni01CE.sc;
+}

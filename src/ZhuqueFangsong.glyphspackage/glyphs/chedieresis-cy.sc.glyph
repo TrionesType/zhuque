@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "chedieresis-cy.sc";
+kernLeft = "Che-cy";
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "che-cy.sc";
+},
+{
+pos = (56,46);
+ref = dieresiscomb;
+}
+);
+width = 521;
+}
+);
+locked = 1;
+production = uni04F5.sc;
+}

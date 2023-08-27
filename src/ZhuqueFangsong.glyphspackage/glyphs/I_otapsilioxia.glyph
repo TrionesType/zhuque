@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Iotapsilioxia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (229,0);
+ref = Iota;
+},
+{
+pos = (184,185);
+ref = psilioxia.case;
+}
+);
+width = 590;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3C;
+unicode = 7996;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Ccaron;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = caroncomb.case;
+}
+);
+width = 626;
+}
+);
+locked = 1;
+unicode = 268;
+}

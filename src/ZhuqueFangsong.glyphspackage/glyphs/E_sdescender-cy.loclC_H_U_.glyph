@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "Esdescender-cy.loclCHU";
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Es-cy";
+},
+{
+pos = (130,0);
+ref = cedillacomb;
+}
+);
+width = 626;
+}
+);
+locked = 1;
+production = uni04AA.loclCHU;
+}

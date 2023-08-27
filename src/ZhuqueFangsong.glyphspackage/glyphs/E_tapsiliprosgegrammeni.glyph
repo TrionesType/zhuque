@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Etapsiliprosgegrammeni;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-133,-62);
+ref = psili.case;
+},
+{
+pos = (102,0);
+ref = Etaprosgegrammeni;
+}
+);
+width = 856;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=H";
+production = uni1F98;
+unicode = 8088;
+}

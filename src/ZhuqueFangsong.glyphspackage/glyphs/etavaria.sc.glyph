@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = etavaria.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta.sc;
+},
+{
+pos = (118,45);
+ref = varia;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+production = uni1F74.sc;
+}

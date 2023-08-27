@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Nacute;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (182,0);
+ref = acutecomb.case;
+}
+);
+width = 719;
+}
+);
+locked = 1;
+unicode = 323;
+}

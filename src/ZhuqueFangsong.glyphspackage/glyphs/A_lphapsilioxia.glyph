@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphapsilioxia;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (157,0);
+ref = Alpha;
+},
+{
+pos = (235,195);
+ref = psilioxia.case;
+}
+);
+width = 741;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = Alpha;
+production = uni1F0C;
+unicode = 7948;
+}

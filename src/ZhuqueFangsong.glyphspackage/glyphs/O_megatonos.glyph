@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Omegatonos;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (58,0);
+ref = Omega;
+},
+{
+pos = (261,185);
+ref = tonos;
+}
+);
+width = 859;
+}
+);
+locked = 1;
+unicode = 911;
+}

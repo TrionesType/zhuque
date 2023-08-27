@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = alphatonos.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha.sc;
+},
+{
+pos = (57,45);
+ref = tonos;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+}

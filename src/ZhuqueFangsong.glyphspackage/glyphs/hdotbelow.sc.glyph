@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = hdotbelow.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h.sc;
+},
+{
+alignment = 1;
+pos = (118,0);
+ref = dotbelowcomb;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+production = uni1E25.sc;
+}

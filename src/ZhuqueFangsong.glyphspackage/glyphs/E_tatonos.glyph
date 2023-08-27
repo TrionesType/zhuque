@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Etatonos;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Eta;
+},
+{
+pos = (279,185);
+ref = tonos;
+}
+);
+width = 854;
+}
+);
+locked = 1;
+unicode = 905;
+}

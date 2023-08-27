@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = epsilonpsilivaria;
+kernLeft = epsilon;
+kernRight = epsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (-2,0);
+ref = psilivaria;
+}
+);
+width = 421;
+}
+);
+locked = 1;
+production = uni1F12;
+unicode = 7954;
+}

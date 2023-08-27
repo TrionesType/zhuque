@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = yacute;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (32,0);
+ref = acutecomb;
+}
+);
+width = 446;
+}
+);
+locked = 1;
+unicode = 253;
+}

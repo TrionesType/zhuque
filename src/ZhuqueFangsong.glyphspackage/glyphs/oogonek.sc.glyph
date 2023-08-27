@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = oogonek.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (132,0);
+ref = ogonekcomb;
+},
+{
+alignment = -1;
+ref = o.sc;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni01EB.sc;
+}

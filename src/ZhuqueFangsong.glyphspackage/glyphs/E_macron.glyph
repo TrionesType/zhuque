@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Emacron;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (110,0);
+ref = macroncomb.case;
+}
+);
+width = 591;
+}
+);
+locked = 1;
+unicode = 274;
+}

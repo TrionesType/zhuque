@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = Upsilonmacron;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+pos = (65,0);
+ref = macroncomb.case;
+}
+);
+width = 535;
+}
+);
+locked = 1;
+production = uni1FE9;
+unicode = 8169;
+}

@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "o-cy.sc";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni043E.sc;
+}

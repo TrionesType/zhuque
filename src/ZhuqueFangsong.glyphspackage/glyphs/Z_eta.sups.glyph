@@ -1,0 +1,70 @@
+{
+color = 2;
+glyphname = Zeta.sups;
+kernLeft = Z.sups;
+kernRight = Z.sups;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (213,338);
+},
+{
+name = top;
+pos = (225,765);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,340,l),
+(342,336,l),
+(354,348,l),
+(357,412,o),
+(371,496,o),
+(371,496,c),
+(320,491,l),
+(308,421,o),
+(284,391,o),
+(238,388,c),
+(123,381,l),
+(155,430,o),
+(254,581,o),
+(373,734,c),
+(362,759,l),
+(170,762,l),
+(50,769,l),
+(43,763,l),
+(41,702,o),
+(31,623,o),
+(31,623,c),
+(81,627,l),
+(87,690,o),
+(104,707,o),
+(163,712,c),
+(259,717,l),
+(16,362,l),
+(31,335,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66;
+verticalShift = 338;
+width = 68;
+};
+};
+width = 392;
+}
+);
+locked = 1;
+userData = {
+RMXScaler = {
+source = Zeta;
+};
+};
+}

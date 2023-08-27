@@ -1,0 +1,34 @@
+{
+color = 2;
+glyphname = dcaron;
+kernLeft = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(536,489,l),
+(557,591,o),
+(571,701,o),
+(571,701,c),
+(564,709,l),
+(494,695,l),
+(494,695,o),
+(504,587,o),
+(500,477,c),
+(511,475,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 571;
+}
+);
+locked = 1;
+unicode = 271;
+}

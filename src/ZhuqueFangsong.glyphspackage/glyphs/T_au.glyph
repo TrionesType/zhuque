@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = Tau;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+}
+);
+width = 546;
+}
+);
+locked = 1;
+unicode = 932;
+}

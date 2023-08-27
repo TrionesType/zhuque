@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = etilde;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (55,0);
+ref = tilde;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+production = uni1EBD;
+unicode = 7869;
+}

@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = twothirds;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (329,0);
+ref = fraction;
+},
+{
+pos = (454,0);
+ref = three.dnom;
+}
+);
+width = 747;
+}
+);
+locked = 1;
+metricLeft = two.numr;
+metricRight = two.numr;
+production = uni2154;
+unicode = 8532;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = utildeacute;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (71,0);
+ref = tildecomb_acutecomb;
+}
+);
+width = 541;
+}
+);
+locked = 1;
+production = uni1E79;
+unicode = 7801;
+}

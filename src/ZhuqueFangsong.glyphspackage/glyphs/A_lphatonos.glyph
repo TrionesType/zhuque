@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Alphatonos;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+pos = (166,195);
+ref = tonos;
+}
+);
+width = 644;
+}
+);
+locked = 1;
+unicode = 902;
+}

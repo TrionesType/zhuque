@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "uhungarumlaut-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (108,46);
+ref = hungarumlautcomb;
+}
+);
+width = 476;
+}
+);
+locked = 1;
+production = uni04F3.sc;
+}

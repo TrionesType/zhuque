@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = circumflexcomb;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (193,473);
+},
+{
+name = top;
+pos = (199,703);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(125,569,o),
+(171,603,o),
+(199,624,c),
+(226,603,o),
+(274,568,o),
+(321,527,c),
+(330,528,l),
+(344,550,l),
+(279,618,o),
+(206,703,o),
+(206,703,c),
+(192,703,l),
+(192,703,o),
+(119,618,o),
+(54,550,c),
+(68,528,l),
+(77,527,l)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni0302;
+unicode = 770;
+}

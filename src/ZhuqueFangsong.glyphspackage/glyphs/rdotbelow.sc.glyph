@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = rdotbelow.sc;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (83,0);
+ref = dotbelowcomb;
+}
+);
+width = 529;
+}
+);
+locked = 1;
+production = uni1E5B.sc;
+}

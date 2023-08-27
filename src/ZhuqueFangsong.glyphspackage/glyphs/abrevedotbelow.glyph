@@ -1,0 +1,31 @@
+{
+color = 2;
+glyphname = abrevedotbelow;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (21,0);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (4,0);
+ref = dotbelowcomb;
+}
+);
+width = 466;
+}
+);
+locked = 1;
+production = uni1EB7;
+unicode = 7863;
+}

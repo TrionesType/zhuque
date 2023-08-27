@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "Zedescender-cy.loclBSH";
+kernLeft = "Zedescender-cy";
+kernRight = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Zedescender-cy";
+}
+);
+width = 548;
+}
+);
+locked = 1;
+production = uni0498.loclBSH;
+}

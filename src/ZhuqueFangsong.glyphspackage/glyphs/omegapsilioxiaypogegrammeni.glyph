@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omegapsilioxiaypogegrammeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (104,0);
+ref = psilioxia;
+}
+);
+width = 657;
+}
+);
+locked = 1;
+production = uni1FA4;
+unicode = 8100;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "zhedieresis-cy";
+kernLeft = x;
+kernRight = x;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "zhe-cy";
+},
+{
+pos = (177,0);
+ref = dieresiscomb;
+}
+);
+width = 752;
+}
+);
+locked = 1;
+production = uni04DD;
+unicode = 1245;
+}

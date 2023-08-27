@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = abrevegrave.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (57,25);
+ref = brevecomb_gravecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EB1.sc;
+}

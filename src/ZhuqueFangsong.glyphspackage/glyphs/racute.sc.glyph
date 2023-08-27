@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = racute.sc;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (40,45);
+ref = acutecomb;
+}
+);
+width = 529;
+}
+);
+locked = 1;
+}

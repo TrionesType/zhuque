@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = upsilonpsilioxia;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (3,0);
+ref = psilioxia;
+}
+);
+width = 457;
+}
+);
+locked = 1;
+production = uni1F54;
+unicode = 8020;
+}

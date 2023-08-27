@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etadasiaoxiaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (65,0);
+ref = dasiaoxia;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F95;
+unicode = 8085;
+}

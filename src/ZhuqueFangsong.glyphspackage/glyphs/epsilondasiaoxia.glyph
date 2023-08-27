@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = epsilondasiaoxia;
+kernLeft = epsilon;
+kernRight = epsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (-2,0);
+ref = dasiaoxia;
+}
+);
+width = 421;
+}
+);
+locked = 1;
+production = uni1F15;
+unicode = 7957;
+}

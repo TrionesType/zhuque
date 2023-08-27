@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = hyphen.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = hyphen;
+}
+);
+width = 380;
+}
+);
+locked = 1;
+}

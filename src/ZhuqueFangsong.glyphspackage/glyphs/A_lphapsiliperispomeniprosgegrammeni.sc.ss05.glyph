@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Alphapsiliperispomeniprosgegrammeni.sc.ss05;
+kernLeft = Alphatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (119,0);
+ref = Alphaprosgegrammeni.sc.ss05;
+},
+{
+pos = (637,45);
+ref = psiliperispomeni.case;
+}
+);
+width = 1022;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota.sc";
+production = uni1F8E.sc.ss05;
+}

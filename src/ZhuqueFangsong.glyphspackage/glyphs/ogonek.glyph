@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = ogonek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = ogonekcomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+unicode = 731;
+}

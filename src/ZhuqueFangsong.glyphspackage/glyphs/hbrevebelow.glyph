@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = hbrevebelow;
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+alignment = 1;
+pos = (58,0);
+ref = brevebelowcomb;
+}
+);
+width = 534;
+}
+);
+locked = 1;
+production = uni1E2B;
+unicode = 7723;
+}

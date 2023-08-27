@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = dlinebelow;
+kernLeft = o;
+kernRight = d;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = d;
+},
+{
+alignment = 1;
+pos = (64,0);
+ref = macronbelowcomb;
+}
+);
+width = 537;
+}
+);
+locked = 1;
+production = uni1E0F;
+unicode = 7695;
+}

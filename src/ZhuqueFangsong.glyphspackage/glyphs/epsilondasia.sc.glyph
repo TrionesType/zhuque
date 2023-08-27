@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = epsilondasia.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+pos = (55,45);
+ref = dasia;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+production = uni1F11.sc;
+}

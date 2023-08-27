@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = uring;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (57,0);
+ref = ringcomb;
+}
+);
+width = 541;
+}
+);
+locked = 1;
+unicode = 367;
+}

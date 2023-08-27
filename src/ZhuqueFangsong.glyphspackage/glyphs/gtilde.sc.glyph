@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = gtilde.sc;
+kernLeft = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g.sc;
+},
+{
+alignment = 1;
+pos = (103,45);
+ref = tildecomb;
+}
+);
+width = 566;
+}
+);
+locked = 1;
+}

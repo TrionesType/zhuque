@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "ustraitstroke-cy";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ustrait-cy";
+},
+{
+pos = (-16,-239);
+ref = strokeshortcomb;
+}
+);
+width = 454;
+}
+);
+locked = 1;
+production = ustraitstrokecy;
+unicode = 1201;
+}

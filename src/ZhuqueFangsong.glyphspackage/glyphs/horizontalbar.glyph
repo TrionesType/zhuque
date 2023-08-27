@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = horizontalbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = emdash;
+}
+);
+width = 918;
+}
+);
+locked = 1;
+production = uni2015;
+unicode = 8213;
+}

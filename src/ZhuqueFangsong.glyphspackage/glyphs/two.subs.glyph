@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = two.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = two.sinf;
+}
+);
+width = 329;
+}
+);
+locked = 1;
+metricLeft = two.sinf;
+metricRight = two.sinf;
+}

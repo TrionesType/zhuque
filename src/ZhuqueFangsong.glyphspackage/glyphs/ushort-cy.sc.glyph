@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "ushort-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (63,46);
+ref = "brevecomb-cy";
+}
+);
+width = 476;
+}
+);
+locked = 1;
+production = uni045E.sc;
+}

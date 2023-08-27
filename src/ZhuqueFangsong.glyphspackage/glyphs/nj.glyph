@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = nj;
+kernLeft = n;
+kernRight = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (548,0);
+ref = j;
+}
+);
+width = 798;
+}
+);
+locked = 1;
+production = uni01CC;
+unicode = 460;
+}

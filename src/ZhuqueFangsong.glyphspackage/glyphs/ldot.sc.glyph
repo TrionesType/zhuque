@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ldot.sc;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (255,95);
+ref = periodcentered;
+}
+);
+width = 490;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ezhcaron;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ezh;
+},
+{
+pos = (47,-2);
+ref = caroncomb;
+}
+);
+width = 462;
+}
+);
+locked = 1;
+production = uni01EF;
+unicode = 495;
+}

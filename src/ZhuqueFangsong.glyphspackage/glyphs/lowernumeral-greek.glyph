@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = "lowernumeral-greek";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,-158,l),
+(122,-158,o),
+(112,-50,o),
+(116,60,c),
+(105,62,l),
+(80,48,l),
+(59,-54,o),
+(45,-164,o),
+(45,-164,c),
+(52,-172,l)
+);
+}
+);
+width = 176;
+}
+);
+locked = 1;
+metricLeft = "=|quotesingle";
+metricRight = "=|quotesingle";
+production = uni0375;
+unicode = 885;
+}

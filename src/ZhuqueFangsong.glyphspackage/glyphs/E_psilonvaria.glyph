@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Epsilonvaria;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (118,0);
+ref = Epsilon;
+},
+{
+pos = (212,185);
+ref = varia;
+}
+);
+width = 709;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1FC8;
+unicode = 8136;
+}

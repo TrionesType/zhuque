@@ -1,0 +1,17 @@
+{
+color = 7;
+glyphname = slash.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (335,66);
+ref = slash;
+}
+);
+width = 1000;
+}
+);
+unicode = 65295;
+}

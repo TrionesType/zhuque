@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = parenleft.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = parenleft;
+}
+);
+width = 275;
+}
+);
+locked = 1;
+}

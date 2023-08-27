@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = tlinebelow.sc;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = 1;
+pos = (37,0);
+ref = macronbelowcomb;
+}
+);
+width = 474;
+}
+);
+locked = 1;
+production = uni1E6F.sc;
+}

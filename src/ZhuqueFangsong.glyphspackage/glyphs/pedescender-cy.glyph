@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "pedescender-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "pe-cy";
+},
+{
+pos = (365,0);
+ref = "descender-cy";
+}
+);
+width = 568;
+}
+);
+locked = 1;
+production = uni0525;
+unicode = 1317;
+}

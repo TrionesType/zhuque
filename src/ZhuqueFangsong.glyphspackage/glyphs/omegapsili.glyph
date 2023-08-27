@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omegapsili;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (132,0);
+ref = psili;
+}
+);
+width = 657;
+}
+);
+locked = 1;
+production = uni1F60;
+unicode = 8032;
+}

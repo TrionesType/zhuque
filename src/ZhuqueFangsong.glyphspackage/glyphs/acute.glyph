@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = acute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = acutecomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+unicode = 180;
+}

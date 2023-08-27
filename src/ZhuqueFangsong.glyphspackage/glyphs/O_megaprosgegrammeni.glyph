@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Omegaprosgegrammeni;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Omega;
+},
+{
+pos = (242,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 801;
+}
+);
+locked = 1;
+production = uni1FFC;
+unicode = 8188;
+}

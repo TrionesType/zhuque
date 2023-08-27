@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = guilsinglright.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = guilsinglright;
+}
+);
+width = 261;
+}
+);
+locked = 1;
+}

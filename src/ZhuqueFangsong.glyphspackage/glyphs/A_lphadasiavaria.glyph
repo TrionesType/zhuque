@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphadasiavaria;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (144,0);
+ref = Alpha;
+},
+{
+pos = (222,195);
+ref = dasiavaria.case;
+}
+);
+width = 728;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = Alpha;
+production = uni1F0B;
+unicode = 7947;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omegaperispomeniypogegrammeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+alignment = -1;
+pos = (140,-35);
+ref = perispomeni;
+}
+);
+width = 657;
+}
+);
+locked = 1;
+production = uni1FF7;
+unicode = 8183;
+}

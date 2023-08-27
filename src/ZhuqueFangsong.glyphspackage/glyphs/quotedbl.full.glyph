@@ -1,0 +1,17 @@
+{
+color = 7;
+glyphname = quotedbl.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (351,100);
+ref = quotedbl;
+}
+);
+width = 1000;
+}
+);
+unicode = 65282;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Ebreve;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,175);
+ref = brevecomb;
+}
+);
+width = 591;
+}
+);
+locked = 1;
+unicode = 276;
+}

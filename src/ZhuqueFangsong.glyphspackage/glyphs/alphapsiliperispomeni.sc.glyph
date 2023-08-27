@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = alphapsiliperispomeni.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha.sc;
+},
+{
+pos = (29,45);
+ref = psiliperispomeni;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1F06.sc;
+}

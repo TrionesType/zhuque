@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Omacrongrave;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+alignment = 1;
+pos = (146,0);
+ref = macroncomb_gravecomb.case;
+}
+);
+width = 692;
+}
+);
+locked = 1;
+production = uni1E50;
+unicode = 7760;
+}

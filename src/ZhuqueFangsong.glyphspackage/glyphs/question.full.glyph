@@ -1,0 +1,17 @@
+{
+color = 7;
+glyphname = question.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (93,-20);
+ref = question;
+}
+);
+width = 1000;
+}
+);
+unicode = 65311;
+}

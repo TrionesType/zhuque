@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = iacute_j.loclNLD.sc;
+kernLeft = H;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-66,45);
+ref = acutecomb;
+},
+{
+pos = (319,0);
+ref = j.sc;
+},
+{
+alignment = 1;
+pos = (237,45);
+ref = acutecomb;
+}
+);
+width = 611;
+}
+);
+locked = 1;
+}

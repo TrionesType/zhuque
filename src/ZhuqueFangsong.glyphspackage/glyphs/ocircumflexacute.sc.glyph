@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = ocircumflexacute.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (100,45);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni1ED1.sc;
+}

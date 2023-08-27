@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = atilde.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+alignment = 1;
+pos = (55,45);
+ref = tildecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+}

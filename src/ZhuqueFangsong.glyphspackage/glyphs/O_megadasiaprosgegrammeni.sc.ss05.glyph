@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Omegadasiaprosgegrammeni.sc.ss05;
+kernLeft = Omegatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (66,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (828,45);
+ref = dasia.case;
+}
+);
+width = 1186;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=iota.sc";
+production = uni1FA9.sc.ss05;
+}

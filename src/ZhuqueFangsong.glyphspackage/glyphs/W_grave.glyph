@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Wgrave;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (264,0);
+ref = gravecomb.case;
+}
+);
+width = 932;
+}
+);
+locked = 1;
+unicode = 7808;
+}

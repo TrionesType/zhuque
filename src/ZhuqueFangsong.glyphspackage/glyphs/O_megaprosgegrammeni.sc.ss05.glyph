@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Omegaprosgegrammeni.sc.ss05;
+kernLeft = Omega;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Omega;
+},
+{
+pos = (801,0);
+ref = iota.sc;
+}
+);
+width = 1120;
+}
+);
+locked = 1;
+metricRight = "=iota.sc";
+production = uni1FFC.sc.ss05;
+}

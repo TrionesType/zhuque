@@ -1,0 +1,75 @@
+{
+color = 7;
+glyphname = emdash.loclZHS;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,321,l),
+(1000,321,l),
+(1000,379,l),
+(0,379,l)
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,198,o),
+(551,199,o),
+(829,199,c),
+(843,305,l),
+(833,324,l),
+(802,321,o),
+(539,322,o),
+(406,322,cs),
+(270,322,o),
+(135,322,o),
+(-1,322,c),
+(-12,217,l),
+(-1,198,l)
+);
+}
+);
+width = 830;
+},
+{
+associatedMasterId = m01;
+layerId = "856F758A-0D9C-4BAC-90F2-36A66CA26E87";
+name = Light;
+shapes = (
+{
+closed = 1;
+nodes = (
+(69,226,o),
+(597,228,o),
+(922,228,c),
+(930,275,l),
+(924,284,l),
+(911,285,o),
+(641,278,o),
+(479,278,cs),
+(304,278,o),
+(-4,279,o),
+(5,279,c),
+(-6,234,l),
+(0,226,l)
+);
+}
+);
+width = 924.03922;
+}
+);
+}

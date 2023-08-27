@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = wcircumflex.sc;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (204,24);
+ref = circumflexcomb;
+}
+);
+width = 793;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = "ustrait-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 475;
+}
+);
+locked = 1;
+production = ustraitcy.sc;
+userData = {
+RMXScaler = {
+source = "Ustrait-cy";
+};
+};
+}

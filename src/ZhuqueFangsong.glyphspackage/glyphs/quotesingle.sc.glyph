@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = quotesingle.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-130);
+ref = quotesingle;
+}
+);
+width = 176;
+}
+);
+locked = 1;
+}

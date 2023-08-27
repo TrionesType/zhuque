@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = alphaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (255,497);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (510,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 829;
+}
+);
+locked = 1;
+production = uni1FB3.sc.ss05;
+}

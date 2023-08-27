@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Abreve;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (98,0);
+ref = brevecomb.case;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+unicode = 258;
+}

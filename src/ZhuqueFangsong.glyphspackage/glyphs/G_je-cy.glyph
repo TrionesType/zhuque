@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "Gje-cy";
+kernLeft = H;
+kernRight = Gamma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (64,0);
+ref = acutecomb.case;
+}
+);
+width = 493;
+}
+);
+locked = 1;
+production = uni0403;
+unicode = 1027;
+}

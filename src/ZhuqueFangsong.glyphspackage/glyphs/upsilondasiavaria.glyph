@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = upsilondasiavaria;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (3,0);
+ref = dasiavaria;
+}
+);
+width = 457;
+}
+);
+locked = 1;
+production = uni1F53;
+unicode = 8019;
+}

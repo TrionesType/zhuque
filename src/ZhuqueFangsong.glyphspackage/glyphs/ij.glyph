@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = ij;
+kernLeft = n;
+kernRight = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+alignment = -1;
+pos = (282,0);
+ref = j;
+}
+);
+width = 532;
+}
+);
+locked = 1;
+unicode = 307;
+}

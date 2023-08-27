@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = alphaoxiaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (57,45);
+ref = tonos;
+}
+);
+width = 829;
+}
+);
+locked = 1;
+production = uni1FB4.sc.ss05;
+}

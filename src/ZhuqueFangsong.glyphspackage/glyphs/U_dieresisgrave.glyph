@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Udieresisgrave;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (144,145);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+production = uni01DB;
+unicode = 475;
+}

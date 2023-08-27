@@ -1,0 +1,48 @@
+{
+color = 2;
+glyphname = ogonekcomb;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (233,40);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(234,-231,o),
+(276,-204,o),
+(303,-178,c),
+(290,-159,l),
+(269,-172,o),
+(236,-182,o),
+(213,-182,cs),
+(177,-182,o),
+(155,-160,o),
+(155,-125,cs),
+(155,-86,o),
+(176,-56,o),
+(271,42,c),
+(229,42,l),
+(112,-75,o),
+(92,-103,o),
+(92,-150,cs),
+(92,-204,o),
+(137,-241,o),
+(203,-241,c)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni0328;
+unicode = 808;
+}

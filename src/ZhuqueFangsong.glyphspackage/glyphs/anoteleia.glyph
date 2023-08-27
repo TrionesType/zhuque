@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = anoteleia;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,96);
+ref = periodcentered;
+}
+);
+width = 238;
+}
+);
+locked = 1;
+metricLeft = "=periodcentered";
+metricRight = "=periodcentered";
+unicode = 903;
+}

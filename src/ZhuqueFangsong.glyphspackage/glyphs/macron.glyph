@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = macron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+unicode = 175;
+}

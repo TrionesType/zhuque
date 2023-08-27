@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "adieresis-cy";
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "a-cy";
+},
+{
+pos = (16,0);
+ref = dieresiscomb;
+}
+);
+width = 461;
+}
+);
+locked = 1;
+production = uni04D3;
+unicode = 1235;
+}

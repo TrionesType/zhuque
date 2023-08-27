@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = edotaccent;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (43,0);
+ref = dotaccentcomb;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+unicode = 279;
+}

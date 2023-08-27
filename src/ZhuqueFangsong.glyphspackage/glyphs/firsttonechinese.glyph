@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = firsttonechinese;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni02C9;
+unicode = 713;
+}

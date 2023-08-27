@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = perispomeni.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = _topleft;
+pos = (226,673);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = tilde;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+metricLeft = tilde;
+metricRight = tilde;
+production = uni1FC0.case;
+}

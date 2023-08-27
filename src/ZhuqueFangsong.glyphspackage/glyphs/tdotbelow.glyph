@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = tdotbelow;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-7,0);
+ref = dotbelowcomb;
+}
+);
+width = 330;
+}
+);
+locked = 1;
+production = uni1E6D;
+unicode = 7789;
+}

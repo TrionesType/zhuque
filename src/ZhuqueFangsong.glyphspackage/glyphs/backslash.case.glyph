@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = backslash.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,50);
+ref = backslash;
+}
+);
+width = 329;
+}
+);
+locked = 1;
+}

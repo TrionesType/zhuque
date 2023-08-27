@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "Ushort-cy";
+kernLeft = "U-cy";
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (108,184);
+ref = "brevecomb-cy.case";
+}
+);
+width = 578;
+}
+);
+locked = 1;
+production = uni040E;
+unicode = 1038;
+}

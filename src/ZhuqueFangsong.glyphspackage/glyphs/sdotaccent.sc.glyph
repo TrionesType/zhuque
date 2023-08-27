@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = sdotaccent.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (31,45);
+ref = dotaccentcomb;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+production = uni1E61.sc;
+}

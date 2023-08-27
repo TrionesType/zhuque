@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ocircumflexacute;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (152,140);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 692;
+}
+);
+locked = 1;
+production = uni1ED0;
+unicode = 7888;
+}

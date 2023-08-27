@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = gdotaccent.sc;
+kernLeft = O;
+kernRight = G;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (104,45);
+ref = dotaccentcomb;
+}
+);
+width = 566;
+}
+);
+locked = 1;
+}

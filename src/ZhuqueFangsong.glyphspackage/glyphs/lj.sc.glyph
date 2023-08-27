@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = lj.sc;
+kernLeft = H;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (442,0);
+ref = j.sc;
+}
+);
+width = 734;
+}
+);
+locked = 1;
+production = uni01C9.sc;
+}

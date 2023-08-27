@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = quotedblleft.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-130);
+ref = quotedblleft;
+}
+);
+width = 331;
+}
+);
+locked = 1;
+}

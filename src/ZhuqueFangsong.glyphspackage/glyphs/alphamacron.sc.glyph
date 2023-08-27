@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = alphamacron.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha.sc;
+},
+{
+pos = (55,45);
+ref = macroncomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1FB1.sc;
+}

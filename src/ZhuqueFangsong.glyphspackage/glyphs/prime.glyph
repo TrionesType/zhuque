@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = prime;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = primemod;
+}
+);
+width = 176;
+}
+);
+locked = 1;
+}

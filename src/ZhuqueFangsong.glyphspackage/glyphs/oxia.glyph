@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = oxia;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (198,452);
+},
+{
+name = _topleft;
+pos = (245,674);
+},
+{
+name = top;
+pos = (232,712);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni1FFD;
+unicode = 8189;
+}

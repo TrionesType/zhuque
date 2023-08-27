@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = upsilondasiaperispomeni.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (10,45);
+ref = dasiaperispomeni;
+}
+);
+width = 471;
+}
+);
+locked = 1;
+production = uni1F57.sc;
+}

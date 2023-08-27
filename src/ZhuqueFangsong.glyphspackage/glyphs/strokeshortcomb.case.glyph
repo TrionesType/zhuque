@@ -1,0 +1,39 @@
+{
+color = 2;
+glyphname = strokeshortcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (234,243);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,215,o),
+(167,216,o),
+(222,216,cs),
+(390,217,l),
+(395,256,l),
+(382,270,l),
+(382,270,o),
+(304,265,o),
+(245,265,cs),
+(185,265,o),
+(79,266,o),
+(79,266,c),
+(72,224,l),
+(81,215,l)
+);
+}
+);
+width = 467;
+}
+);
+locked = 1;
+production = uni0335.case;
+}

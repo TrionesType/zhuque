@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = oneeighth;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (249,0);
+ref = fraction;
+},
+{
+pos = (374,0);
+ref = eight.dnom;
+}
+);
+width = 701;
+}
+);
+locked = 1;
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 8539;
+}

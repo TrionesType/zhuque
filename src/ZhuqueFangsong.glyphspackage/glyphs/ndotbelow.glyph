@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ndotbelow;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (91,0);
+ref = dotbelowcomb;
+}
+);
+width = 548;
+}
+);
+locked = 1;
+production = uni1E47;
+unicode = 7751;
+}

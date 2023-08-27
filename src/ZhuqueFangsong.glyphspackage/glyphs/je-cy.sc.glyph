@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "je-cy.sc";
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = j.sc;
+}
+);
+width = 292;
+}
+);
+locked = 1;
+production = uni0458.sc;
+}

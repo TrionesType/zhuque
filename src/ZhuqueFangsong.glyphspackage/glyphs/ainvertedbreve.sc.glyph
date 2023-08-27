@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ainvertedbreve.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+alignment = 1;
+pos = (77,45);
+ref = breveinvertedcomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni0203.sc;
+}

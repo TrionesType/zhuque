@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = exclamdown.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (247,497);
+ref = exclam.sc;
+}
+);
+width = 247;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = Zeta;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Z;
+}
+);
+width = 568;
+}
+);
+locked = 1;
+unicode = 918;
+}

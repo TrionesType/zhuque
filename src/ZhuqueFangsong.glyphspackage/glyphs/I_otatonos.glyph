@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Iotatonos;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Iota;
+},
+{
+pos = (83,185);
+ref = tonos;
+}
+);
+width = 461;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+unicode = 906;
+}

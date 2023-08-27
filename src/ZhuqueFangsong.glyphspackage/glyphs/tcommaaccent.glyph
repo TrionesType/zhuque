@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = tcommaaccent;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (-15,0);
+ref = commaaccentcomb;
+}
+);
+width = 330;
+}
+);
+locked = 1;
+production = uni021B;
+unicode = 539;
+}

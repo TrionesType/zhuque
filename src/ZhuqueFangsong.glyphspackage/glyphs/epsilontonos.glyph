@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = epsilontonos;
+kernLeft = epsilon;
+kernRight = epsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (26,0);
+ref = tonos;
+}
+);
+width = 421;
+}
+);
+locked = 1;
+unicode = 941;
+}

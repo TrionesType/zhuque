@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Dcaron;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (132,0);
+ref = caroncomb.case;
+}
+);
+width = 703;
+}
+);
+locked = 1;
+unicode = 270;
+}

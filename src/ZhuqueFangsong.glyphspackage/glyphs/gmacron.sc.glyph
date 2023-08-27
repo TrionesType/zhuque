@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = gmacron.sc;
+kernLeft = O;
+kernRight = G;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g.sc;
+},
+{
+alignment = 1;
+pos = (103,45);
+ref = macroncomb;
+}
+);
+width = 566;
+}
+);
+locked = 1;
+production = uni1E21.sc;
+}

@@ -1,0 +1,30 @@
+{
+color = 2;
+glyphname = macroncomb_gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = top;
+pos = (200,937);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = macroncomb_gravecomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+metricLeft = "=macroncomb";
+metricRight = "=macroncomb";
+production = uni03040300.case;
+}

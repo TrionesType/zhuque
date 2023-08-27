@@ -1,0 +1,20 @@
+{
+color = 2;
+glyphname = quotesinglbase;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 238;
+}
+);
+locked = 1;
+unicode = 8218;
+}

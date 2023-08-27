@@ -1,0 +1,30 @@
+{
+color = 2;
+glyphname = ccedillaacute;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+alignment = 1;
+pos = (64,0);
+ref = cedillacomb;
+},
+{
+alignment = 1;
+pos = (32,0);
+ref = acutecomb;
+}
+);
+width = 424;
+}
+);
+locked = 1;
+production = uni1E09;
+unicode = 7689;
+}

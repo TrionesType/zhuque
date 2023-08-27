@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = iacute.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-66,45);
+ref = acutecomb;
+}
+);
+width = 319;
+}
+);
+locked = 1;
+}

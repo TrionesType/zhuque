@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = ecircumflex.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (63,24);
+ref = circumflexcomb;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+}

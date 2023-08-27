@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = six.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = six.sinf;
+}
+);
+width = 312;
+}
+);
+locked = 1;
+metricLeft = six.sinf;
+metricRight = six.sinf;
+}

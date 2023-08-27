@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Mdotbelow;
+kernLeft = M;
+kernRight = M;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = M;
+},
+{
+alignment = 1;
+pos = (200,0);
+ref = dotbelowcomb;
+}
+);
+width = 847;
+}
+);
+locked = 1;
+production = uni1E42;
+unicode = 7746;
+}

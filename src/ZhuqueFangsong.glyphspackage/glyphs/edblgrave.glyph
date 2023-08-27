@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = edblgrave;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+alignment = 1;
+pos = (59,0);
+ref = dblgravecomb;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+production = uni0205;
+unicode = 517;
+}

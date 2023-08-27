@@ -1,0 +1,61 @@
+{
+color = 2;
+export = 0;
+glyphname = "descender-cy.case";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+pos = (84,106);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(193,-175,l),
+(186,-100,o),
+(183,-34,o),
+(182,41,c),
+(174,51,l),
+(114,53,ls),
+(91,54,o),
+(84,66,o),
+(84,106,c),
+(22,0,l),
+(85,0,o),
+(113,-13,o),
+(124,-75,cs),
+(142,-179,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,0,l),
+(85,0,o),
+(118,-12,o),
+(124,-75,cs),
+(132,-155,l),
+(183,-151,l),
+(182,41,l),
+(174,51,l),
+(114,53,ls),
+(91,54,o),
+(84,66,o),
+(84,106,c)
+);
+}
+);
+width = 255;
+}
+);
+locked = 1;
+production = descendercy.case;
+}

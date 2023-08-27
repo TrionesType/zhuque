@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = gdieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = dieresiscomb;
+}
+);
+width = 501;
+}
+);
+locked = 1;
+}

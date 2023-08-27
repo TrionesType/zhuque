@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = blackSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,81,l),
+(360,377,l),
+(64,377,l),
+(64,81,l)
+);
+}
+);
+width = 424;
+}
+);
+locked = 1;
+production = filledbox;
+unicode = 9632;
+}

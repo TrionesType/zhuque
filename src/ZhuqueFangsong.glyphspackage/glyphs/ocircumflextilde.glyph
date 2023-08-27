@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ocircumflextilde;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (55,-35);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 498;
+}
+);
+locked = 1;
+production = uni1ED7;
+unicode = 7895;
+}

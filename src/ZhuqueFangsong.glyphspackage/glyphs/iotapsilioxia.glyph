@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = iotapsilioxia;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-96,0);
+ref = psilioxia;
+}
+);
+width = 268;
+}
+);
+locked = 1;
+production = uni1F34;
+unicode = 7988;
+}

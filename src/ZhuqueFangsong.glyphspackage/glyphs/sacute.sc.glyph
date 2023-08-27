@@ -1,0 +1,22 @@
+{
+color = 2;
+glyphname = sacute.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (2,45);
+ref = acutecomb;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+}

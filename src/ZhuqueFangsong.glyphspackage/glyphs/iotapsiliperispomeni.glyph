@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = iotapsiliperispomeni;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-96,0);
+ref = psiliperispomeni;
+}
+);
+width = 268;
+}
+);
+locked = 1;
+production = uni1F36;
+unicode = 7990;
+}

@@ -1,0 +1,53 @@
+{
+color = 2;
+glyphname = saltillo;
+kernLeft = saltillo;
+kernRight = saltillo;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(133,480,l),
+(59,465,l),
+(57,409,o),
+(47,298,o),
+(29,202,c),
+(40,200,l),
+(69,215,l),
+(97,305,o),
+(126,415,o),
+(140,471,c)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(87,243,l),
+(109,344,o),
+(127,467,o),
+(134,530,c),
+(127,539,l),
+(54,524,l),
+(58,461,o),
+(61,337,o),
+(50,230,c),
+(60,228,l)
+);
+}
+);
+width = 173;
+}
+);
+locked = 1;
+metricLeft = "=Saltillo";
+metricRight = "=Saltillo";
+production = uniA78C;
+unicode = 42892;
+}

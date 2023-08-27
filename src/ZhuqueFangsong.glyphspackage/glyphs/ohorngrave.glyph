@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = ohorngrave;
+kernLeft = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (54,0);
+ref = gravecomb;
+}
+);
+width = 518;
+}
+);
+locked = 1;
+production = uni1EDD;
+unicode = 7901;
+}

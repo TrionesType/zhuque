@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Omegapsili;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Omega;
+},
+{
+pos = (262,185);
+ref = psili.case;
+}
+);
+width = 861;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = Omega;
+production = uni1F68;
+unicode = 8040;
+}

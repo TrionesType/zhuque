@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = "er-cy.sc";
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = p.sc;
+}
+);
+width = 479;
+}
+);
+locked = 1;
+production = uni0440.sc;
+}
