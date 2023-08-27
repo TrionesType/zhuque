@@ -1,6 +1,6 @@
-[English](docs/README-en.md)
-
 # 朱雀仿宋
+
+[English](docs/README-en.md)
 
 ![](docs/preview.png)
 
