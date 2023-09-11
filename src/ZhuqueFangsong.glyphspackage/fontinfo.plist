@@ -1,5 +1,5 @@
 {
-.appVersion = "3213";
+.appVersion = "3217";
 .formatVersion = 3;
 classes = (
 {
@@ -1777,9 +1777,9 @@ pos = 497;
 name = Regular;
 userData = {
 GSCornerRadius = 15;
-GSOffsetHorizontal = -1.5;
+GSOffsetHorizontal = -1;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = -1.5;
+GSOffsetVertical = 0;
 };
 visible = 1;
 }
@@ -1888,5 +1888,5 @@ m01 = {
 };
 };
 versionMajor = 0;
-versionMinor = 107;
+versionMinor = 108;
 }
