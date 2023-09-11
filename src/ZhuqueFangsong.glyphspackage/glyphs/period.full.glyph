@@ -1,10 +1,17 @@
 {
-color = 7;
-export = 0;
+color = 3;
 glyphname = period.full;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (9,-38);
+ref = period;
+scale = (1.0643,1.0643);
+}
+);
 width = 1000;
 }
 );

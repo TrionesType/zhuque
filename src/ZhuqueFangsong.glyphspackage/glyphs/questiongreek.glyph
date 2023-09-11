@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 3;
 glyphname = questiongreek;
 layers = (
 {
@@ -12,7 +12,6 @@ ref = semicolon;
 width = 238;
 }
 );
-locked = 1;
 metricLeft = "=semicolon";
 metricRight = "=semicolon";
 production = uni037E;

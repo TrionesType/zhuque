@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 3;
 glyphname = quotedblleft.sc;
 layers = (
 {
@@ -13,5 +13,4 @@ ref = quotedblleft;
 width = 331;
 }
 );
-locked = 1;
 }

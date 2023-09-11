@@ -1,10 +1,15 @@
 {
-color = 7;
-export = 0;
+color = 3;
 glyphname = hyphen.full;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+pos = (320,0);
+ref = hyphen;
+}
+);
 width = 1000;
 }
 );

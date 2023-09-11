@@ -3,7 +3,7 @@ glyphname = "ko-hira";
 layers = (
 {
 backgroundImage = {
-imagePath = "../../字稿/朱雀仿宋 假名/QQ20230719-164912@2x.png";
+imagePath = "/Users/yeong-sy-han/字稿/朱雀仿宋 假名/QQ20230719-164912@2x.png";
 pos = (81,1077);
 scale = (2.1119,2.1119);
 };
@@ -65,13 +65,8 @@ nodes = (
 }
 );
 width = 1000;
-},
-{
-associatedMasterId = m01;
-layerId = "EA014AD3-E011-4082-9F92-FD63EA3201F3";
-name = "low-contrast";
-width = 600;
 }
 );
+locked = 1;
 unicode = 12371;
 }

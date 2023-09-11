@@ -1,10 +1,27 @@
 {
-color = 7;
-export = 0;
+color = 3;
 glyphname = blacklenticularbracketleft;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(687,-75,l),
+(925,-75,l),
+(925,-44,l),
+(847,72,o),
+(802,208,o),
+(802,353,cs),
+(802,498,o),
+(847,634,o),
+(925,750,c),
+(925,777,l),
+(687,777,l)
+);
+}
+);
 width = 1000;
 }
 );

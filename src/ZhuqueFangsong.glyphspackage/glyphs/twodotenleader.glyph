@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 3;
 glyphname = twodotenleader;
 kernLeft = period;
 kernRight = period;
@@ -58,6 +58,5 @@ ref = period;
 width = 448;
 }
 );
-locked = 1;
 unicode = 8229;
 }

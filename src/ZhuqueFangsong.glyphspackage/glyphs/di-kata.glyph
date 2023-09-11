@@ -128,13 +128,8 @@ nodes = (
 }
 );
 width = 1000;
-},
-{
-associatedMasterId = m01;
-layerId = "EA014AD3-E011-4082-9F92-FD63EA3201F3";
-name = "low-contrast";
-width = 1000;
 }
 );
+locked = 1;
 unicode = 12482;
 }

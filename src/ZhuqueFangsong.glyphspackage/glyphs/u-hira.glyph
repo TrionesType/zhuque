@@ -2,11 +2,6 @@
 glyphname = "u-hira";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../字稿/朱雀仿宋 假名/iwEcAqNwbmcDAQTRBAAF0QSaBrCHHo81xCzLKwSqWF-NQNUAB9MAAAAA4FcyIggACaJpbQoAC9IABcxi.png_620x10000q90.jpg";
-pos = (89,1018);
-scale = (1.2969,1.2969);
-};
 layerId = m01;
 shapes = (
 {
@@ -52,8 +47,8 @@ nodes = (
 (639,179,o),
 (570,20,o),
 (362,-68,c),
-(375,-92,l),
-(645,-1,o),
+(379,-100,l),
+(649,-9,o),
 (719,184,o),
 (719,288,cs),
 (719,429,o),
@@ -69,68 +64,8 @@ nodes = (
 }
 );
 width = 1000;
-},
-{
-associatedMasterId = m01;
-backgroundImage = {
-imagePath = "../../字稿/朱雀仿宋 假名/iwEcAqNwbmcDAQTRBAAF0QSaBrCHHo81xCzLKwSqWF-NQNUAB9MAAAAA4FcyIggACaJpbQoAC9IABcxi.png_620x10000q90.jpg";
+}
+);
 locked = 1;
-pos = (97,-126);
-scale = (1.2969,1.2969);
-};
-layerId = "CA8A212F-569B-4ECC-913F-CE434422A550";
-name = "23年7月18日 15:19";
-shapes = (
-{
-closed = 1;
-nodes = (
-(640,548,o),
-(659,547,o),
-(664,573,cs),
-(669,598,o),
-(669,633,o),
-(664,654,cs),
-(661,661,o),
-(655,665,o),
-(645,671,cs),
-(585,706,o),
-(487,742,o),
-(391,778,c),
-(380,765,l),
-(477,705,o),
-(561,642,o),
-(628,565,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(146,365,l),
-(279,313,l),
-(315,345,o),
-(355,382,o),
-(412,411,cs),
-(570,491,o),
-(725,155,o),
-(426,-91,c),
-(457,-102,l),
-(911,231,o),
-(573,563,o),
-(355,436,cs),
-(290,396,o),
-(250,376,o),
-(154,380,c)
-);
-}
-);
-width = 1000;
-},
-{
-associatedMasterId = m01;
-layerId = "EA014AD3-E011-4082-9F92-FD63EA3201F3";
-name = "low-contrast";
-width = 600;
-}
-);
 unicode = 12358;
 }

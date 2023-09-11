@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 3;
 glyphname = quotedblleft;
 kernLeft = asterisk;
 kernRight = asterisk;
@@ -70,7 +70,6 @@ ref = quoteleft;
 width = 331;
 }
 );
-locked = 1;
 metricLeft = quoteleft;
 metricRight = quoteleft;
 unicode = 8220;

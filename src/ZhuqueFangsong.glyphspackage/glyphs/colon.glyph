@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 3;
 glyphname = colon;
 layers = (
 {
@@ -57,6 +57,5 @@ ref = period;
 width = 238;
 }
 );
-locked = 1;
 unicode = 58;
 }

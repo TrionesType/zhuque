@@ -1,12 +1,12 @@
 {
-color = 7;
+color = 3;
 glyphname = comma.full;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (98,28);
+pos = (98,68);
 ref = comma;
 scale = (1.1,1.1);
 }
