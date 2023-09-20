@@ -54,7 +54,7 @@
 
 「朱雀宋朝」正式版がリリースされるまで、「朱雀」チーム以外によって修正された本フォントの**非公式版を大量に広めないでください**。もし「朱雀仿宋」を改良したい場合、また私たちのデザインのワークに参加する方法などについて、貴重なご意見やご提案をお待ちしております。
 
-「朱雀」のラテン文字と記号などは現在、 [Alegreya](https://github.com/huertatipografica/Alegreya) の外挿補間インスタンスを使用しています。Alegreyaは、Huerta Tipográfica の　Juan Pablo del Peral　によって作成され、SIL Open Font License 1.1　で公開されています。
+「朱雀」のラテン文字と記号などは現在、 [Alegreya](https://github.com/huertatipografica/Alegreya) の外挿補間インスタンスを使用しています。Alegreyaは、Huerta Tipográfica の Juan Pablo del Peral によって作成され、SIL Open Font License 1.1 で公開されています。
 
 ## 「朱雀」のチーム
 
