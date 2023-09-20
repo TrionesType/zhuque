@@ -1,6 +1,6 @@
 # 朱雀仿宋
 
-[English](docs/README-en.md)
+[English](docs/README-en.md) | [繁體中文](docs/README-zh-Hant.md) | [日本語](docs/README-ja.md)
 
 ![](docs/preview.png)
 
@@ -13,10 +13,6 @@
 当前我们发布的「朱雀仿宋」仍为「预览测试版」，尚处于项目早期阶段；无论是设计风格、字数，还是字形、排版质量，都不代表正式版情况。因此，
 
 ## 「朱雀」的未来，由你定义
-
-在开发「朱雀」的过程中，我们陷入了选择困难。于是，我们决定提早发布测试版，倾听「朱雀仿宋」的用户想要什么。我们真诚地邀请您拨冗填写[【此问卷】](https://www.wjx.cn/vm/QQgadJY.aspx)。
-
-![preview.png](docs/questionnaire.png)
 
 如果您有任何问题、意见建议、合作意向，我们也欢迎您加入「朱雀仿宋反馈」微信群；或移步 [Issues](https://github.com/TrionesType/zhuque/issues) 提出。
 
