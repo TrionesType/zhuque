@@ -1,0 +1,26 @@
+{
+color = 9;
+glyphname = twodotleader.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (566,101);
+ref = period;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (566,311);
+ref = period;
+}
+);
+width = 305;
+}
+);
+locked = 1;
+unicode = 65072;
+}

@@ -1,0 +1,17 @@
+{
+color = 9;
+glyphname = wavyunderscore.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = underscore;
+}
+);
+width = 458;
+}
+);
+locked = 1;
+unicode = 65076;
+}

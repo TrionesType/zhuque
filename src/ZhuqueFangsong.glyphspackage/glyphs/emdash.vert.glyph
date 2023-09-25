@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = emdash.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90.24661;
+pos = (252,815);
+ref = emdash;
+}
+);
+width = 918;
+}
+);
+locked = 1;
+unicode = 65073;
+}

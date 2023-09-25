@@ -1,0 +1,18 @@
+{
+color = 9;
+glyphname = tortoiseshellbracketright.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90.01949;
+pos = (173,890);
+ref = tortoiseshellbracketright;
+}
+);
+width = 1000;
+}
+);
+unicode = 65082;
+}

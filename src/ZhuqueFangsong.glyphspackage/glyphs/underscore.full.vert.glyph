@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = underscore.full.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90.24661;
+pos = (-36,815);
+ref = emdash;
+}
+);
+width = 1000;
+}
+);
+locked = 1;
+unicode = 65075;
+}

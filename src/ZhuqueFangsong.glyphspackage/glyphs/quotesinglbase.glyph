@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 8;
 glyphname = quotesinglbase;
 kernLeft = period;
 kernRight = period;
@@ -8,29 +8,8 @@ layers = (
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(106,-116,o),
-(141,-85,o),
-(186,-36,cs),
-(203,-17,o),
-(215,-5,o),
-(224,5,cs),
-(234,14,o),
-(236,21,o),
-(227,32,cs),
-(218,46,o),
-(186,80,o),
-(160,102,c),
-(109,63,l),
-(120,46,o),
-(126,29,o),
-(126,12,cs),
-(126,-26,o),
-(77,-77,o),
-(-17,-150,c),
-(14,-187,l)
-);
+alignment = -1;
+ref = comma;
 }
 );
 width = 238;
