@@ -77,4 +77,5 @@ We are excited to work together with you and to create the types belonging to th
 ## Acknowledgements
 
 - Special thanks to Terry Wang’s contribution to the collection and research of “Nansong” types.
+- [Siphercase](https://github.com/Siphercase) supplemented some IPA glyphs.
 - [LXGW](https://github.com/lxgw)’s [“LXGW Wenkai”](https://github.com/lxgw/LxgwWenKai), [Fontworks Klee One](https://github.com/fontworks-fonts/Klee), and [Source Han Serif](https://github.com/adobe-fonts/source-han-serif). These open-source fonts serve as letterform references for both human designers and AI in the development of this project.
