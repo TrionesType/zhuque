@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 2;
 glyphname = quoteright;
 kernLeft = asterisk;
 kernRight = asterisk;
@@ -67,5 +67,6 @@ nodes = (
 width = 176;
 }
 );
+locked = 1;
 unicode = 8217;
 }

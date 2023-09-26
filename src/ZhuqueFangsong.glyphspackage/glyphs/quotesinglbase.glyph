@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 2;
 glyphname = quotesinglbase;
 kernLeft = period;
 kernRight = period;
@@ -15,5 +15,6 @@ ref = comma;
 width = 238;
 }
 );
+locked = 1;
 unicode = 8218;
 }

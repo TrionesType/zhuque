@@ -14,6 +14,5 @@ ref = braceright.full;
 width = 1000;
 }
 );
-locked = 1;
 unicode = 65080;
 }

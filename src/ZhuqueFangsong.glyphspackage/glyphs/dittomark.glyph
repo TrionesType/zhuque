@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 2;
 glyphname = dittomark;
 layers = (
 {
@@ -33,5 +33,6 @@ nodes = (
 width = 1000;
 }
 );
+locked = 1;
 unicode = 12291;
 }

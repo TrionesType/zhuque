@@ -1,0 +1,15 @@
+{
+color = 9;
+glyphname = asciitilde.full.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = wavedash.vert;
+}
+);
+width = 1000;
+}
+);
+}

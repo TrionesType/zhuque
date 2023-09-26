@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 2;
 glyphname = semicolon;
 layers = (
 {
@@ -18,5 +18,6 @@ ref = period;
 width = 238;
 }
 );
+locked = 1;
 unicode = 59;
 }

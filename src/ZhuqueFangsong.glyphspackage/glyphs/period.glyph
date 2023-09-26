@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 2;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
@@ -28,5 +28,6 @@ nodes = (
 width = 305;
 }
 );
+locked = 1;
 unicode = 46;
 }

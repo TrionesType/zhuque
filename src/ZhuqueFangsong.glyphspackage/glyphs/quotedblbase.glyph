@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 2;
 glyphname = quotedblbase;
 kernLeft = period;
 kernRight = period;
@@ -57,5 +57,6 @@ nodes = (
 width = 397;
 }
 );
+locked = 1;
 unicode = 8222;
 }
