@@ -62,6 +62,12 @@
 
 朱雀的西文与符号暂采用 [Alegreya](https://github.com/huertatipografica/Alegreya) 的一个外插值实例。Alegreya 由 Huerta Tipográfica 的 Juan Pablo del Peral 创作，同样以 SIL Open Font License 1.1 发布。
 
+## 捐赠
+
+如果朱雀帮助到了您，我们非常感谢您能捐赠本项目，您的捐赠将会帮助项目更好向前发展。捐赠时，烦请添加**付款备注「捐赠朱雀」**，付款前请确认收款方为「智琮科技」。在此过程中遇到任何问题，可通过「朱雀仿宋反馈」微信群联系我们。
+
+![](docs/sponsor_qr.png)
+
 ## 「朱雀」团队
 
 **主创：**[余俊益](https://github.com/Lottin0113)
