@@ -1,5 +1,5 @@
 {
-.appVersion = "3219";
+.appVersion = "3221";
 .formatVersion = 3;
 classes = (
 {
@@ -1772,6 +1772,8 @@ pos = 452;
 {
 over = 16;
 pos = 497;
+},
+{
 }
 );
 name = Regular;
@@ -1803,6 +1805,9 @@ type = "x-height";
 {
 filter = "case == 3";
 type = "x-height";
+},
+{
+type = "italic angle";
 }
 );
 properties = (
