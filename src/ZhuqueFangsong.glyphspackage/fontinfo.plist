@@ -1,5 +1,5 @@
 {
-.appVersion = "3221";
+.appVersion = "3223";
 .formatVersion = 3;
 classes = (
 {
@@ -1949,15 +1949,11 @@ type = "italic angle";
 );
 properties = (
 {
-key = familyNames;
+key = copyrights;
 values = (
 {
-language = ZHS;
-value = "朱雀仿宋（预览测试版）";
-},
-{
 language = dflt;
-value = "Zhuque Fangsong (technical preview)";
+value = "Copyright 2023 JadeFoci";
 }
 );
 },
@@ -1979,6 +1975,32 @@ key = designerURL;
 value = "http://www.trionestype.com/";
 },
 {
+key = familyNames;
+values = (
+{
+language = ZHS;
+value = "朱雀仿宋（预览测试版）";
+},
+{
+language = dflt;
+value = "Zhuque Fangsong (technical preview)";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -1998,28 +2020,6 @@ value = "http://www.trionestype.com/";
 {
 key = vendorID;
 value = TRIO;
-},
-{
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright 2023 JadeFoci";
-}
-);
 }
 );
 unitsPerEm = 1000;
