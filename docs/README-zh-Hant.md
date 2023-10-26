@@ -77,4 +77,5 @@
 ## 致謝
 
 - 特別鳴謝：特里王，在「南宋」活字收集、整理、研究上的貢獻。
+- [Siphercase](https://github.com/Siphercase) 補充了部分國際音標字形。
 - [落霞孤鶩](https://github.com/lxgw)的[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)、[Fontworks Klee One](https://github.com/fontworks-fonts/Klee)、[思源宋體](https://github.com/adobe-fonts/source-han-serif)，這些開源字體是本專案人與機在設計過程中的寫法參考。

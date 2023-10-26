@@ -1,0 +1,18 @@
+{
+color = 9;
+glyphname = dblanglebracketright.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90.4339;
+pos = (177,867);
+ref = dblanglebracketright;
+}
+);
+width = 1000;
+}
+);
+unicode = 65086;
+}

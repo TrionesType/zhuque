@@ -1,0 +1,18 @@
+{
+color = 9;
+glyphname = blacklenticularbracketright.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -89.76641;
+pos = (153,834);
+ref = blacklenticularbracketright;
+}
+);
+width = 1000;
+}
+);
+unicode = 65084;
+}

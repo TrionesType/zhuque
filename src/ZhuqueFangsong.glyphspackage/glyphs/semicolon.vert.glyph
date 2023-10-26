@@ -1,0 +1,22 @@
+{
+color = 9;
+glyphname = semicolon.vert;
+layers = (
+{
+guides = (
+{
+pos = (500,350);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (693,305);
+ref = semicolon;
+}
+);
+width = 1000;
+}
+);
+unicode = 65044;
+}

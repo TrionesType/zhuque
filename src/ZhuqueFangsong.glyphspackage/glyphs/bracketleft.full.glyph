@@ -1,12 +1,12 @@
 {
-color = 7;
+color = 9;
 glyphname = bracketleft.full;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (545,100);
+pos = (533,100);
 ref = bracketleft;
 }
 );

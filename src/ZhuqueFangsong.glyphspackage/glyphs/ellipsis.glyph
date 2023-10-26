@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 2;
 glyphname = ellipsis;
 kernLeft = period;
 kernRight = period;
@@ -25,5 +25,6 @@ ref = period;
 width = 658;
 }
 );
+locked = 1;
 unicode = 8230;
 }

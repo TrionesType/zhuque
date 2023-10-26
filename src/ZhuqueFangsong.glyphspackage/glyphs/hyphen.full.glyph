@@ -1,13 +1,13 @@
 {
-color = 3;
+color = 9;
 glyphname = hyphen.full;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (320,0);
-ref = hyphen;
+pos = (41,96);
+ref = emdash;
 }
 );
 width = 1000;

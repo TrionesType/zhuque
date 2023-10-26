@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = exclam.full.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (510,83);
+ref = exclam.full;
+}
+);
+width = 1000;
+}
+);
+}
