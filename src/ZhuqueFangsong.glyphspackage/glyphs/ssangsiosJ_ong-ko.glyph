@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = "ssangsiosJong-ko";
+layers = (
+{
+layerId = m01;
+width = 980;
+}
+);
+unicode = 4539;
+}
