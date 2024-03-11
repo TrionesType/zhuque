@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = epsilontonos.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.525;
+layerId = m01;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (56,45);
+ref = tonos;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+}

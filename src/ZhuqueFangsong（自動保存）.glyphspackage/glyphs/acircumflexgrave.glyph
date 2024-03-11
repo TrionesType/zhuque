@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = acircumflexgrave;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (17,-35);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 466;
+}
+);
+locked = 1;
+production = uni1EA7;
+unicode = 7847;
+}

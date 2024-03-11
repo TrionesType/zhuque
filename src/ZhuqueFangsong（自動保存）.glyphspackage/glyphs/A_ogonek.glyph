@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Aogonek;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.496;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (291,0);
+ref = ogonekcomb;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+unicode = 260;
+}

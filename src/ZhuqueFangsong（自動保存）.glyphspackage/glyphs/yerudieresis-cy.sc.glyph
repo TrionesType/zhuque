@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = "yerudieresis-cy.sc";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+ref = "yeru-cy.sc";
+},
+{
+pos = (172,45);
+ref = dieresiscomb;
+}
+);
+width = 739;
+}
+);
+locked = 1;
+production = uni04F9.sc;
+}

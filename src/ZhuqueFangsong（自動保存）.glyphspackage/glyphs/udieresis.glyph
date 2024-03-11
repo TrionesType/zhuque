@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = udieresis;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+.lastUpdate = 731845427.506;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = dieresiscomb;
+}
+);
+width = 541;
+}
+);
+locked = 1;
+unicode = 252;
+}

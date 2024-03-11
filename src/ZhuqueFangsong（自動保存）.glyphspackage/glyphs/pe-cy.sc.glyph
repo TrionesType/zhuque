@@ -1,0 +1,33 @@
+{
+color = 2;
+glyphname = "pe-cy.sc";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.517;
+layerId = m01;
+shapes = (
+{
+ref = pi.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 608;
+}
+);
+locked = 1;
+production = uni043F.sc;
+userData = {
+RMXScaler = {
+source = "Pe-cy";
+};
+};
+}

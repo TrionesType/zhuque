@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = "Chedescender-cy";
+kernLeft = "Che-cy";
+kernRight = "De-cy";
+layers = (
+{
+.lastUpdate = 731845427.514;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = "Che-cy";
+},
+{
+pos = (386,0);
+ref = "descender-cy.case";
+}
+);
+width = 612;
+}
+);
+locked = 1;
+production = uni04B6;
+unicode = 1206;
+}

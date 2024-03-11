@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Wacute;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (277,0);
+ref = acutecomb.case;
+}
+);
+width = 932;
+}
+);
+locked = 1;
+unicode = 7810;
+}

@@ -1,0 +1,44 @@
+{
+color = 2;
+glyphname = dotaccentcomb;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (199,452);
+},
+{
+name = top;
+pos = (199,592);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,582,o),
+(253,609,o),
+(253,641,cs),
+(253,667,o),
+(236,692,o),
+(204,692,cs),
+(170,692,o),
+(145,665,o),
+(145,633,cs),
+(145,608,o),
+(161,582,o),
+(194,582,cs)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni0307;
+unicode = 775;
+}

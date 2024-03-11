@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphapsilioxiaprosgegrammeni.ss05;
+kernLeft = Alphatonos;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.522;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (97,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+pos = (645,0);
+ref = psilioxia.case;
+}
+);
+width = 1009;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota";
+production = uni1F8C.ss05;
+}

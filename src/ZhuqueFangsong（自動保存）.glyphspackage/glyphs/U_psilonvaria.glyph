@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Upsilonvaria;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (178,0);
+ref = Upsilon;
+},
+{
+pos = (241,185);
+ref = varia;
+}
+);
+width = 713;
+}
+);
+locked = 1;
+metricLeft = "=Upsilontonos";
+metricRight = Upsilon;
+production = uni1FEA;
+unicode = 8170;
+}

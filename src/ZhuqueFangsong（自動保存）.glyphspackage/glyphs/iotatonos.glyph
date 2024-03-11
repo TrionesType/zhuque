@@ -1,0 +1,42 @@
+{
+color = 2;
+glyphname = iotatonos;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.522;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,714,l),
+(233,731,l),
+(224,728,l),
+(224,728,o),
+(204,606,o),
+(180,503,c),
+(207,496,l),
+(216,499,l),
+(291,704,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-68,0);
+ref = tonos;
+}
+);
+width = 268;
+}
+);
+locked = 1;
+unicode = 943;
+}

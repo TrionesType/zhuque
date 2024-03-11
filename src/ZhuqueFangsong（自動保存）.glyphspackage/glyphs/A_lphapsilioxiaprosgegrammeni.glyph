@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Alphapsilioxiaprosgegrammeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.519;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (157,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (235,195);
+ref = psilioxia.case;
+}
+);
+width = 741;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=A";
+production = uni1F8C;
+unicode = 8076;
+}

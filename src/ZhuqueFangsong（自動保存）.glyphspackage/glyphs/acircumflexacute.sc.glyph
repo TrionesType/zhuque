@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = acircumflexacute.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.508;
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (62,45);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EA5.sc;
+}

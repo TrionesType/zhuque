@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = rhodasia.sc;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = rho.sc;
+},
+{
+pos = (49,45);
+ref = dasia;
+}
+);
+width = 479;
+}
+);
+locked = 1;
+production = uni1FE5.sc;
+}

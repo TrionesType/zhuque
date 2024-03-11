@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = egrave.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.509;
+layerId = m01;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (58,45);
+ref = gravecomb;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+}

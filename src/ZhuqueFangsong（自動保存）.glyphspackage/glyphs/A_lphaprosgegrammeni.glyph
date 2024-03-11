@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Alphaprosgegrammeni;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.519;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (137,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+production = uni1FBC;
+unicode = 8124;
+}

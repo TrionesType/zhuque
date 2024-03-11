@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = otilde.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.511;
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+alignment = 1;
+pos = (93,45);
+ref = tildecomb;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+}

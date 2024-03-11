@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omicronpsilivaria.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (67,45);
+ref = psilivaria;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni1F42.sc;
+}

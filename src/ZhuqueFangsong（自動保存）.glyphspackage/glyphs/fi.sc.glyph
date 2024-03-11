@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = fi.sc;
+layers = (
+{
+.lastUpdate = 731845427.513;
+layerId = m01;
+shapes = (
+{
+ref = f.sc;
+},
+{
+pos = (446,0);
+ref = i.sc;
+}
+);
+width = 765;
+}
+);
+locked = 1;
+}

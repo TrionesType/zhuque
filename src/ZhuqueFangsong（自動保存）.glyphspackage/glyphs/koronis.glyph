@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = koronis;
+layers = (
+{
+.lastUpdate = 731845427.541;
+anchors = (
+{
+name = _top;
+pos = (79,452);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = psili;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+metricLeft = "=quoteright";
+metricRight = "=quoteright";
+production = uni1FBD;
+unicode = 8125;
+}

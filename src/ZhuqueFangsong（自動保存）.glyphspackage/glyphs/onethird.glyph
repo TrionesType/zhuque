@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = onethird;
+layers = (
+{
+.lastUpdate = 731845427.539;
+layerId = m01;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (249,0);
+ref = fraction;
+},
+{
+pos = (374,0);
+ref = three.dnom;
+}
+);
+width = 667;
+}
+);
+locked = 1;
+metricLeft = one.numr;
+metricRight = one.numr;
+production = uni2153;
+unicode = 8531;
+}

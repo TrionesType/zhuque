@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Omegapsilioxiaprosgegrammeni.sc.ss05;
+kernLeft = Omegatonos;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.53;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (187,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (922,45);
+ref = psilioxia.case;
+}
+);
+width = 1307;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=iota.sc";
+production = uni1FAC.sc.ss05;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = rlinebelow;
+kernLeft = n;
+kernRight = r;
+layers = (
+{
+.lastUpdate = 731845427.505;
+layerId = m01;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-40,0);
+ref = macronbelowcomb;
+}
+);
+width = 383;
+}
+);
+locked = 1;
+production = uni1E5F;
+unicode = 7775;
+}

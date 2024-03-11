@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Uhornhookabove;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (150,165);
+ref = hookabovecomb;
+}
+);
+width = 691;
+}
+);
+locked = 1;
+production = uni1EEC;
+unicode = 7916;
+}

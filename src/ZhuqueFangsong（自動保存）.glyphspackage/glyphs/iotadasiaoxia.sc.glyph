@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = iotadasiaoxia.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.527;
+layerId = m01;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-66,45);
+ref = dasiaoxia;
+}
+);
+width = 319;
+}
+);
+locked = 1;
+production = uni1F35.sc;
+}

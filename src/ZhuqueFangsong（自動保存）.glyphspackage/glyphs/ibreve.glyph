@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ibreve;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+.lastUpdate = 731845427.503;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-61,0);
+ref = brevecomb;
+}
+);
+width = 282;
+}
+);
+locked = 1;
+unicode = 301;
+}

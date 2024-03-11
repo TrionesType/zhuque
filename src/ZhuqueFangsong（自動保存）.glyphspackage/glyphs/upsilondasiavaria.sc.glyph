@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = upsilondasiavaria.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (10,45);
+ref = dasiavaria;
+}
+);
+width = 471;
+}
+);
+locked = 1;
+production = uni1F53.sc;
+}

@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ahookabove.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.508;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (64,-10);
+ref = hookabovecomb;
+},
+{
+alignment = -1;
+ref = a.sc;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EA3.sc;
+}

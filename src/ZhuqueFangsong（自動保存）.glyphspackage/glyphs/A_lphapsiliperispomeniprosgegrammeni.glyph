@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Alphapsiliperispomeniprosgegrammeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.519;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (119,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (197,195);
+ref = psiliperispomeni.case;
+}
+);
+width = 703;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=A";
+production = uni1F8E;
+unicode = 8078;
+}

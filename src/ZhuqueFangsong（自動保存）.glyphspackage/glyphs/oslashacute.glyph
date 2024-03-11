@@ -1,0 +1,66 @@
+{
+color = 2;
+glyphname = oslashacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 731845427.505;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,520,l),
+(417,532,l),
+(388,539,l),
+(324,417,l),
+(357,403,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(357,403,l),
+(324,417,l),
+(144,70,l),
+(176,56,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(65,-82,l),
+(67,-92,l),
+(94,-98,l),
+(176,56,l),
+(144,70,l)
+);
+},
+{
+ref = o;
+},
+{
+pos = (53,0);
+ref = acutecomb;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = oslash;
+},
+{
+alignment = -1;
+pos = (57,0);
+ref = acutecomb;
+}
+);
+width = 498;
+}
+);
+locked = 1;
+unicode = 511;
+}

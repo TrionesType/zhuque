@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = braceleft.full.vert;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+angle = -90.10011;
+pos = (148,730);
+ref = braceleft.full;
+}
+);
+width = 1000;
+}
+);
+unicode = 65079;
+}

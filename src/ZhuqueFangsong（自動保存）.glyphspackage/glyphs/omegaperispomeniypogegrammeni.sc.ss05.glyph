@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omegaperispomeniypogegrammeni.sc.ss05;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+.lastUpdate = 731845427.531;
+layerId = m01;
+shapes = (
+{
+ref = omegaypogegrammeni.sc.ss05;
+},
+{
+pos = (141,25);
+ref = perispomeni;
+}
+);
+width = 992;
+}
+);
+locked = 1;
+production = uni1FF7.sc.ss05;
+}

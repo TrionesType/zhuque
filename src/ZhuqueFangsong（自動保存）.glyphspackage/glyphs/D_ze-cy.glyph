@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = "Dze-cy";
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.514;
+layerId = m01;
+shapes = (
+{
+ref = S;
+}
+);
+width = 530;
+}
+);
+locked = 1;
+production = uni0405;
+unicode = 1029;
+}

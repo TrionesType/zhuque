@@ -1,0 +1,33 @@
+{
+color = 2;
+glyphname = "obarred-cy.sc";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+ref = "fita-cy.sc";
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 585;
+}
+);
+locked = 1;
+production = uni04E9.sc;
+userData = {
+RMXScaler = {
+source = "Obarred-cy";
+};
+};
+}

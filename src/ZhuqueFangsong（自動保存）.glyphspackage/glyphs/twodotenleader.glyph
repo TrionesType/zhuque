@@ -1,0 +1,64 @@
+{
+color = 2;
+glyphname = twodotenleader;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+.lastUpdate = 731845427.54;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,-12,o),
+(179,16,o),
+(179,50,cs),
+(179,81,o),
+(159,107,o),
+(122,107,cs),
+(84,107,o),
+(60,79,o),
+(60,45,cs),
+(60,16,o),
+(78,-12,o),
+(116,-12,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(365,-12,o),
+(389,16,o),
+(389,50,cs),
+(389,81,o),
+(369,107,o),
+(332,107,cs),
+(294,107,o),
+(270,79,o),
+(270,45,cs),
+(270,16,o),
+(288,-12,o),
+(326,-12,cs)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (210,0);
+ref = period;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+unicode = 8229;
+}

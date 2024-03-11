@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = emacronacute;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+.lastUpdate = 731845427.502;
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+alignment = 1;
+pos = (55,0);
+ref = macroncomb_acutecomb;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+production = uni1E17;
+unicode = 7703;
+}

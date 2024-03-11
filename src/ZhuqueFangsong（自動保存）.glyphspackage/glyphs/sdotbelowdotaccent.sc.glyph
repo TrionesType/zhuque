@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = sdotbelowdotaccent.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.511;
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (28,0);
+ref = dotbelowcomb;
+},
+{
+pos = (31,45);
+ref = dotaccentcomb;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+production = uni1E69.sc;
+}

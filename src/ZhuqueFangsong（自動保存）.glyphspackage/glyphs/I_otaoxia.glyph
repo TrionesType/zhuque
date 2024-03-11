@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Iotaoxia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Iota;
+},
+{
+pos = (83,185);
+ref = oxia;
+}
+);
+width = 461;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1FDB;
+unicode = 8155;
+}

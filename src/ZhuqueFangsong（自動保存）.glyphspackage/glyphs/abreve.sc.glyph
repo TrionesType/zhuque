@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = abreve.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.507;
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (56,45);
+ref = brevecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+}

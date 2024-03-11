@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = guillemetleft.case;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = guillemetleft;
+}
+);
+width = 427;
+}
+);
+locked = 1;
+production = guillemotleft.case;
+}

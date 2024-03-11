@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = "Schwa-cy";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.514;
+layerId = m01;
+shapes = (
+{
+ref = Schwa;
+}
+);
+width = 672;
+}
+);
+locked = 1;
+production = uni04D8;
+unicode = 1240;
+}

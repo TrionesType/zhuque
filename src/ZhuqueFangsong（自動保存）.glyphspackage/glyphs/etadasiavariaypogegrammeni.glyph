@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = etadasiavariaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (65,0);
+ref = dasiavaria;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1F93;
+unicode = 8083;
+}

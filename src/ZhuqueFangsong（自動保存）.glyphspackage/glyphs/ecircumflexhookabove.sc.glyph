@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ecircumflexhookabove.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.509;
+layerId = m01;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (54,45);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+production = uni1EC3.sc;
+}

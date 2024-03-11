@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = utilde.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.512;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u.sc;
+},
+{
+alignment = -1;
+pos = (83,35);
+ref = tilde;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+}

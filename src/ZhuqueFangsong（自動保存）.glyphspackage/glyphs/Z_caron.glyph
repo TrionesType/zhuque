@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Zcaron;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (93,0);
+ref = caroncomb.case;
+}
+);
+width = 568;
+}
+);
+locked = 1;
+unicode = 381;
+}

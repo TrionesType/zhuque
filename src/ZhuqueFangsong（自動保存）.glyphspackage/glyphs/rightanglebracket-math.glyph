@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(253,243,l),
+(253,268,l),
+(84,645,l),
+(46,643,l),
+(44,634,l),
+(176,254,l),
+(44,-122,l),
+(46,-131,l),
+(84,-136,l)
+);
+}
+);
+width = 278;
+}
+);
+locked = 1;
+production = uni27E9;
+unicode = 10217;
+}

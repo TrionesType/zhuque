@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "ie-cy";
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+.lastUpdate = 731845427.515;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (3,0);
+ref = e;
+}
+);
+width = 456;
+}
+);
+locked = 1;
+production = uni0435;
+unicode = 1077;
+}

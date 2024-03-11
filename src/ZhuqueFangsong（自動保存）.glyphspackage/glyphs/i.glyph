@@ -1,0 +1,38 @@
+{
+color = 2;
+glyphname = i;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+.lastUpdate = 731845427.503;
+anchors = (
+{
+name = bottom;
+pos = (159,0);
+},
+{
+name = ogonek;
+pos = (159,49);
+},
+{
+name = top;
+pos = (136,472);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-62,0);
+ref = dotaccentcomb;
+}
+);
+width = 282;
+}
+);
+locked = 1;
+unicode = 105;
+}

@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Etadasiaprosgegrammeni.sc.ss05;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.529;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (108,0);
+ref = Etaprosgegrammeni.sc.ss05;
+},
+{
+pos = (823,45);
+ref = dasia.case;
+}
+);
+width = 1181;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=iota.sc";
+production = uni1F99.sc.ss05;
+}

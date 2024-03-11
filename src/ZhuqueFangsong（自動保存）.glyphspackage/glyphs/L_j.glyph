@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Lj;
+kernLeft = H;
+kernRight = j;
+layers = (
+{
+.lastUpdate = 731845427.498;
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (507,0);
+ref = j;
+}
+);
+width = 757;
+}
+);
+locked = 1;
+production = uni01C8;
+unicode = 456;
+}

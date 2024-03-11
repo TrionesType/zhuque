@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omicronoxia.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+anchor = top;
+pos = (95,45);
+ref = oxia;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni1F79.sc;
+}

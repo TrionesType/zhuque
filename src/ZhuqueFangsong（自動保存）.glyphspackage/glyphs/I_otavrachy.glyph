@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Iotavrachy;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (-18,-10);
+ref = brevecomb.case;
+}
+);
+width = 361;
+}
+);
+locked = 1;
+production = uni1FD8;
+unicode = 8152;
+}

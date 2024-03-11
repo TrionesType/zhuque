@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = dcaron.sc;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.508;
+layerId = m01;
+shapes = (
+{
+ref = d.sc;
+},
+{
+alignment = 1;
+pos = (99,45);
+ref = caroncomb;
+}
+);
+width = 596;
+}
+);
+locked = 1;
+}

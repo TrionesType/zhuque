@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = gdotaccent;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+.lastUpdate = 731845427.503;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = dotaccentcomb;
+}
+);
+width = 501;
+}
+);
+locked = 1;
+unicode = 289;
+}

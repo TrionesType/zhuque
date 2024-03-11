@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphadasiaperispomeniprosgegrammeni.sc.ss05;
+kernLeft = Alphatonos;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.529;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (120,0);
+ref = Alphaprosgegrammeni.sc.ss05;
+},
+{
+pos = (638,45);
+ref = dasiaperispomeni.case;
+}
+);
+width = 1023;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota.sc";
+production = uni1F8F.sc.ss05;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = upsilonperispomeni.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (41,25);
+ref = perispomeni;
+}
+);
+width = 471;
+}
+);
+locked = 1;
+production = uni1FE6.sc;
+}

@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = iotamacron;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-70,0);
+ref = macroncomb;
+}
+);
+width = 268;
+}
+);
+locked = 1;
+production = uni1FD1;
+unicode = 8145;
+}

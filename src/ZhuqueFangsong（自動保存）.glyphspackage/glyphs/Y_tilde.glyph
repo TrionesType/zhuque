@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Ytilde;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (96,0);
+ref = tildecomb.case;
+}
+);
+width = 538;
+}
+);
+locked = 1;
+production = uni1EF8;
+unicode = 7928;
+}

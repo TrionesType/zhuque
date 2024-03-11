@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = iotadasia;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-69,0);
+ref = dasia;
+}
+);
+width = 268;
+}
+);
+locked = 1;
+production = uni1F31;
+unicode = 7985;
+}

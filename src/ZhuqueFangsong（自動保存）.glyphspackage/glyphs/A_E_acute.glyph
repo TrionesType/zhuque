@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = AEacute;
+kernLeft = A;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.496;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = AE;
+},
+{
+alignment = -1;
+pos = (236,0);
+ref = acutecomb.case;
+}
+);
+width = 810;
+}
+);
+locked = 1;
+unicode = 508;
+}

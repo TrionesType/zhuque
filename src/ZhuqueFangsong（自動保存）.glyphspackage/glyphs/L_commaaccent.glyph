@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Lcommaaccent;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+.lastUpdate = 731845427.498;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (107,0);
+ref = commaaccentcomb;
+}
+);
+width = 507;
+}
+);
+locked = 1;
+production = uni013B;
+unicode = 315;
+}

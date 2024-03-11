@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Etaprosgegrammeni.ss05;
+kernLeft = H;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.522;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Eta;
+},
+{
+pos = (754,0);
+ref = iota;
+}
+);
+width = 1022;
+}
+);
+locked = 1;
+metricLeft = "=H";
+metricRight = "=iota";
+production = uni1FCC.ss05;
+}

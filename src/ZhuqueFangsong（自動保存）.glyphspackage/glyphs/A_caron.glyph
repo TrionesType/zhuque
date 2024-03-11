@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Acaron;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.495;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (99,0);
+ref = caroncomb.case;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+production = uni01CD;
+unicode = 461;
+}

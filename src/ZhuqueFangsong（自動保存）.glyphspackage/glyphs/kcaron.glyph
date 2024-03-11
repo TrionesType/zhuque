@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = kcaron;
+kernLeft = h;
+kernRight = x;
+layers = (
+{
+.lastUpdate = 731845427.504;
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (-80,50);
+ref = caroncomb.case;
+}
+);
+width = 497;
+}
+);
+locked = 1;
+production = uni01E9;
+unicode = 489;
+}

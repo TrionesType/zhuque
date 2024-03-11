@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = secondtonechinese;
+layers = (
+{
+.lastUpdate = 731845427.542;
+layerId = m01;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni02CA;
+unicode = 714;
+}

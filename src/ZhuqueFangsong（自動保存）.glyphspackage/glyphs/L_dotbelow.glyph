@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ldotbelow;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+.lastUpdate = 731845427.498;
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (85,0);
+ref = dotbelowcomb;
+}
+);
+width = 507;
+}
+);
+locked = 1;
+production = uni1E36;
+unicode = 7734;
+}

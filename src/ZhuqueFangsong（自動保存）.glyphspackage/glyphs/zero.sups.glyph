@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = zero.sups;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+ref = zerosuperior;
+}
+);
+width = 352;
+}
+);
+locked = 1;
+metricLeft = zerosuperior;
+metricRight = zerosuperior;
+}

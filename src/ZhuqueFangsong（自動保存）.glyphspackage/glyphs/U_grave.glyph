@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ugrave;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = gravecomb.case;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+unicode = 217;
+}

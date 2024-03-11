@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = cacute;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+.lastUpdate = 731845427.502;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (46,0);
+ref = acutecomb;
+}
+);
+width = 424;
+}
+);
+locked = 1;
+unicode = 263;
+}

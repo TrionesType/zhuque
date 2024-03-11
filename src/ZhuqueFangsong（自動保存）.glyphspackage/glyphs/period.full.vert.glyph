@@ -1,0 +1,22 @@
+{
+color = 9;
+glyphname = period.full.vert;
+layers = (
+{
+.lastUpdate = 731845427.54;
+guides = (
+{
+pos = (500,350);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (657,607);
+ref = period.full;
+}
+);
+width = 1000;
+}
+);
+}

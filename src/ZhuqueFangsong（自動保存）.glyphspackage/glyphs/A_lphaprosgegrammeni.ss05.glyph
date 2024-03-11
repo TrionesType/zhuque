@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphaprosgegrammeni.ss05;
+kernLeft = A;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+pos = (644,0);
+ref = iota;
+}
+);
+width = 912;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota";
+production = uni1FBC.ss05;
+}

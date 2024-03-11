@@ -1,0 +1,38 @@
+{
+color = 2;
+glyphname = tbar.sc;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,198,o),
+(172,199,o),
+(222,199,cs),
+(361,200,l),
+(365,237,l),
+(352,250,l),
+(352,250,o),
+(287,245,o),
+(244,245,cs),
+(189,245,o),
+(107,246,o),
+(107,246,c),
+(100,207,l),
+(109,198,l)
+);
+},
+{
+alignment = -1;
+ref = t.sc;
+}
+);
+width = 474;
+}
+);
+locked = 1;
+}

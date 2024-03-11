@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = wdieresis;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+.lastUpdate = 731845427.507;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (154,0);
+ref = dieresiscomb;
+}
+);
+width = 705;
+}
+);
+locked = 1;
+unicode = 7813;
+}

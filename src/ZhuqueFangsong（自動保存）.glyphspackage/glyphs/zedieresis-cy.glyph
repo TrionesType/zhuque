@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "zedieresis-cy";
+kernLeft = "ze-cy";
+kernRight = "ve-cy";
+layers = (
+{
+.lastUpdate = 731845427.516;
+layerId = m01;
+shapes = (
+{
+ref = "ze-cy";
+},
+{
+pos = (15,0);
+ref = dieresiscomb;
+}
+);
+width = 429;
+}
+);
+locked = 1;
+production = uni04DF;
+unicode = 1247;
+}

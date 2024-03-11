@@ -1,0 +1,20 @@
+{
+color = 2;
+glyphname = bulletoperator;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = periodcentered;
+}
+);
+width = 238;
+}
+);
+locked = 1;
+production = uni2219;
+unicode = 8729;
+}

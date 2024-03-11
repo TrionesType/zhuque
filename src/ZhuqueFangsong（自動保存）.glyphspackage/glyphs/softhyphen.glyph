@@ -1,0 +1,20 @@
+{
+color = 2;
+glyphname = softhyphen;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = hyphen;
+}
+);
+width = 380;
+}
+);
+locked = 1;
+production = uni00AD;
+unicode = 173;
+}

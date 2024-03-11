@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = Upsilondieresis;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+pos = (66,185);
+ref = dieresiscomb;
+}
+);
+width = 535;
+}
+);
+locked = 1;
+unicode = 939;
+}

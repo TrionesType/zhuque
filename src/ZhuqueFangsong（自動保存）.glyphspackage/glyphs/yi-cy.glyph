@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "yi-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+.lastUpdate = 731845427.516;
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-62,0);
+ref = dieresiscomb;
+}
+);
+width = 282;
+}
+);
+locked = 1;
+production = uni0457;
+unicode = 1111;
+}

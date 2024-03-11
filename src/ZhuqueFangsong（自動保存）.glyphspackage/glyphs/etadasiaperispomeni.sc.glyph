@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etadasiaperispomeni.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.527;
+layerId = m01;
+shapes = (
+{
+ref = eta.sc;
+},
+{
+pos = (94,45);
+ref = dasiaperispomeni;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+production = uni1F27.sc;
+}

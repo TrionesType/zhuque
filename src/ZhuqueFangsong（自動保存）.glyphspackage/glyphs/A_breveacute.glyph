@@ -1,0 +1,52 @@
+{
+color = 2;
+glyphname = Abreveacute;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.495;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,768,o),
+(218,785,o),
+(201,818,c),
+(193,818,l),
+(177,808,l),
+(191,759,o),
+(228,710,o),
+(297,710,cs),
+(366,710,o),
+(403,759,o),
+(417,808,c),
+(401,818,l),
+(393,818,l),
+(376,785,o),
+(339,768,o),
+(297,768,cs)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (103,130);
+ref = brevecomb_acutecomb;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+production = uni1EAE;
+unicode = 7854;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = m01;
+width = 198;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+width = 144;
+}
+);
+production = uni00A0;
+unicode = 160;
+}

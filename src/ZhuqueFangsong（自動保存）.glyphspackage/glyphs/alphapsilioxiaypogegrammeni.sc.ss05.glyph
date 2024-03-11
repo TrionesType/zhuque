@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = alphapsilioxiaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.53;
+layerId = m01;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (29,45);
+ref = psilioxia;
+}
+);
+width = 829;
+}
+);
+locked = 1;
+production = uni1F84.sc.ss05;
+}

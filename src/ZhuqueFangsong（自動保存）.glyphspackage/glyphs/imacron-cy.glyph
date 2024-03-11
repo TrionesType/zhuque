@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "imacron-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+.lastUpdate = 731845427.516;
+layerId = m01;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (94,0);
+ref = macroncomb;
+}
+);
+width = 586;
+}
+);
+locked = 1;
+production = uni04E3;
+unicode = 1251;
+}

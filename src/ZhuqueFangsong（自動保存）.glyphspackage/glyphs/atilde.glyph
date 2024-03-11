@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = atilde;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+.lastUpdate = 731845427.502;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (18,0);
+ref = tilde;
+}
+);
+width = 466;
+}
+);
+locked = 1;
+unicode = 227;
+}

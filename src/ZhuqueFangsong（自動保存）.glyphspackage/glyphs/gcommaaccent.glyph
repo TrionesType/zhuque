@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = gcommaaccent;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+.lastUpdate = 731845427.503;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (163,87);
+ref = quoteleft;
+}
+);
+width = 501;
+}
+);
+locked = 1;
+production = uni0123;
+unicode = 291;
+}

@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = "dze-cy";
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+.lastUpdate = 731845427.516;
+layerId = m01;
+shapes = (
+{
+ref = s;
+}
+);
+width = 402;
+}
+);
+locked = 1;
+production = uni0455;
+unicode = 1109;
+}

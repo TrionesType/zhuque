@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omegadasiaoxiaypogegrammeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+.lastUpdate = 731845427.525;
+layerId = m01;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (104,0);
+ref = dasiaoxia;
+}
+);
+width = 657;
+}
+);
+locked = 1;
+production = uni1FA5;
+unicode = 8101;
+}

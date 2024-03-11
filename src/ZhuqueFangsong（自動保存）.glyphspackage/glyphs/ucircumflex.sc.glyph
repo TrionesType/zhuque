@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = ucircumflex.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.512;
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+alignment = 1;
+pos = (95,24);
+ref = circumflexcomb;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+}

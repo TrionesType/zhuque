@@ -1,0 +1,35 @@
+{
+color = 2;
+glyphname = whiteSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,61,l),
+(400,397,l),
+(64,397,l),
+(64,61,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,357,l),
+(360,357,l),
+(360,101,l),
+(104,101,l)
+);
+}
+);
+width = 464;
+}
+);
+locked = 1;
+metricLeft = "=blackSquare";
+metricRight = "=blackSquare";
+production = uni25A1;
+unicode = 9633;
+}

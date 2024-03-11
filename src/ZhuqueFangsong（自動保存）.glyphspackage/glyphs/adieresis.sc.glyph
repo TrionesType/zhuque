@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = adieresis.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.508;
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+alignment = 1;
+pos = (56,45);
+ref = dieresiscomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+}

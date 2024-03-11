@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omicronvaria;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (52,0);
+ref = varia;
+}
+);
+width = 492;
+}
+);
+locked = 1;
+production = uni1F78;
+unicode = 8056;
+}

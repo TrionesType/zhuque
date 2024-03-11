@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = racute;
+kernLeft = n;
+kernRight = r;
+layers = (
+{
+.lastUpdate = 731845427.505;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = r;
+},
+{
+alignment = -1;
+pos = (-55,0);
+ref = acutecomb;
+}
+);
+width = 383;
+}
+);
+locked = 1;
+unicode = 341;
+}

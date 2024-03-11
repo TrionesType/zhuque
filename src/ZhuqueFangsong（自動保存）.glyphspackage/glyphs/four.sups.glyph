@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = four.sups;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+ref = foursuperior;
+}
+);
+width = 311;
+}
+);
+locked = 1;
+metricLeft = foursuperior;
+metricRight = foursuperior;
+}

@@ -1,0 +1,77 @@
+{
+color = 2;
+glyphname = "fita-cy.sc";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(426,-9,o),
+(544,108,o),
+(544,266,cs),
+(544,411,o),
+(450,507,o),
+(311,507,cs),
+(157,507,o),
+(41,390,o),
+(41,233,cs),
+(41,88,o),
+(133,-9,o),
+(270,-9,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,38,o),
+(121,126,o),
+(121,260,cs),
+(121,375,o),
+(186,452,o),
+(284,452,cs),
+(390,452,o),
+(462,365,o),
+(462,231,cs),
+(462,115,o),
+(394,38,o),
+(294,38,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(124,221,o),
+(353,223,o),
+(502,223,c),
+(502,278,l),
+(303,274,l),
+(79,275,l),
+(79,221,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 585;
+}
+);
+locked = 1;
+metricLeft = "=o.sc";
+metricRight = "=o.sc";
+production = uni0473.sc;
+userData = {
+RMXScaler = {
+source = "Fita-cy";
+};
+};
+}

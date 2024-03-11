@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = zacute.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+.lastUpdate = 731845427.512;
+layerId = m01;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (17,45);
+ref = acutecomb;
+}
+);
+width = 490;
+}
+);
+locked = 1;
+}

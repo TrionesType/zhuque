@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = endash.case;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = endash;
+}
+);
+width = 608;
+}
+);
+locked = 1;
+}

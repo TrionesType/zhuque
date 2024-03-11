@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Aring;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.496;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (99,0);
+ref = ringcomb.case;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+unicode = 197;
+}

@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Etadasiavaria;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (216,0);
+ref = Eta;
+},
+{
+pos = (367,185);
+ref = dasiavaria.case;
+}
+);
+width = 970;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = H;
+production = uni1F2B;
+unicode = 7979;
+}

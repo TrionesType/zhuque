@@ -1,0 +1,37 @@
+{
+color = 2;
+glyphname = "yeru-cy.sc";
+kernLeft = h.sc;
+kernRight = h.sc;
+layers = (
+{
+.lastUpdate = 731845427.517;
+anchors = (
+{
+name = top;
+pos = (371,497);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = "softsign-cy.cond.sc";
+},
+{
+pos = (420,0);
+ref = i.sc;
+}
+);
+width = 739;
+}
+);
+locked = 1;
+metricLeft = "=i.sc";
+metricRight = "=i.sc";
+production = uni044B.sc;
+userData = {
+RMXScaler = {
+source = "Yeru-cy";
+};
+};
+}

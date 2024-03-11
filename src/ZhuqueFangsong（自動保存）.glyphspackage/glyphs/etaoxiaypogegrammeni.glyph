@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = etaoxiaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (93,0);
+ref = oxia;
+}
+);
+width = 515;
+}
+);
+locked = 1;
+production = uni1FC4;
+unicode = 8132;
+}

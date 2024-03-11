@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Odotaccentmacron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.498;
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (147,0);
+ref = dotaccentcomb_macroncomb.case;
+}
+);
+width = 692;
+}
+);
+locked = 1;
+production = uni0230;
+unicode = 560;
+}

@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = udieresiscaron.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.512;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (92,5);
+ref = dieresiscomb_caroncomb;
+},
+{
+alignment = -1;
+ref = u.sc;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+production = uni01DA.sc;
+}

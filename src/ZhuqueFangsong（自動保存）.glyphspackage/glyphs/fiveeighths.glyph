@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = fiveeighths;
+layers = (
+{
+.lastUpdate = 731845427.539;
+layerId = m01;
+shapes = (
+{
+ref = five.numr;
+},
+{
+pos = (290,0);
+ref = fraction;
+},
+{
+pos = (415,0);
+ref = eight.dnom;
+}
+);
+width = 742;
+}
+);
+locked = 1;
+metricLeft = five.numr;
+metricRight = five.numr;
+unicode = 8541;
+}

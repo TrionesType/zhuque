@@ -1,0 +1,30 @@
+{
+color = 2;
+glyphname = hyphen;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(311,236,l),
+(316,290,l),
+(309,299,l),
+(309,299,o),
+(290,295,o),
+(244,290,cs),
+(70,270,l),
+(64,218,l),
+(71,210,l)
+);
+}
+);
+width = 380;
+}
+);
+locked = 1;
+unicode = 45;
+}

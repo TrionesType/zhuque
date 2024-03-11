@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ygrave;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+.lastUpdate = 731845427.507;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (33,0);
+ref = gravecomb;
+}
+);
+width = 446;
+}
+);
+locked = 1;
+unicode = 7923;
+}

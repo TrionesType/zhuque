@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = braceleft.case;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = braceleft;
+}
+);
+width = 309;
+}
+);
+locked = 1;
+}

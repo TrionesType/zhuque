@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Omegaoxia;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (58,0);
+ref = Omega;
+},
+{
+pos = (261,185);
+ref = oxia;
+}
+);
+width = 859;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = Omega;
+production = uni1FFB;
+unicode = 8187;
+}

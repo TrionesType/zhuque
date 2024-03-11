@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = alphavariaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.53;
+layerId = m01;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (53,45);
+ref = varia;
+}
+);
+width = 829;
+}
+);
+locked = 1;
+production = uni1FB2.sc.ss05;
+}

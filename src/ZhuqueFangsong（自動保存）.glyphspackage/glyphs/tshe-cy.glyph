@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = "tshe-cy";
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+.lastUpdate = 731845427.516;
+layerId = m01;
+shapes = (
+{
+ref = hbar;
+}
+);
+width = 536;
+}
+);
+locked = 1;
+production = uni045B;
+unicode = 1115;
+}

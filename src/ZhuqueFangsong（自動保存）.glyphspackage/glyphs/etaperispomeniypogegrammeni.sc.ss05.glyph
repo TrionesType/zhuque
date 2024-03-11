@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = etaperispomeniypogegrammeni.sc.ss05;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.53;
+layerId = m01;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (125,25);
+ref = perispomeni;
+}
+);
+width = 958;
+}
+);
+locked = 1;
+production = uni1FC7.sc.ss05;
+}

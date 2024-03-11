@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = uhookabove.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.512;
+anchors = (
+{
+name = top;
+pos = (348,637);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (101,-15);
+ref = hookabovecomb;
+},
+{
+alignment = -1;
+ref = u.sc;
+}
+);
+width = 575;
+}
+);
+locked = 1;
+production = uni1EE7.sc;
+}

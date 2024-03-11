@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = etatonos.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.525;
+layerId = m01;
+shapes = (
+{
+ref = eta.sc;
+},
+{
+pos = (122,45);
+ref = tonos;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+}

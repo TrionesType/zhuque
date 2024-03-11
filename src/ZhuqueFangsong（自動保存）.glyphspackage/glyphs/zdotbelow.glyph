@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = zdotbelow;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+.lastUpdate = 731845427.507;
+layerId = m01;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (8,0);
+ref = dotbelowcomb;
+}
+);
+width = 460;
+}
+);
+locked = 1;
+production = uni1E93;
+unicode = 7827;
+}

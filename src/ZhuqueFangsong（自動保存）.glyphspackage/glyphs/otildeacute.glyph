@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = otildeacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 731845427.505;
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (49,0);
+ref = tildecomb_acutecomb;
+}
+);
+width = 498;
+}
+);
+locked = 1;
+production = uni1E4D;
+unicode = 7757;
+}

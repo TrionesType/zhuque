@@ -1,0 +1,20 @@
+{
+color = 2;
+glyphname = questiondown.sc;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (291,497);
+ref = question.sc;
+}
+);
+width = 291;
+}
+);
+locked = 1;
+}

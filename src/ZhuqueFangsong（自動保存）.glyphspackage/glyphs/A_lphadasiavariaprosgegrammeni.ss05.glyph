@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Alphadasiavariaprosgegrammeni.ss05;
+kernLeft = Alphatonos;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.522;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (84,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+pos = (632,0);
+ref = dasiavaria.case;
+}
+);
+width = 996;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota";
+production = uni1F8B.ss05;
+}

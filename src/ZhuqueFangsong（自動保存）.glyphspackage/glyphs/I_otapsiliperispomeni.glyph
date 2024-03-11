@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Iotapsiliperispomeni;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (191,0);
+ref = Iota;
+},
+{
+pos = (146,185);
+ref = psiliperispomeni.case;
+}
+);
+width = 552;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3E;
+unicode = 7998;
+}

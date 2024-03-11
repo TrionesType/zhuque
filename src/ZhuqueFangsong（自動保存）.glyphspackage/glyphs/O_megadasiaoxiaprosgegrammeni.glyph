@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Omegadasiaoxiaprosgegrammeni;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (184,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (359,185);
+ref = dasiaoxia.case;
+}
+);
+width = 985;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=Omega";
+production = uni1FAD;
+unicode = 8109;
+}

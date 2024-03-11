@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Ldot;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+.lastUpdate = 731845427.498;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (320,215);
+ref = periodcentered;
+}
+);
+width = 533;
+}
+);
+locked = 1;
+unicode = 319;
+}

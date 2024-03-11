@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = upsilonpsilivaria;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (3,0);
+ref = psilivaria;
+}
+);
+width = 457;
+}
+);
+locked = 1;
+production = uni1F52;
+unicode = 8018;
+}

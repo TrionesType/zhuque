@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = quotedblright;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (155,0);
+ref = quoteright;
+},
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 331;
+}
+);
+locked = 1;
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+}

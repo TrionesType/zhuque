@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Epsilontonos;
+kernLeft = Etatonos;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Epsilon;
+},
+{
+pos = (198,185);
+ref = tonos;
+}
+);
+width = 691;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+unicode = 904;
+}

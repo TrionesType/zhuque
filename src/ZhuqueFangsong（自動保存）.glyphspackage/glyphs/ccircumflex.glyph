@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = ccircumflex;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+.lastUpdate = 731845427.502;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (67,-1);
+ref = circumflexcomb;
+}
+);
+width = 424;
+}
+);
+locked = 1;
+unicode = 265;
+}

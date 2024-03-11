@@ -1,0 +1,21 @@
+{
+color = 2;
+glyphname = "We-cy";
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+.lastUpdate = 731845427.515;
+layerId = m01;
+shapes = (
+{
+ref = W;
+}
+);
+width = 932;
+}
+);
+locked = 1;
+production = uni051C;
+unicode = 1308;
+}

@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Etadasiaoxiaprosgegrammeni;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Etaprosgegrammeni;
+},
+{
+pos = (377,185);
+ref = dasiaoxia.case;
+}
+);
+width = 980;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=H";
+production = uni1F9D;
+unicode = 8093;
+}

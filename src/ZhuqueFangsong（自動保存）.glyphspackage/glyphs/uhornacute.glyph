@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = uhornacute;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+.lastUpdate = 731845427.506;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = acutecomb;
+}
+);
+width = 551;
+}
+);
+locked = 1;
+production = uni1EE9;
+unicode = 7913;
+}

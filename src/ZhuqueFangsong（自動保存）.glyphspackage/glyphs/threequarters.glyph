@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = threequarters;
+layers = (
+{
+.lastUpdate = 731845427.539;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (283,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (378,0);
+ref = four.dnom;
+}
+);
+width = 689;
+}
+);
+locked = 1;
+unicode = 190;
+}

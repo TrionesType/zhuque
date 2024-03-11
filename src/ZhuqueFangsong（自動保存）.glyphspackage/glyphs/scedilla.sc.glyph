@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = scedilla.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.511;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = s.sc;
+},
+{
+alignment = -1;
+pos = (23,0);
+ref = cedillacomb;
+}
+);
+width = 459;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Ohorndotbelow;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.499;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = dotbelowcomb;
+}
+);
+width = 703;
+}
+);
+locked = 1;
+production = uni1EE2;
+unicode = 7906;
+}

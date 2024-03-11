@@ -1,0 +1,33 @@
+{
+color = 2;
+glyphname = rightWhiteTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(443,226,l),
+(94,400,l),
+(94,52,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(134,336,l),
+(353,226,l),
+(134,116,l)
+);
+}
+);
+width = 477;
+}
+);
+locked = 1;
+metricLeft = "=rightBlackTriangle";
+metricRight = "=rightBlackTriangle";
+production = uni25B7;
+unicode = 9655;
+}

@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Scommaaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (48,0);
+ref = commaaccentcomb;
+}
+);
+width = 530;
+}
+);
+locked = 1;
+production = uni0218;
+unicode = 536;
+}

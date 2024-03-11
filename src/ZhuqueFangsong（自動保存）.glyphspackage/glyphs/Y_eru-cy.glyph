@@ -1,0 +1,33 @@
+{
+color = 2;
+glyphname = "Yeru-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.514;
+anchors = (
+{
+name = top;
+pos = (422,636);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = "Softsign-cy.cond";
+},
+{
+pos = (482,0);
+ref = I;
+}
+);
+width = 843;
+}
+);
+locked = 1;
+metricLeft = "=I";
+metricRight = "=I";
+production = uni042B;
+unicode = 1067;
+}

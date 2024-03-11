@@ -1,0 +1,31 @@
+{
+color = 2;
+glyphname = ecedillabreve;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+.lastUpdate = 731845427.502;
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+alignment = 1;
+pos = (77,0);
+ref = cedillacomb;
+},
+{
+alignment = 1;
+pos = (56,0);
+ref = brevecomb;
+}
+);
+width = 448;
+}
+);
+locked = 1;
+production = uni1E1D;
+unicode = 7709;
+}

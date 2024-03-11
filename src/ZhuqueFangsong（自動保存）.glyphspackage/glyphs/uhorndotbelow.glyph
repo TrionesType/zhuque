@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = uhorndotbelow;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+.lastUpdate = 731845427.506;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (70,0);
+ref = dotbelowcomb;
+}
+);
+width = 551;
+}
+);
+locked = 1;
+production = uni1EF1;
+unicode = 7921;
+}

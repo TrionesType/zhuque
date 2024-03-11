@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "ghestroke-cy.loclBSH.sc";
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+ref = f.sc;
+}
+);
+width = 446;
+}
+);
+locked = 1;
+production = uni0493.loclBSH.sc;
+userData = {
+RMXScaler = {
+source = "Ghestroke-cy.loclBSH";
+};
+};
+}

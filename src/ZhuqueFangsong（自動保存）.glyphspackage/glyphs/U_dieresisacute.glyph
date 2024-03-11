@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Udieresisacute;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (144,145);
+ref = dieresiscomb_acutecomb;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+production = uni01D7;
+unicode = 471;
+}

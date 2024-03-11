@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Epsilonpsilioxia;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.519;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (229,0);
+ref = Epsilon;
+},
+{
+pos = (299,185);
+ref = psilioxia.case;
+}
+);
+width = 820;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1F1C;
+unicode = 7964;
+}

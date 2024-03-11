@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = acute;
+layers = (
+{
+.lastUpdate = 731845427.542;
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = acutecomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+unicode = 180;
+}

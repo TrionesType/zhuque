@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Umacron;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (147,0);
+ref = macroncomb.case;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+unicode = 362;
+}

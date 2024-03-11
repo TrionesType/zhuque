@@ -1,0 +1,51 @@
+{
+color = 2;
+glyphname = ypogegrammenicomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (159,0);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,-222,o),
+(139,-231,o),
+(163,-236,c),
+(172,-226,l),
+(178,-31,l),
+(141,-28,l),
+(133,-32,l),
+(94,-211,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,-221,l),
+(170,-32,l),
+(133,-33,l),
+(125,-37,l),
+(105,-216,l),
+(127,-223,o),
+(153,-231,o),
+(177,-232,c)
+);
+}
+);
+width = 318;
+}
+);
+locked = 1;
+production = uni0345;
+unicode = 837;
+}

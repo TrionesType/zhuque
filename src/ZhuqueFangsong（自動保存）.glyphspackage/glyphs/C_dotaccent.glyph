@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Cdotaccent;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+.lastUpdate = 731845427.496;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 626;
+}
+);
+locked = 1;
+unicode = 266;
+}

@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = whitecornerbracketright.vert;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+angle = -89.72567;
+pos = (165,892);
+ref = whitecornerbracketright;
+}
+);
+width = 1000;
+}
+);
+unicode = 65092;
+}

@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = abrevetilde.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.507;
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (57,25);
+ref = brevecomb_tildecomb;
+}
+);
+width = 510;
+}
+);
+locked = 1;
+production = uni1EB5.sc;
+}

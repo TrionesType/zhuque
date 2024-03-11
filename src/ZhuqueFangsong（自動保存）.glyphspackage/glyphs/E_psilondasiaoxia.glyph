@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Epsilondasiaoxia;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.519;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Epsilon;
+},
+{
+pos = (296,185);
+ref = dasiaoxia.case;
+}
+);
+width = 817;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1F1D;
+unicode = 7965;
+}

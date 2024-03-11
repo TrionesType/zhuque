@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omicronpsilioxia;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (28,0);
+ref = psilioxia;
+}
+);
+width = 492;
+}
+);
+locked = 1;
+production = uni1F44;
+unicode = 8004;
+}

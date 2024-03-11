@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "zedescender-cy.loclBSH.sc";
+kernLeft = "Ereversed-cy";
+kernRight = B;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+ref = "zedescender-cy.sc";
+}
+);
+width = 472;
+}
+);
+locked = 1;
+production = uni0499.loclBSH.sc;
+userData = {
+RMXScaler = {
+source = "Zedescender-cy.loclBSH";
+};
+};
+}

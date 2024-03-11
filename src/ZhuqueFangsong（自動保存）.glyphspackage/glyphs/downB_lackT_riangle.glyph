@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = downBlackTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,358,l),
+(64,358,l),
+(206,74,l)
+);
+}
+);
+width = 412;
+}
+);
+locked = 1;
+production = triagdn;
+unicode = 9660;
+}

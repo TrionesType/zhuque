@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Upsilondasia;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (168,0);
+ref = Upsilon;
+},
+{
+pos = (234,185);
+ref = dasia.case;
+}
+);
+width = 703;
+}
+);
+locked = 1;
+metricLeft = "=Upsilontonos";
+metricRight = Upsilon;
+production = uni1F59;
+unicode = 8025;
+}

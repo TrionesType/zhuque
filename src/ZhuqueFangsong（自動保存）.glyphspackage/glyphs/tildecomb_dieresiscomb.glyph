@@ -1,0 +1,33 @@
+{
+color = 2;
+glyphname = tildecomb_dieresiscomb;
+layers = (
+{
+.lastUpdate = 731845427.541;
+anchors = (
+{
+name = _top;
+pos = (200,452);
+},
+{
+name = top;
+pos = (200,745);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-50);
+ref = tildecomb;
+},
+{
+pos = (1,106);
+ref = dieresiscomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni03030308;
+}

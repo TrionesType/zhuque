@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = ecircumflexdotbelow.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.509;
+layerId = m01;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (52,0);
+ref = dotbelowcomb;
+},
+{
+pos = (63,24);
+ref = circumflexcomb;
+}
+);
+width = 508;
+}
+);
+locked = 1;
+production = uni1EC7.sc;
+}

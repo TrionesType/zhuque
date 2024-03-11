@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = blackLargeCircle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,-14,o),
+(650,134,o),
+(650,317,cs),
+(650,500,o),
+(501,649,o),
+(318,649,cs),
+(135,649,o),
+(-13,500,o),
+(-13,317,cs),
+(-13,134,o),
+(135,-14,o),
+(318,-14,cs)
+);
+}
+);
+width = 637;
+}
+);
+locked = 1;
+production = uni2B24;
+unicode = 11044;
+}

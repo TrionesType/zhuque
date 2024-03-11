@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "kje-cy";
+kernLeft = n;
+kernRight = x;
+layers = (
+{
+.lastUpdate = 731845427.515;
+layerId = m01;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+pos = (33,0);
+ref = acutecomb;
+}
+);
+width = 519;
+}
+);
+locked = 1;
+production = uni045C;
+unicode = 1116;
+}

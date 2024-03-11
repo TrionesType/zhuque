@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = omegapsiliperispomeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+.lastUpdate = 731845427.525;
+layerId = m01;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (104,0);
+ref = psiliperispomeni;
+}
+);
+width = 657;
+}
+);
+locked = 1;
+production = uni1F66;
+unicode = 8038;
+}

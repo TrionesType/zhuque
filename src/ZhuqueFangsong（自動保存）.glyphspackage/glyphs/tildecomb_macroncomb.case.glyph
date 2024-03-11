@@ -1,0 +1,35 @@
+{
+color = 2;
+glyphname = tildecomb_macroncomb.case;
+layers = (
+{
+.lastUpdate = 731845427.541;
+anchors = (
+{
+name = _top;
+pos = (200,642);
+},
+{
+name = top;
+pos = (200,943);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,120);
+ref = tildecomb;
+},
+{
+alignment = 1;
+pos = (0,276);
+ref = macroncomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni03030304.case;
+}

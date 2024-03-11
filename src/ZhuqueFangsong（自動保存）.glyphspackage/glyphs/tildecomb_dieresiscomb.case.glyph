@@ -1,0 +1,48 @@
+{
+color = 2;
+glyphname = tildecomb_dieresiscomb.case;
+layers = (
+{
+.lastUpdate = 731845427.541;
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = top;
+pos = (200,935);
+}
+);
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (0,140);
+ref = tildecomb;
+},
+{
+alignment = -1;
+angle = -2.99803;
+pos = (-75,139);
+ref = acutecomb.case;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,140);
+ref = tildecomb;
+},
+{
+pos = (1,296);
+ref = dieresiscomb;
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni03030308.case;
+}

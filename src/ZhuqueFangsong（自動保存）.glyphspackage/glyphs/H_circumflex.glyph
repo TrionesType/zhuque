@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Hcircumflex;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.497;
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+alignment = 1;
+pos = (178,0);
+ref = circumflexcomb.case;
+}
+);
+width = 754;
+}
+);
+locked = 1;
+unicode = 292;
+}

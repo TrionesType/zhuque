@@ -1,0 +1,50 @@
+{
+color = 2;
+glyphname = commaaccentcomb;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (197,0);
+},
+{
+name = bottom;
+pos = (179,-293);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,-264,o),
+(252,-210,o),
+(252,-138,cs),
+(252,-94,o),
+(228,-67,o),
+(198,-67,cs),
+(176,-67,o),
+(153,-83,o),
+(140,-93,c),
+(138,-107,l),
+(160,-120,o),
+(178,-142,o),
+(178,-169,cs),
+(178,-203,o),
+(146,-243,o),
+(106,-268,c),
+(106,-278,l),
+(124,-293,l)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni0326;
+unicode = 806;
+}

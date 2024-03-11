@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omicrondasiaoxia.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.528;
+layerId = m01;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (67,45);
+ref = dasiaoxia;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni1F45.sc;
+}

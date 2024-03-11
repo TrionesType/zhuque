@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = upsilonvrachy;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+.lastUpdate = 731845427.524;
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (30,0);
+ref = brevecomb;
+}
+);
+width = 457;
+}
+);
+locked = 1;
+production = uni1FE0;
+unicode = 8160;
+}

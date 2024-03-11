@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Edieresis;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 731845427.497;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (111,0);
+ref = dieresiscomb.case;
+}
+);
+width = 591;
+}
+);
+locked = 1;
+unicode = 203;
+}

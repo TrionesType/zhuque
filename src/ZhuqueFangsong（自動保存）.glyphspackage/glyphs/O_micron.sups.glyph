@@ -1,0 +1,87 @@
+{
+color = 2;
+glyphname = Omicron.sups;
+kernLeft = O.sups;
+kernRight = O.sups;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (231,338);
+},
+{
+name = center;
+pos = (231,550);
+},
+{
+name = ogonek;
+pos = (415,345);
+},
+{
+name = top;
+pos = (231,761);
+},
+{
+name = topleft;
+pos = (-2,761);
+},
+{
+name = topright;
+pos = (448,761);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(347,330,o),
+(440,425,o),
+(440,563,cs),
+(440,690,o),
+(365,769,o),
+(244,769,cs),
+(112,769,o),
+(21,675,o),
+(21,538,cs),
+(21,411,o),
+(96,330,o),
+(214,330,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(159,382,o),
+(112,447,o),
+(112,563,cs),
+(112,656,o),
+(155,710,o),
+(224,710,cs),
+(300,710,o),
+(348,646,o),
+(348,530,cs),
+(348,437,o),
+(303,382,o),
+(233,382,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66;
+verticalShift = 338;
+width = 68;
+};
+};
+width = 461;
+}
+);
+locked = 1;
+userData = {
+RMXScaler = {
+source = Omicron;
+};
+};
+}

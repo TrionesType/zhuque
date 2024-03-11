@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Omegapsilivariaprosgegrammeni.ss05;
+kernLeft = Omegatonos;
+kernRight = iota;
+layers = (
+{
+.lastUpdate = 731845427.522;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (179,0);
+ref = Omegaprosgegrammeni.ss05;
+},
+{
+pos = (884,0);
+ref = psilivaria.case;
+}
+);
+width = 1248;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=iota";
+production = uni1FAA.ss05;
+}

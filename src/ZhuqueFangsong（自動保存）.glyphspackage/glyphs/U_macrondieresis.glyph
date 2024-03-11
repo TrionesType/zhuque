@@ -1,0 +1,31 @@
+{
+color = 2;
+glyphname = Umacrondieresis;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+alignment = 1;
+pos = (141,0);
+ref = macroncomb.case;
+},
+{
+alignment = 1;
+pos = (142,108);
+ref = dieresiscomb.case;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+production = uni1E7A;
+unicode = 7802;
+}

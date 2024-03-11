@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = sacute;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+.lastUpdate = 731845427.506;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+alignment = -1;
+pos = (13,0);
+ref = acutecomb;
+}
+);
+width = 402;
+}
+);
+locked = 1;
+unicode = 347;
+}

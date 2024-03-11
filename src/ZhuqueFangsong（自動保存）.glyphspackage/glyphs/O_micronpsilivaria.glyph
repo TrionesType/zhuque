@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Omicronpsilivaria;
+kernLeft = Omicrontonos;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (164,0);
+ref = Omicron;
+},
+{
+pos = (284,185);
+ref = psilivaria.case;
+}
+);
+width = 856;
+}
+);
+locked = 1;
+metricLeft = "=Omicrontonos";
+metricRight = O;
+production = uni1F4A;
+unicode = 8010;
+}

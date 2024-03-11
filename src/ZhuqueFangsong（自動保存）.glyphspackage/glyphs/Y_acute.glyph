@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 731845427.501;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (96,0);
+ref = acutecomb.case;
+}
+);
+width = 538;
+}
+);
+locked = 1;
+unicode = 221;
+}

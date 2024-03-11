@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = hcaron.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.509;
+layerId = m01;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (121,45);
+ref = caroncomb;
+}
+);
+width = 639;
+}
+);
+locked = 1;
+production = uni021F.sc;
+}

@@ -1,0 +1,30 @@
+{
+color = 2;
+glyphname = germandbls.alt.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.513;
+background = {
+shapes = (
+{
+ref = s.sc;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (459,0);
+ref = s.sc;
+}
+);
+width = 918;
+}
+);
+locked = 1;
+}

@@ -1,0 +1,50 @@
+{
+color = 2;
+glyphname = perispomeni;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (195,472);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(73,551,l),
+(73,551,o),
+(111,606,o),
+(134,606,cs),
+(158,606,o),
+(226,573,o),
+(255,573,c),
+(271,577,l),
+(344,666,l),
+(344,671,l),
+(322,692,l),
+(316,692,l),
+(316,692,o),
+(277,637,o),
+(255,637,cs),
+(231,637,o),
+(162,670,o),
+(134,670,c),
+(118,666,l),
+(45,577,l),
+(45,572,l),
+(67,551,l)
+);
+}
+);
+width = 388;
+}
+);
+locked = 1;
+metricLeft = tilde;
+metricRight = tilde;
+production = uni1FC0;
+unicode = 8128;
+}

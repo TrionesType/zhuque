@@ -1,0 +1,59 @@
+{
+color = 2;
+glyphname = brevecomb_acutecomb;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (199,452);
+},
+{
+name = top;
+pos = (199,796);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,558,o),
+(305,615,o),
+(319,672,c),
+(303,682,l),
+(295,682,l),
+(278,638,o),
+(241,616,o),
+(199,616,cs),
+(157,616,o),
+(120,638,o),
+(103,682,c),
+(95,682,l),
+(79,672,l),
+(93,615,o),
+(130,558,o),
+(199,558,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(287,751,l),
+(287,762,l),
+(251,795,l),
+(241,796,l),
+(159,673,l),
+(179,656,l),
+(188,655,l)
+);
+}
+);
+width = 398;
+}
+);
+locked = 1;
+production = uni03060301;
+}

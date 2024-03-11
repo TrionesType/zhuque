@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = "Iishort-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.513;
+layerId = m01;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (176,184);
+ref = "brevecomb-cy.case";
+}
+);
+width = 753;
+}
+);
+locked = 1;
+production = uni0419;
+unicode = 1049;
+}

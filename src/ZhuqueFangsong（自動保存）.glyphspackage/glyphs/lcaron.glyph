@@ -1,0 +1,35 @@
+{
+color = 2;
+glyphname = lcaron;
+kernLeft = h;
+kernRight = l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,479,l),
+(290,581,o),
+(304,691,o),
+(304,691,c),
+(297,699,l),
+(227,685,l),
+(227,685,o),
+(237,577,o),
+(233,467,c),
+(244,465,l)
+);
+},
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 304;
+}
+);
+locked = 1;
+unicode = 318;
+}

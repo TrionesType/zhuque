@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = parenleft.full.vert;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+angle = -90.65838;
+pos = (160,762);
+ref = parenleft.full;
+}
+);
+width = 1000;
+}
+);
+unicode = 65077;
+}

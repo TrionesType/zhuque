@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = Ucaron;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (148,0);
+ref = caroncomb.case;
+}
+);
+width = 681;
+}
+);
+locked = 1;
+production = uni01D3;
+unicode = 467;
+}

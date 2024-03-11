@@ -1,0 +1,18 @@
+{
+color = 9;
+glyphname = numbersign.full;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+pos = (251,60);
+ref = numbersign;
+}
+);
+width = 1000;
+}
+);
+unicode = 65283;
+}

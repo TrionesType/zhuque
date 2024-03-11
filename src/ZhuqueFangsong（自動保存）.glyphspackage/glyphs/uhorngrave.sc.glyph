@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = uhorngrave.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 731845427.512;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uhorn.sc;
+},
+{
+alignment = -1;
+pos = (102,50);
+ref = gravecomb;
+}
+);
+width = 578;
+}
+);
+locked = 1;
+production = uni1EEB.sc;
+}

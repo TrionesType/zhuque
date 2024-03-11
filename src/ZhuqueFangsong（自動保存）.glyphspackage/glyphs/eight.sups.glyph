@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = eight.sups;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+ref = eightsuperior;
+}
+);
+width = 327;
+}
+);
+locked = 1;
+metricLeft = eightsuperior;
+metricRight = eightsuperior;
+}

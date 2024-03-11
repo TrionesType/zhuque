@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Omegapsilivariaprosgegrammeni;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+.lastUpdate = 731845427.521;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (179,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (354,185);
+ref = psilivaria.case;
+}
+);
+width = 980;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=Omega";
+production = uni1FAA;
+unicode = 8106;
+}

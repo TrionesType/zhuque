@@ -1,0 +1,27 @@
+{
+color = 2;
+glyphname = tcedilla;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+.lastUpdate = 731845427.506;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (-21,0);
+ref = cedillacomb;
+}
+);
+width = 330;
+}
+);
+locked = 1;
+production = uni0163;
+unicode = 355;
+}

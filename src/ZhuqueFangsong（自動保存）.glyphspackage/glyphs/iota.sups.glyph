@@ -1,0 +1,79 @@
+{
+color = 2;
+glyphname = iota.sups;
+kernLeft = iota.sups;
+kernRight = iota.sups;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (85,641);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,11,o),
+(199,41,o),
+(214,82,c),
+(210,94,l),
+(130,73,o),
+(103,91,o),
+(117,153,cs),
+(182,438,l),
+(158,451,o),
+(136,457,o),
+(105,458,c),
+(95,452,l),
+(60,135,ls),
+(49,40,o),
+(77,-10,o),
+(141,-10,c)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,352,o),
+(172,379,o),
+(179,412,c),
+(173,422,l),
+(117,410,o),
+(97,416,o),
+(102,449,cs),
+(129,626,l),
+(103,636,o),
+(78,643,o),
+(50,647,c),
+(41,640,l),
+(45,426,ls),
+(46,364,o),
+(74,332,o),
+(125,332,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66;
+verticalShift = 338;
+width = 68;
+};
+};
+width = 183;
+}
+);
+locked = 1;
+userData = {
+RMXScaler = {
+source = iota;
+};
+};
+}

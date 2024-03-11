@@ -1,0 +1,19 @@
+{
+color = 2;
+glyphname = six.sinf;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+ref = sixinferior;
+}
+);
+width = 312;
+}
+);
+locked = 1;
+metricLeft = sixinferior;
+metricRight = sixinferior;
+}

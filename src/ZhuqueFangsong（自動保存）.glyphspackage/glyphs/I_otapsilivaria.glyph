@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Iotapsilivaria;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.52;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (221,0);
+ref = Iota;
+},
+{
+pos = (176,185);
+ref = psilivaria.case;
+}
+);
+width = 582;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3A;
+unicode = 7994;
+}

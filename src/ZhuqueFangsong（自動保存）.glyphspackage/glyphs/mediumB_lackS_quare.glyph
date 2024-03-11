@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = mediumBlackSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(452,0,l),
+(452,452,l),
+(0,452,l),
+(0,0,l)
+);
+}
+);
+width = 452;
+}
+);
+locked = 1;
+production = uni25FC;
+unicode = 9724;
+}

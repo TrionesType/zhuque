@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = semicolon;
+layers = (
+{
+.lastUpdate = 731845427.54;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+},
+{
+alignment = -1;
+pos = (-4,280);
+ref = period;
+}
+);
+width = 238;
+}
+);
+locked = 1;
+unicode = 59;
+}

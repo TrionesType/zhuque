@@ -1,0 +1,23 @@
+{
+color = 2;
+glyphname = "o-cy";
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 731845427.515;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = o;
+}
+);
+width = 506;
+}
+);
+locked = 1;
+production = uni043E;
+unicode = 1086;
+}

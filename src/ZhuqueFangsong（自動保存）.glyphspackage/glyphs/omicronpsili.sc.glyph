@@ -1,0 +1,24 @@
+{
+color = 2;
+glyphname = omicronpsili.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.527;
+layerId = m01;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (95,45);
+ref = psili;
+}
+);
+width = 585;
+}
+);
+locked = 1;
+production = uni1F40.sc;
+}

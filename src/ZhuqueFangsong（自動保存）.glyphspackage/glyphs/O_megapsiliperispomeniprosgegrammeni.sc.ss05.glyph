@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = Omegapsiliperispomeniprosgegrammeni.sc.ss05;
+kernLeft = Omegatonos;
+kernRight = H;
+layers = (
+{
+.lastUpdate = 731845427.53;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (149,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (884,45);
+ref = psiliperispomeni.case;
+}
+);
+width = 1269;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=iota.sc";
+production = uni1FAE.sc.ss05;
+}

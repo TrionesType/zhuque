@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Sdotaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 731845427.5;
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (76,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 530;
+}
+);
+locked = 1;
+production = uni1E60;
+unicode = 7776;
+}

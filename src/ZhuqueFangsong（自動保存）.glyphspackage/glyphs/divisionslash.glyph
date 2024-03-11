@@ -1,0 +1,20 @@
+{
+color = 2;
+glyphname = divisionslash;
+layers = (
+{
+.lastUpdate = 731845427.541;
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = slash;
+}
+);
+width = 329;
+}
+);
+locked = 1;
+production = uni2215;
+unicode = 8725;
+}

@@ -1,0 +1,26 @@
+{
+color = 2;
+glyphname = Omicrontonos;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 731845427.518;
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (43,0);
+ref = Omicron;
+},
+{
+pos = (191,185);
+ref = tonos;
+}
+);
+width = 735;
+}
+);
+locked = 1;
+unicode = 908;
+}

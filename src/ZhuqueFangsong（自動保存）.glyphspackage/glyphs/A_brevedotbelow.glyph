@@ -1,0 +1,29 @@
+{
+color = 2;
+glyphname = Abrevedotbelow;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 731845427.495;
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (90,0);
+ref = dotbelowcomb;
+},
+{
+pos = (93,-10);
+ref = brevecomb.case;
+}
+);
+width = 584;
+}
+);
+locked = 1;
+production = uni1EB6;
+unicode = 7862;
+}
