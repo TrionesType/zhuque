@@ -26,11 +26,11 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (118,31);
+pos = (125,25);
 ref = perispomeni;
 }
 );
-width = 625;
+width = 639;
 }
 );
 locked = 1;

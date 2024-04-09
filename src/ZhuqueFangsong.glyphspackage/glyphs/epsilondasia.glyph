@@ -26,11 +26,11 @@ shapes = (
 ref = epsilon;
 },
 {
-pos = (34,0);
+pos = (25,0);
 ref = dasia;
 }
 );
-width = 434;
+width = 421;
 }
 );
 locked = 1;

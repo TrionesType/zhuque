@@ -26,11 +26,11 @@ shapes = (
 ref = upsilon.sc;
 },
 {
-pos = (81,31);
+pos = (41,25);
 ref = perispomeni;
 }
 );
-width = 551;
+width = 471;
 }
 );
 locked = 1;

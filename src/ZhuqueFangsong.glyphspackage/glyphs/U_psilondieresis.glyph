@@ -26,11 +26,11 @@ shapes = (
 ref = Upsilon;
 },
 {
-pos = (120,175);
+pos = (66,185);
 ref = dieresiscomb;
 }
 );
-width = 638;
+width = 535;
 }
 );
 locked = 1;

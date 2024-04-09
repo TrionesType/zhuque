@@ -26,11 +26,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-35,31);
+pos = (-37,45);
 ref = dieresiscomb;
 }
 );
-width = 322;
+width = 319;
 }
 );
 locked = 1;

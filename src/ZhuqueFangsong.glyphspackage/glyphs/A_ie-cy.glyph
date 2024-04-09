@@ -22,7 +22,7 @@ shapes = (
 ref = AE;
 }
 );
-width = 938;
+width = 810;
 }
 );
 locked = 1;

@@ -26,11 +26,11 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (176,0);
+pos = (178,0);
 ref = dieresiscomb.case;
 }
 );
-width = 749;
+width = 753;
 }
 );
 locked = 1;

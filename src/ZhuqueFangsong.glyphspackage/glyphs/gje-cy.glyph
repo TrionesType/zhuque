@@ -26,11 +26,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (8,0);
+pos = (2,0);
 ref = acutecomb;
 }
 );
-width = 456;
+width = 417;
 }
 );
 locked = 1;

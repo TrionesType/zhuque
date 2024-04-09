@@ -95,7 +95,7 @@ shapes = (
 ref = "obarred-cy";
 }
 );
-width = 512;
+width = 510;
 }
 );
 locked = 1;

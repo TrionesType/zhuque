@@ -26,11 +26,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-62,31);
+pos = (-64,45);
 ref = dialytikaperispomeni;
 }
 );
-width = 322;
+width = 319;
 }
 );
 locked = 1;

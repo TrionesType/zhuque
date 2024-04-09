@@ -26,11 +26,11 @@ shapes = (
 ref = upsilon.sc;
 },
 {
-pos = (50,31);
+pos = (10,45);
 ref = dasiaperispomeni;
 }
 );
-width = 551;
+width = 471;
 }
 );
 locked = 1;

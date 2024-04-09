@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 }
 );
-width = 676;
+width = 584;
 }
 );
 locked = 1;

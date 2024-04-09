@@ -26,11 +26,11 @@ shapes = (
 ref = omega.sc;
 },
 {
-pos = (128,31);
+pos = (137,45);
 ref = dasia;
 }
 );
-width = 630;
+width = 673;
 }
 );
 locked = 1;

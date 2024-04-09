@@ -26,11 +26,11 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (142,0);
+pos = (161,0);
 ref = ypogegrammenicomb;
 }
 );
-width = 625;
+width = 639;
 }
 );
 locked = 1;

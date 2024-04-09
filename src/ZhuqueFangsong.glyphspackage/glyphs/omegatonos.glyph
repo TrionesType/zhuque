@@ -26,11 +26,11 @@ shapes = (
 ref = omega;
 },
 {
-pos = (108,0);
+pos = (132,0);
 ref = tonos;
 }
 );
-width = 630;
+width = 657;
 }
 );
 locked = 1;

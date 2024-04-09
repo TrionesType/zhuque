@@ -26,11 +26,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (47,0);
+pos = (65,0);
 ref = psilivaria;
 }
 );
-width = 508;
+width = 515;
 }
 );
 locked = 1;

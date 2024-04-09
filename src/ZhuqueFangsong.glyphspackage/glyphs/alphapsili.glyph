@@ -26,11 +26,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (84,0);
+pos = (89,0);
 ref = psili;
 }
 );
-width = 519;
+width = 540;
 }
 );
 locked = 1;

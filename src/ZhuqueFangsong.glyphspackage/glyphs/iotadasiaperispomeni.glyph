@@ -26,11 +26,11 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-113,0);
+pos = (-96,0);
 ref = dasiaperispomeni;
 }
 );
-width = 273;
+width = 268;
 }
 );
 locked = 1;

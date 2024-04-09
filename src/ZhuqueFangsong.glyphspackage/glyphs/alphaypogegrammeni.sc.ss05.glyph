@@ -38,11 +38,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (586,0);
+pos = (510,0);
 ref = prosgegrammeni.sc;
 }
 );
-width = 905;
+width = 829;
 }
 );
 locked = 1;

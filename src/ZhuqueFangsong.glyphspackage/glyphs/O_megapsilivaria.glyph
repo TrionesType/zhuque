@@ -31,7 +31,7 @@ pos = (298,0);
 ref = Omega;
 },
 {
-pos = (-39,-76);
+pos = (473,185);
 ref = psilivaria.case;
 }
 );

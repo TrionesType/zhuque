@@ -26,11 +26,11 @@ shapes = (
 ref = omicron;
 },
 {
-pos = (83,0);
+pos = (56,0);
 ref = psili;
 }
 );
-width = 499;
+width = 492;
 }
 );
 locked = 1;

@@ -26,11 +26,11 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (63,31);
+pos = (63,46);
 ref = acutecomb;
 }
 );
-width = 600;
+width = 551;
 }
 );
 locked = 1;

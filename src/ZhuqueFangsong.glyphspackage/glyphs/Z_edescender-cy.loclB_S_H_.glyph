@@ -22,7 +22,7 @@ shapes = (
 ref = "Zedescender-cy";
 }
 );
-width = 581;
+width = 548;
 }
 );
 locked = 1;

@@ -26,11 +26,11 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-73,-10);
+pos = (-52,-10);
 ref = dieresiscomb.i;
 }
 );
-width = 273;
+width = 268;
 }
 );
 locked = 1;

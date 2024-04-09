@@ -26,11 +26,11 @@ shapes = (
 ref = upsilon;
 },
 {
-pos = (31,0);
+pos = (30,0);
 ref = dialytikaoxia;
 }
 );
-width = 438;
+width = 457;
 }
 );
 locked = 1;

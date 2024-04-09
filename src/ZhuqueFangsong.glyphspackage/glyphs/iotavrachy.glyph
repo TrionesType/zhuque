@@ -26,11 +26,11 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-86,0);
+pos = (-69,0);
 ref = brevecomb;
 }
 );
-width = 273;
+width = 268;
 }
 );
 locked = 1;

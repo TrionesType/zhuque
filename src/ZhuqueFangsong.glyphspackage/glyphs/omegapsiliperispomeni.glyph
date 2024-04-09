@@ -26,11 +26,11 @@ shapes = (
 ref = omega;
 },
 {
-pos = (70,0);
+pos = (104,0);
 ref = psiliperispomeni;
 }
 );
-width = 630;
+width = 657;
 }
 );
 locked = 1;

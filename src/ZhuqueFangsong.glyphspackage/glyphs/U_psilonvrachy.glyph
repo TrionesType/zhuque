@@ -26,11 +26,11 @@ shapes = (
 ref = Upsilon;
 },
 {
-pos = (120,0);
+pos = (66,-10);
 ref = brevecomb.case;
 }
 );
-width = 638;
+width = 535;
 }
 );
 locked = 1;

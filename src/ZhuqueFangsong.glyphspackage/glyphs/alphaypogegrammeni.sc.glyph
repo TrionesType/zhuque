@@ -38,11 +38,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (122,0);
+pos = (96,0);
 ref = ypogegrammenicomb;
 }
 );
-width = 586;
+width = 510;
 }
 );
 locked = 1;

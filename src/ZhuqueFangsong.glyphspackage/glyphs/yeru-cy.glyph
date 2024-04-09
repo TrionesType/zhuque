@@ -107,11 +107,11 @@ shapes = (
 ref = "softsign-cy.cond";
 },
 {
-pos = (450,0);
+pos = (385,0);
 ref = idotless.cy;
 }
 );
-width = 755;
+width = 667;
 },
 {
 anchors = (

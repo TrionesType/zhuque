@@ -26,11 +26,11 @@ shapes = (
 ref = upsilon.sc;
 },
 {
-pos = (79,31);
+pos = (34,45);
 ref = varia;
 }
 );
-width = 551;
+width = 471;
 }
 );
 locked = 1;

@@ -26,11 +26,11 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-57,0);
+pos = (-68,0);
 ref = psili;
 }
 );
-width = 273;
+width = 268;
 }
 );
 locked = 1;

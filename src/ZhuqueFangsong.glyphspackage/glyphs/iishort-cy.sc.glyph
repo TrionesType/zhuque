@@ -26,11 +26,11 @@ shapes = (
 ref = "ii-cy.sc";
 },
 {
-pos = (116,31);
+pos = (126,46);
 ref = "brevecomb-cy";
 }
 );
-width = 632;
+width = 639;
 }
 );
 locked = 1;

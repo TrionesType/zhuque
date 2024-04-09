@@ -22,7 +22,7 @@ shapes = (
 ref = X;
 }
 );
-width = 711;
+width = 656;
 }
 );
 locked = 1;

@@ -31,7 +31,7 @@ pos = (131,0);
 ref = Omega;
 },
 {
-pos = (-101,-76);
+pos = (333,185);
 ref = psili.case;
 }
 );

@@ -1,0 +1,39 @@
+{
+color = 2;
+glyphname = "ustraightstroke-cy";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ustraight-cy";
+},
+{
+pos = (-16,-239);
+ref = strokeshortcomb;
+}
+);
+width = 454;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "ustraight-cy";
+},
+{
+pos = (-16,-239);
+ref = strokeshortcomb;
+}
+);
+width = 454;
+}
+);
+locked = 1;
+production = ustraitstrokecy;
+unicode = 1201;
+}

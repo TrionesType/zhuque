@@ -1,0 +1,30 @@
+{
+color = 2;
+glyphname = "Gestroke-cy.loclBSH";
+kernLeft = H;
+kernRight = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = F;
+}
+);
+width = 512;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = F;
+}
+);
+width = 512;
+}
+);
+locked = 1;
+production = uni0492.loclBSH;
+}

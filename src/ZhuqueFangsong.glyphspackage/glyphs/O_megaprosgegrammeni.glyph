@@ -28,7 +28,7 @@ alignment = -1;
 ref = Omega;
 },
 {
-pos = (203,0);
+pos = (242,0);
 ref = ypogegrammenicomb;
 }
 );

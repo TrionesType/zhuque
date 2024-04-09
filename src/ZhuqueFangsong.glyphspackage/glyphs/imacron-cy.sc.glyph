@@ -26,11 +26,11 @@ shapes = (
 ref = "ii-cy.sc";
 },
 {
-pos = (113,31);
+pos = (120,46);
 ref = macroncomb;
 }
 );
-width = 632;
+width = 639;
 }
 );
 locked = 1;

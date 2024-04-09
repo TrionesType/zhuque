@@ -31,11 +31,11 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-113,0);
+pos = (-96,0);
 ref = psiliperispomeni;
 }
 );
-width = 273;
+width = 268;
 }
 );
 locked = 1;

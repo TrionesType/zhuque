@@ -31,7 +31,7 @@ pos = (208,0);
 ref = Upsilon;
 },
 {
-pos = (-140,-112);
+pos = (275,185);
 ref = tonos;
 }
 );

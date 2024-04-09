@@ -26,11 +26,11 @@ shapes = (
 ref = omega.sc;
 },
 {
-pos = (82,31);
+pos = (110,45);
 ref = dasiaperispomeni;
 }
 );
-width = 630;
+width = 673;
 }
 );
 locked = 1;

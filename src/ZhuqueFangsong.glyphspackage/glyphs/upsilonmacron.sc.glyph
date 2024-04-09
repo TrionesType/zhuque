@@ -26,11 +26,11 @@ shapes = (
 ref = upsilon.sc;
 },
 {
-pos = (72,31);
+pos = (36,45);
 ref = macroncomb;
 }
 );
-width = 551;
+width = 471;
 }
 );
 locked = 1;

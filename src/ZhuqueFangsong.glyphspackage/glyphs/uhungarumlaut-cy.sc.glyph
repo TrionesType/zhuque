@@ -26,11 +26,11 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (100,31);
+pos = (108,46);
 ref = hungarumlautcomb;
 }
 );
-width = 501;
+width = 476;
 }
 );
 locked = 1;

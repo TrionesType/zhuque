@@ -34,7 +34,7 @@ shapes = (
 ref = I;
 }
 );
-width = 370;
+width = 361;
 }
 );
 locked = 1;

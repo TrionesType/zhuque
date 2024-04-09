@@ -26,11 +26,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (28,0);
+pos = (61,0);
 ref = dasiaperispomeni;
 }
 );
-width = 519;
+width = 540;
 }
 );
 locked = 1;

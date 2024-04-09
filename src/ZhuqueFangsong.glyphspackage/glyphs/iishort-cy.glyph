@@ -50,7 +50,7 @@ pos = (100,0);
 ref = "brevecomb-cy";
 }
 );
-width = 601;
+width = 586;
 }
 );
 locked = 1;

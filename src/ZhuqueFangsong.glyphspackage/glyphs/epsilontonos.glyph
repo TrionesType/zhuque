@@ -30,7 +30,7 @@ pos = (26,0);
 ref = tonos;
 }
 );
-width = 434;
+width = 421;
 }
 );
 locked = 1;

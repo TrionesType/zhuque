@@ -26,11 +26,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-16,31);
+pos = (-37,45);
 ref = dialytikaoxia;
 }
 );
-width = 322;
+width = 319;
 }
 );
 locked = 1;

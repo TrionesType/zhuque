@@ -31,7 +31,7 @@ pos = (320,0);
 ref = Omega;
 },
 {
-pos = (-29,-76);
+pos = (495,185);
 ref = dasiavaria.case;
 }
 );

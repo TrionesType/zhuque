@@ -144,7 +144,7 @@ shapes = (
 ref = Gamma;
 }
 );
-width = 559;
+width = 493;
 }
 );
 locked = 1;

@@ -8,7 +8,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (1,0);
+pos = (2,0);
 ref = n.sc;
 }
 );
@@ -53,7 +53,7 @@ weight = -22;
 width = 83;
 };
 };
-width = 630;
+width = 614;
 }
 );
 locked = 1;

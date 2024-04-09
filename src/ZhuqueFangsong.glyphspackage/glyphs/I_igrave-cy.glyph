@@ -26,11 +26,11 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (164,0);
+pos = (166,-10);
 ref = gravecomb.case;
 }
 );
-width = 749;
+width = 753;
 }
 );
 locked = 1;
