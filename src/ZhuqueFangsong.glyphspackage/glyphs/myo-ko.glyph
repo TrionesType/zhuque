@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = "myo-ko";
+layers = (
+{
+layerId = m01;
+width = 960;
+}
+);
+unicode = 47896;
+}

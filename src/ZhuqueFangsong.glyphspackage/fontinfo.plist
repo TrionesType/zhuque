@@ -1912,7 +1912,31 @@ value = "90";
 },
 {
 name = "CJK Guide";
-value = "73,76";
+value = "han:73,76";
+},
+{
+name = "Default Layer Width";
+value = "hangul:960";
+}
+);
+guides = (
+{
+locked = 1;
+pos = (500,500);
+},
+{
+angle = 90;
+locked = 1;
+pos = (348,350);
+},
+{
+angle = 90;
+locked = 1;
+pos = (713,350);
+},
+{
+locked = 1;
+pos = (500,120);
 }
 );
 id = m01;
