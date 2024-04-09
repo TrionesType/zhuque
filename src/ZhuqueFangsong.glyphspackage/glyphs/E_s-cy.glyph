@@ -12,6 +12,24 @@ ref = C;
 }
 );
 width = 626;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+ref = C;
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = C;
+}
+);
+width = 603;
 }
 );
 locked = 1;

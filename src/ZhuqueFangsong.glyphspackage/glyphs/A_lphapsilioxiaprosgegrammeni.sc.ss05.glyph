@@ -9,15 +9,32 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (157,0);
+pos = (60,0);
 ref = Alphaprosgegrammeni.sc.ss05;
 },
 {
-pos = (675,45);
+pos = (578,45);
 ref = psilioxia.case;
 }
 );
-width = 1060;
+width = 991;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (261,0);
+ref = Alphaprosgegrammeni.sc.ss05;
+},
+{
+pos = (779,45);
+ref = psilioxia.case;
+}
+);
+width = 1259;
 }
 );
 locked = 1;

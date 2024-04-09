@@ -76,6 +76,82 @@ width = 68;
 };
 };
 width = 461;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (235,320);
+},
+{
+name = center;
+pos = (235,547);
+},
+{
+name = ogonek;
+pos = (421,327);
+},
+{
+name = top;
+pos = (235,774);
+},
+{
+name = topleft;
+pos = (-47,774);
+},
+{
+name = topright;
+pos = (454,774);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+closed = 1;
+nodes = (
+(378,312,o),
+(460,397,o),
+(460,558,cs),
+(460,709,o),
+(390,783,o),
+(244,783,cs),
+(89,783,o),
+(9,700,o),
+(9,540,cs),
+(9,391,o),
+(84,312,o),
+(225,312,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(197,409,o),
+(186,448,o),
+(186,577,cs),
+(186,654,o),
+(196,677,o),
+(230,677,cs),
+(273,677,o),
+(283,640,o),
+(283,511,cs),
+(283,433,o),
+(273,409,o),
+(238,409,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 70;
+verticalShift = 320;
+weight = -40;
+width = 72;
+};
+};
+width = 469;
 }
 );
 locked = 1;

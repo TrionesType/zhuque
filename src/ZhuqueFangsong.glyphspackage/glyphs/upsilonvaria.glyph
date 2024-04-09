@@ -16,6 +16,21 @@ ref = varia;
 }
 );
 width = 457;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (14,0);
+ref = varia;
+}
+);
+width = 438;
 }
 );
 locked = 1;

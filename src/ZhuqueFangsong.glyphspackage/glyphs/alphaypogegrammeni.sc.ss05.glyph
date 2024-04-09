@@ -22,6 +22,27 @@ ref = prosgegrammeni.sc;
 }
 );
 width = 829;
+},
+{
+anchors = (
+{
+name = top;
+pos = (255,497);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (586,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 905;
 }
 );
 locked = 1;

@@ -103,6 +103,7 @@ nodes = (
 width = 803;
 }
 );
+locked = 1;
 note = mhook;
 unicode = 625;
 }

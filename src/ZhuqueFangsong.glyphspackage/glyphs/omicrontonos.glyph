@@ -16,6 +16,21 @@ ref = tonos;
 }
 );
 width = 492;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (65,0);
+ref = tonos;
+}
+);
+width = 499;
 }
 );
 locked = 1;

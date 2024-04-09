@@ -80,6 +80,7 @@ nodes = (
 width = 578;
 }
 );
+locked = 1;
 note = hturnedfishhooktail;
 unicode = 687;
 }

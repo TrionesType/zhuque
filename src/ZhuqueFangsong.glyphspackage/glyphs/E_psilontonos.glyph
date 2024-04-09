@@ -13,11 +13,29 @@ pos = (100,0);
 ref = Epsilon;
 },
 {
-pos = (198,185);
+anchor = topleft;
+pos = (-161,-37);
 ref = tonos;
 }
 );
 width = 691;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (210,0);
+ref = Epsilon;
+},
+{
+pos = (308,185);
+ref = tonos;
+}
+);
+width = 813;
 }
 );
 locked = 1;

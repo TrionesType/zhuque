@@ -16,6 +16,21 @@ ref = dasiaoxia;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-66,45);
+ref = dasiaoxia;
+}
+);
+width = 319;
 }
 );
 locked = 1;

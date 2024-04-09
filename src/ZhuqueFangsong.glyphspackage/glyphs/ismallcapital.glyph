@@ -50,6 +50,7 @@ nodes = (
 width = 309;
 }
 );
+locked = 1;
 note = ismallcapital;
 unicode = 618;
 }

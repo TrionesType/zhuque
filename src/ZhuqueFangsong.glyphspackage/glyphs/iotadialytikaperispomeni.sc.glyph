@@ -16,6 +16,21 @@ ref = dialytikaperispomeni;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-62,31);
+ref = dialytikaperispomeni;
+}
+);
+width = 322;
 }
 );
 locked = 1;

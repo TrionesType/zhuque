@@ -67,6 +67,7 @@ nodes = (
 width = 516;
 }
 );
+locked = 1;
 note = gscript;
 unicode = 609;
 }

@@ -20,6 +20,25 @@ width = 82;
 };
 };
 width = 543;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = k.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 596;
 }
 );
 locked = 1;

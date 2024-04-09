@@ -16,6 +16,21 @@ ref = macroncomb;
 }
 );
 width = 476;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (62,31);
+ref = macroncomb;
+}
+);
+width = 501;
 }
 );
 locked = 1;

@@ -102,6 +102,7 @@ nodes = (
 width = 788;
 }
 );
+locked = 1;
 note = mturnedlongleg;
 unicode = 624;
 }

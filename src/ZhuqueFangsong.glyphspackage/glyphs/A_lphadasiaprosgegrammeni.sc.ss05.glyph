@@ -18,6 +18,23 @@ ref = dasia.case;
 }
 );
 width = 963;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (79,0);
+ref = Alphaprosgegrammeni.sc.ss05;
+},
+{
+pos = (624,45);
+ref = dasia.case;
+}
+);
+width = 1077;
 }
 );
 locked = 1;

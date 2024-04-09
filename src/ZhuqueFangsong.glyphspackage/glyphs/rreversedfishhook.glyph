@@ -53,6 +53,7 @@ nodes = (
 width = 321;
 }
 );
+locked = 1;
 note = rreversedfishhook;
 unicode = 639;
 }

@@ -16,6 +16,21 @@ ref = psilioxia;
 }
 );
 width = 673;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (82,31);
+ref = psilioxia;
+}
+);
+width = 630;
 }
 );
 locked = 1;

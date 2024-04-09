@@ -16,6 +16,21 @@ ref = "brevecomb-cy";
 }
 );
 width = 461;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "a-cy";
+},
+{
+pos = (21,0);
+ref = "brevecomb-cy";
+}
+);
+width = 461;
 }
 );
 locked = 1;

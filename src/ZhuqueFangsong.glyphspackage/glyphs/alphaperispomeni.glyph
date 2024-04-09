@@ -16,6 +16,21 @@ ref = perispomeni;
 }
 );
 width = 540;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (59,0);
+ref = perispomeni;
+}
+);
+width = 519;
 }
 );
 locked = 1;

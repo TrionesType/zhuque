@@ -101,6 +101,7 @@ nodes = (
 width = 336;
 }
 );
+locked = 1;
 note = lmiddletilde;
 unicode = 619;
 }

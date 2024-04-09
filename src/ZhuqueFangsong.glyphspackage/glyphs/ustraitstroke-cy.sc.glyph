@@ -35,6 +35,40 @@ width = 82;
 };
 };
 width = 475;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (88,-56);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (50,-56);
+ref = strokeshortcomb;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 578;
 }
 );
 locked = 1;

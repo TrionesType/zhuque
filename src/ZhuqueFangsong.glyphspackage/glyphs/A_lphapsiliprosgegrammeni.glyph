@@ -18,6 +18,23 @@ ref = Alphaprosgegrammeni;
 }
 );
 width = 644;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (-99,-76);
+ref = psili.case;
+},
+{
+pos = (56,0);
+ref = Alphaprosgegrammeni;
+}
+);
+width = 732;
 }
 );
 locked = 1;

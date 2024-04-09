@@ -9,15 +9,32 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (66,0);
+pos = (-1,0);
 ref = Omegaprosgegrammeni.sc.ss05;
 },
 {
-pos = (828,45);
+pos = (761,45);
 ref = dasia.case;
 }
 );
-width = 1186;
+width = 1119;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (136,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (898,45);
+ref = dasia.case;
+}
+);
+width = 1206;
 }
 );
 locked = 1;

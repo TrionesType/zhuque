@@ -83,6 +83,7 @@ nodes = (
 width = 485;
 }
 );
+locked = 1;
 note = bsmallcapital;
 unicode = 665;
 }

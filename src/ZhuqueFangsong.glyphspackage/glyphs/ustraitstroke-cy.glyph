@@ -16,6 +16,21 @@ ref = strokeshortcomb;
 }
 );
 width = 454;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "ustrait-cy";
+},
+{
+pos = (-16,-260);
+ref = strokeshortcomb;
+}
+);
+width = 500;
 }
 );
 locked = 1;

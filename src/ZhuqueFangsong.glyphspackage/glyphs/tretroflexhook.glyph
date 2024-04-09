@@ -47,6 +47,7 @@ nodes = (
 width = 0;
 }
 );
+locked = 1;
 note = tretroflexhook;
 unicode = 648;
 }

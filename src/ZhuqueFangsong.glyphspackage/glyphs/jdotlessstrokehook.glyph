@@ -52,6 +52,7 @@ nodes = (
 width = 301;
 }
 );
+locked = 1;
 note = jdotlessstrokehook;
 unicode = 644;
 }

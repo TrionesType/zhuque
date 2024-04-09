@@ -18,6 +18,23 @@ ref = Etaprosgegrammeni;
 }
 );
 width = 856;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (-95,-76);
+ref = psili.case;
+},
+{
+pos = (205,0);
+ref = Etaprosgegrammeni;
+}
+);
+width = 944;
 }
 );
 locked = 1;

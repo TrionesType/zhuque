@@ -18,6 +18,23 @@ ref = Omegaprosgegrammeni.ss05;
 }
 );
 width = 1129;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (-101,-76);
+ref = psili.case;
+},
+{
+pos = (121,0);
+ref = Omegaprosgegrammeni.ss05;
+}
+);
+width = 1142;
 }
 );
 locked = 1;

@@ -13,11 +13,29 @@ pos = (108,0);
 ref = Iota;
 },
 {
-pos = (90,185);
+anchor = topleft;
+pos = (-127,-36);
 ref = dasia.case;
 }
 );
 width = 469;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (209,0);
+ref = Iota;
+},
+{
+pos = (191,185);
+ref = dasia.case;
+}
+);
+width = 579;
 }
 );
 locked = 1;

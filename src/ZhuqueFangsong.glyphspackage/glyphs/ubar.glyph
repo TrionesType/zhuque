@@ -90,6 +90,7 @@ nodes = (
 width = 541;
 }
 );
+locked = 1;
 note = ubar;
 unicode = 649;
 }

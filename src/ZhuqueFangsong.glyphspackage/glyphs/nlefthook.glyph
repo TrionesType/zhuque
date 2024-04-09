@@ -71,6 +71,7 @@ nodes = (
 width = 548;
 }
 );
+locked = 1;
 note = nlefthook;
 unicode = 626;
 }

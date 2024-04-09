@@ -16,6 +16,21 @@ ref = dasia;
 }
 );
 width = 585;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (94,45);
+ref = dasia;
+}
+);
+width = 585;
 }
 );
 locked = 1;

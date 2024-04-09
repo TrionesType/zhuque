@@ -9,15 +9,32 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (191,0);
+pos = (-46,0);
 ref = Etaprosgegrammeni.sc.ss05;
 },
 {
-pos = (879,45);
+pos = (642,45);
 ref = psiliperispomeni.case;
 }
 );
-width = 1264;
+width = 1042;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (288,0);
+ref = Etaprosgegrammeni.sc.ss05;
+},
+{
+pos = (976,45);
+ref = psiliperispomeni.case;
+}
+);
+width = 1349;
 }
 );
 locked = 1;

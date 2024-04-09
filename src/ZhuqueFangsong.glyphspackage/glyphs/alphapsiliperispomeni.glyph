@@ -16,6 +16,21 @@ ref = psiliperispomeni;
 }
 );
 width = 540;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (28,0);
+ref = psiliperispomeni;
+}
+);
+width = 519;
 }
 );
 locked = 1;

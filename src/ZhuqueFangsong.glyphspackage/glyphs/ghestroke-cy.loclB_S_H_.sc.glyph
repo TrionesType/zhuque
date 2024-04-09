@@ -3,6 +3,17 @@ color = 2;
 glyphname = "ghestroke-cy.loclBSH.sc";
 layers = (
 {
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = f.sc;
+}
+);
+width = 478;
+},
+{
 layerId = m01;
 shapes = (
 {

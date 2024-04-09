@@ -63,6 +63,7 @@ nodes = (
 width = 528;
 }
 );
+locked = 1;
 note = glottalstopcaseless;
 unicode = 660;
 }

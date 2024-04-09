@@ -118,6 +118,7 @@ nodes = (
 width = 434;
 }
 );
+locked = 1;
 note = ysmallcapital;
 unicode = 655;
 }

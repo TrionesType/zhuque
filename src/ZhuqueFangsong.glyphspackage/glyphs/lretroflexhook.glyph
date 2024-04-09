@@ -45,6 +45,7 @@ nodes = (
 width = 244;
 }
 );
+locked = 1;
 note = lretroflexhook;
 unicode = 621;
 }

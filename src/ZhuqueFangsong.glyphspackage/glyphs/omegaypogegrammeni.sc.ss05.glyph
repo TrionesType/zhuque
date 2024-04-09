@@ -16,6 +16,21 @@ ref = prosgegrammeni.sc;
 }
 );
 width = 992;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (630,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 949;
 }
 );
 locked = 1;

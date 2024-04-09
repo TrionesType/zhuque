@@ -16,6 +16,21 @@ ref = dialytikavaria;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-16,31);
+ref = dialytikavaria;
+}
+);
+width = 322;
 }
 );
 locked = 1;

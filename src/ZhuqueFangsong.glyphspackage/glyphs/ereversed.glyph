@@ -60,6 +60,7 @@ nodes = (
 width = 447;
 }
 );
+locked = 1;
 note = ereversed;
 unicode = 600;
 }

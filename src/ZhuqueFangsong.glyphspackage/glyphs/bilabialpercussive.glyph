@@ -149,6 +149,7 @@ nodes = (
 width = 474;
 }
 );
+locked = 1;
 note = bilabialpercussive;
 unicode = 684;
 }

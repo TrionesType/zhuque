@@ -13,11 +13,29 @@ pos = (221,0);
 ref = Epsilon;
 },
 {
-pos = (291,185);
+anchor = topleft;
+pos = (-91,-36);
 ref = psilivaria.case;
 }
 );
 width = 812;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (371,0);
+ref = Epsilon;
+},
+{
+pos = (441,185);
+ref = psilivaria.case;
+}
+);
+width = 974;
 }
 );
 locked = 1;

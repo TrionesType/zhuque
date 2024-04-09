@@ -127,6 +127,7 @@ nodes = (
 width = 532;
 }
 );
+locked = 1;
 note = lezh;
 unicode = 622;
 }

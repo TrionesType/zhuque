@@ -100,6 +100,7 @@ nodes = (
 width = 446;
 }
 );
+locked = 1;
 note = yturned;
 unicode = 654;
 }

@@ -132,6 +132,7 @@ nodes = (
 width = 548;
 }
 );
+locked = 1;
 note = nretroflexhook;
 unicode = 627;
 }

@@ -16,6 +16,21 @@ ref = brevecomb;
 }
 );
 width = 540;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (55,0);
+ref = brevecomb;
+}
+);
+width = 519;
 }
 );
 locked = 1;

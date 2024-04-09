@@ -130,6 +130,7 @@ nodes = (
 width = 495;
 }
 );
+locked = 1;
 note = ereversedopenhook;
 unicode = 605;
 }

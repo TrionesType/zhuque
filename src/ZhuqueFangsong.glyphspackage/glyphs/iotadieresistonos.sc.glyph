@@ -16,6 +16,21 @@ ref = dieresistonos;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-71,31);
+ref = dieresistonos;
+}
+);
+width = 322;
 }
 );
 locked = 1;

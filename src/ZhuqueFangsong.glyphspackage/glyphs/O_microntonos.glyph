@@ -13,11 +13,29 @@ pos = (43,0);
 ref = Omicron;
 },
 {
-pos = (191,185);
+anchor = topleft;
+pos = (-177,-37);
 ref = tonos;
 }
 );
 width = 735;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = Omicron;
+},
+{
+pos = (318,185);
+ref = tonos;
+}
+);
+width = 825;
 }
 );
 locked = 1;

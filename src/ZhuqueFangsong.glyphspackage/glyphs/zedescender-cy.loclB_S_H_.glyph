@@ -12,6 +12,17 @@ ref = "zedescender-cy";
 }
 );
 width = 429;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "zedescender-cy";
+}
+);
+width = 441;
 }
 );
 locked = 1;

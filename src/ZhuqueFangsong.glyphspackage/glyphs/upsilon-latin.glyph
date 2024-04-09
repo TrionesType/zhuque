@@ -64,6 +64,7 @@ nodes = (
 width = 626;
 }
 );
+locked = 1;
 note = upsilon;
 unicode = 650;
 }

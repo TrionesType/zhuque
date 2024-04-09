@@ -75,6 +75,7 @@ nodes = (
 width = 528;
 }
 );
+locked = 1;
 note = glottalstopreversedstroke;
 unicode = 674;
 }

@@ -78,6 +78,7 @@ nodes = (
 width = 574;
 }
 );
+locked = 1;
 note = hturnedfishhook;
 unicode = 686;
 }

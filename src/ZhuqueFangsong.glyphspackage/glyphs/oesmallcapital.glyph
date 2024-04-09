@@ -88,6 +88,7 @@ nodes = (
 width = 755;
 }
 );
+locked = 1;
 note = oesmallcapital;
 unicode = 630;
 }

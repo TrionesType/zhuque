@@ -64,6 +64,7 @@ nodes = (
 width = 383;
 }
 );
+locked = 1;
 note = rtail;
 unicode = 637;
 }

@@ -22,6 +22,27 @@ ref = E;
 }
 );
 width = 591;
+},
+{
+anchors = (
+{
+name = top;
+pos = (302,647);
+},
+{
+name = topleft;
+pos = (-90,647);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = E;
+}
+);
+width = 603;
 }
 );
 locked = 1;

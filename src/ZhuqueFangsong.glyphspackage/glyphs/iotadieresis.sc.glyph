@@ -16,6 +16,21 @@ ref = dieresiscomb.i;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-22,35);
+ref = dieresiscomb.i;
+}
+);
+width = 319;
 }
 );
 locked = 1;

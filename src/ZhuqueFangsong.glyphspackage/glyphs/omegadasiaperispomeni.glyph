@@ -16,6 +16,21 @@ ref = dasiaperispomeni;
 }
 );
 width = 657;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (70,0);
+ref = dasiaperispomeni;
+}
+);
+width = 630;
 }
 );
 locked = 1;

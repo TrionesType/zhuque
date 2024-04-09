@@ -16,6 +16,21 @@ ref = dasia;
 }
 );
 width = 515;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (93,0);
+ref = dasia;
+}
+);
+width = 508;
 }
 );
 locked = 1;

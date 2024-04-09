@@ -16,6 +16,21 @@ ref = psili;
 }
 );
 width = 673;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (138,31);
+ref = psili;
+}
+);
+width = 630;
 }
 );
 locked = 1;

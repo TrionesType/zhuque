@@ -12,6 +12,17 @@ ref = sigma.sc;
 }
 );
 width = 486;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = sigma.sc;
+}
+);
+width = 486;
 }
 );
 locked = 1;

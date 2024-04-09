@@ -13,11 +13,29 @@ pos = (160,0);
 ref = Upsilon;
 },
 {
-pos = (227,185);
+anchor = topleft;
+pos = (-169,-37);
 ref = oxia;
 }
 );
 width = 695;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (218,0);
+ref = Upsilon;
+},
+{
+pos = (285,185);
+ref = oxia;
+}
+);
+width = 856;
 }
 );
 locked = 1;

@@ -84,6 +84,7 @@ nodes = (
 width = 475;
 }
 );
+locked = 1;
 note = ramshorn;
 unicode = 612;
 }
