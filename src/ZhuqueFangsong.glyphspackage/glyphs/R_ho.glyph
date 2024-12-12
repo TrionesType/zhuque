@@ -18,6 +18,23 @@ ref = P;
 }
 );
 width = 551;
+},
+{
+anchors = (
+{
+name = topleft;
+pos = (-90,647);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = P;
+}
+);
+width = 551;
 }
 );
 locked = 1;

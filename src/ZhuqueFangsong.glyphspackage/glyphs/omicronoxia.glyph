@@ -16,6 +16,21 @@ ref = oxia;
 }
 );
 width = 492;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (56,0);
+ref = oxia;
+}
+);
+width = 492;
 }
 );
 locked = 1;

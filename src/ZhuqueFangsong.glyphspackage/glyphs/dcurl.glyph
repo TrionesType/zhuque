@@ -145,6 +145,7 @@ nodes = (
 width = 545;
 }
 );
+locked = 1;
 note = dcurl;
 unicode = 545;
 }

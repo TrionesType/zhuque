@@ -13,11 +13,29 @@ pos = (252,0);
 ref = Upsilon;
 },
 {
-pos = (291,185);
+anchor = topleft;
+pos = (-78,-36);
 ref = dasiaperispomeni.case;
 }
 );
 width = 787;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (279,0);
+ref = Upsilon;
+},
+{
+pos = (318,185);
+ref = dasiaperispomeni.case;
+}
+);
+width = 917;
 }
 );
 locked = 1;

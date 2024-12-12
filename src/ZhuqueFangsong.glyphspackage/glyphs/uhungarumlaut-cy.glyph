@@ -16,6 +16,21 @@ ref = hungarumlautcomb;
 }
 );
 width = 453;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (78,0);
+ref = hungarumlautcomb;
+}
+);
+width = 453;
 }
 );
 locked = 1;

@@ -16,6 +16,21 @@ ref = gravecomb;
 }
 );
 width = 508;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "ie-cy.sc";
+},
+{
+pos = (58,45);
+ref = gravecomb;
+}
+);
+width = 508;
 }
 );
 locked = 1;

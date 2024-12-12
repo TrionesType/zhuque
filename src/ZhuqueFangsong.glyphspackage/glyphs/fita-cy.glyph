@@ -69,6 +69,33 @@ ref = "obarred-cy";
 }
 );
 width = 510;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,167,o),
+(318,168,o),
+(461,168,c),
+(463,293,l),
+(265,290,l),
+(35,291,l),
+(35,167,l)
+);
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "obarred-cy";
+}
+);
+width = 510;
 }
 );
 locked = 1;

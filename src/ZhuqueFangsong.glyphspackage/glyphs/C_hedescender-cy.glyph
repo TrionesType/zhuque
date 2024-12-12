@@ -18,6 +18,23 @@ ref = "descender-cy.case";
 }
 );
 width = 612;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (3,0);
+ref = "Che-cy";
+},
+{
+pos = (377,0);
+ref = "descender-cy.case";
+}
+);
+width = 705;
 }
 );
 locked = 1;

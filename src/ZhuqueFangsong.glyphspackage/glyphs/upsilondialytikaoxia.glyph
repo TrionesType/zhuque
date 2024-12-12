@@ -16,6 +16,21 @@ ref = dialytikaoxia;
 }
 );
 width = 457;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (30,0);
+ref = dialytikaoxia;
+}
+);
+width = 457;
 }
 );
 locked = 1;

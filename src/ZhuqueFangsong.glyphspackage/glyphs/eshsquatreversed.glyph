@@ -50,6 +50,7 @@ nodes = (
 width = 321;
 }
 );
+locked = 1;
 note = eshsquatreversed;
 unicode = 645;
 }

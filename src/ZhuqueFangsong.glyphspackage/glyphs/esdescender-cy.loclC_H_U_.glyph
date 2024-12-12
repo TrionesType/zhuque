@@ -16,6 +16,21 @@ ref = cedillacomb;
 }
 );
 width = 433;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "es-cy";
+},
+{
+pos = (68,0);
+ref = cedillacomb;
+}
+);
+width = 433;
 }
 );
 locked = 1;

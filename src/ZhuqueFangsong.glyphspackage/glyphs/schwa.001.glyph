@@ -55,5 +55,6 @@ nodes = (
 width = 448;
 }
 );
+locked = 1;
 note = schwa;
 }

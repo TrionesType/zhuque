@@ -16,6 +16,21 @@ ref = tonos;
 }
 );
 width = 471;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (38,45);
+ref = tonos;
+}
+);
+width = 471;
 }
 );
 locked = 1;

@@ -13,11 +13,29 @@ pos = (144,0);
 ref = Alphaprosgegrammeni;
 },
 {
-pos = (222,195);
+anchor = topleft;
+pos = (-53,-36);
 ref = dasiavaria.case;
 }
 );
 width = 728;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (263,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (341,195);
+ref = dasiavaria.case;
+}
+);
+width = 939;
 }
 );
 locked = 1;

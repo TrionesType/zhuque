@@ -22,6 +22,27 @@ ref = i.sc;
 }
 );
 width = 739;
+},
+{
+anchors = (
+{
+name = top;
+pos = (419,503);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "softsign-cy.cond.sc";
+},
+{
+pos = (420,0);
+ref = i.sc;
+}
+);
+width = 739;
 }
 );
 locked = 1;

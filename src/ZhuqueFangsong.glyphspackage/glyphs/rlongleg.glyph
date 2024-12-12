@@ -71,6 +71,7 @@ nodes = (
 width = 383;
 }
 );
+locked = 1;
 note = rlongleg;
 unicode = 636;
 }

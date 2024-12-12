@@ -16,6 +16,21 @@ ref = psilivaria;
 }
 );
 width = 958;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (94,45);
+ref = psilivaria;
+}
+);
+width = 958;
 }
 );
 locked = 1;

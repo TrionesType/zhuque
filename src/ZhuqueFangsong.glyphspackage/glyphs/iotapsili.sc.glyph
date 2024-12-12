@@ -16,6 +16,21 @@ ref = psili;
 }
 );
 width = 319;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-38,45);
+ref = psili;
+}
+);
+width = 319;
 }
 );
 locked = 1;

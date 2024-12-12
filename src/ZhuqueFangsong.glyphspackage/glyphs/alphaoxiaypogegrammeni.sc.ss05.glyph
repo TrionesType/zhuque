@@ -16,6 +16,21 @@ ref = tonos;
 }
 );
 width = 829;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (57,45);
+ref = tonos;
+}
+);
+width = 829;
 }
 );
 locked = 1;

@@ -54,5 +54,6 @@ nodes = (
 width = 462;
 }
 );
+locked = 1;
 note = ezh;
 }

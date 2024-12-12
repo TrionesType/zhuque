@@ -16,6 +16,21 @@ ref = psiliperispomeni;
 }
 );
 width = 515;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (65,0);
+ref = psiliperispomeni;
+}
+);
+width = 515;
 }
 );
 locked = 1;

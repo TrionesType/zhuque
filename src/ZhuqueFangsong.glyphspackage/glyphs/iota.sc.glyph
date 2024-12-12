@@ -26,6 +26,31 @@ width = 82;
 };
 };
 width = 319;
+},
+{
+anchors = (
+{
+name = top;
+pos = (161,503);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = i.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 319;
 }
 );
 locked = 1;

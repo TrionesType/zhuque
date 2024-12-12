@@ -16,6 +16,21 @@ ref = acutecomb.case;
 }
 );
 width = 638;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (122,0);
+ref = acutecomb.case;
+}
+);
+width = 638;
 }
 );
 locked = 1;

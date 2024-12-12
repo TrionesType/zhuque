@@ -82,6 +82,7 @@ nodes = (
 width = 538;
 }
 );
+locked = 1;
 note = ghook;
 unicode = 608;
 }

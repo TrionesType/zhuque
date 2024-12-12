@@ -16,6 +16,21 @@ ref = acutecomb;
 }
 );
 width = 551;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (63,46);
+ref = acutecomb;
+}
+);
+width = 551;
 }
 );
 locked = 1;

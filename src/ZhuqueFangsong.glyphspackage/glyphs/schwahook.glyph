@@ -110,6 +110,7 @@ nodes = (
 width = 516;
 }
 );
+locked = 1;
 note = schwahook;
 unicode = 602;
 }

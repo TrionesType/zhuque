@@ -81,6 +81,7 @@ nodes = (
 width = 705;
 }
 );
+locked = 1;
 note = wturned;
 unicode = 653;
 }

@@ -1,0 +1,81 @@
+{
+color = 2;
+glyphname = "ustraightstroke-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (33,-62);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (-3,-62);
+ref = strokeshortcomb;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 475;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (88,-56);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (-3,-62);
+ref = strokeshortcomb;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 475;
+}
+);
+locked = 1;
+production = ustraitstrokecy.sc;
+userData = {
+RMXScaler = {
+source = "Ustraitstroke-cy";
+};
+};
+}

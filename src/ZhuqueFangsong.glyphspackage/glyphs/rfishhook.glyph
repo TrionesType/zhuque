@@ -54,6 +54,7 @@ nodes = (
 width = 383;
 }
 );
+locked = 1;
 note = rfishhook;
 unicode = 638;
 }

@@ -112,6 +112,7 @@ nodes = (
 width = 612;
 }
 );
+locked = 1;
 note = ncurl;
 unicode = 565;
 }

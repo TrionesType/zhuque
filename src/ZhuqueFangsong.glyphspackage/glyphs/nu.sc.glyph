@@ -8,6 +8,7 @@ layers = (
 background = {
 shapes = (
 {
+pos = (2,0);
 ref = n.sc;
 }
 );
@@ -24,6 +25,32 @@ adjustSpace = 11;
 height = 78;
 weight = -3;
 width = 82;
+};
+};
+width = 614;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+ref = n.sc;
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = n.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
 };
 };
 width = 614;

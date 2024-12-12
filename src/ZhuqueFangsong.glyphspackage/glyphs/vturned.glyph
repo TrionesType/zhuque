@@ -52,6 +52,7 @@ nodes = (
 width = 445;
 }
 );
+locked = 1;
 note = vturned;
 unicode = 652;
 }

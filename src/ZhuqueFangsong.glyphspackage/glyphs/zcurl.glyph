@@ -138,6 +138,7 @@ nodes = (
 width = 460;
 }
 );
+locked = 1;
 note = zcurl;
 unicode = 657;
 }

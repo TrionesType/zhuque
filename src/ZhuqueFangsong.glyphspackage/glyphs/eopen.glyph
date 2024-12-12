@@ -70,6 +70,7 @@ nodes = (
 width = 429;
 }
 );
+locked = 1;
 note = eopen;
 unicode = 603;
 }

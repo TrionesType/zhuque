@@ -60,6 +60,7 @@ nodes = (
 width = 692;
 }
 );
+locked = 1;
 note = bilabialclick;
 unicode = 664;
 }

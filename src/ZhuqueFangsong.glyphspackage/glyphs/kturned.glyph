@@ -88,6 +88,7 @@ nodes = (
 width = 497;
 }
 );
+locked = 1;
 note = kturned;
 unicode = 670;
 }

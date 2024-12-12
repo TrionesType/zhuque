@@ -13,11 +13,29 @@ pos = (159,0);
 ref = Omicron;
 },
 {
-pos = (279,185);
+anchor = topleft;
+pos = (-102,-36);
 ref = dasiavaria.case;
 }
 );
 width = 851;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (353,0);
+ref = Omicron;
+},
+{
+pos = (473,185);
+ref = dasiavaria.case;
+}
+);
+width = 1008;
 }
 );
 locked = 1;

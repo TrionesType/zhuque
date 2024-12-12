@@ -1,0 +1,25 @@
+{
+color = 2;
+glyphname = Rmacronbelow;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+alignment = 1;
+pos = (106,0);
+ref = macronbelowcomb;
+}
+);
+width = 611;
+}
+);
+locked = 1;
+production = uni1E5E;
+unicode = 7774;
+}

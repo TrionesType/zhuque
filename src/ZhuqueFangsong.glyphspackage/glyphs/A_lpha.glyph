@@ -26,6 +26,31 @@ ref = A;
 }
 );
 width = 584;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (316,0);
+},
+{
+name = top;
+pos = (341,647);
+},
+{
+name = topleft;
+pos = (36,647);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = A;
+}
+);
+width = 584;
 }
 );
 locked = 1;

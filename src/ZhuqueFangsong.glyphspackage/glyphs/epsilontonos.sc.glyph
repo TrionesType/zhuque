@@ -18,6 +18,23 @@ ref = tonos;
 }
 );
 width = 508;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (56,45);
+ref = tonos;
+}
+);
+width = 508;
 }
 );
 locked = 1;

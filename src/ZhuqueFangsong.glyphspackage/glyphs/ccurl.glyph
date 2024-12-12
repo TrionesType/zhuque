@@ -91,6 +91,7 @@ nodes = (
 width = 424;
 }
 );
+locked = 1;
 note = ccurl;
 unicode = 597;
 }

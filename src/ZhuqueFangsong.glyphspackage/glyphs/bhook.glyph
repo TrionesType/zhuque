@@ -64,6 +64,7 @@ nodes = (
 width = 508;
 }
 );
+locked = 1;
 note = bhook;
 unicode = 595;
 }

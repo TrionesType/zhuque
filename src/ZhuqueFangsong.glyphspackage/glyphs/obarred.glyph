@@ -51,6 +51,7 @@ nodes = (
 width = 510;
 }
 );
+locked = 1;
 note = obarred;
 unicode = 629;
 }

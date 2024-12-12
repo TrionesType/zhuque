@@ -52,6 +52,7 @@ nodes = (
 width = 321;
 }
 );
+locked = 1;
 note = esh;
 unicode = 643;
 }

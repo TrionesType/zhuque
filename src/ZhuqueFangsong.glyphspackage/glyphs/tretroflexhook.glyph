@@ -44,9 +44,10 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 283;
 }
 );
+locked = 1;
 note = tretroflexhook;
 unicode = 648;
 }

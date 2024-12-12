@@ -79,6 +79,7 @@ nodes = (
 width = 244;
 }
 );
+locked = 1;
 note = lcurl;
 unicode = 564;
 }

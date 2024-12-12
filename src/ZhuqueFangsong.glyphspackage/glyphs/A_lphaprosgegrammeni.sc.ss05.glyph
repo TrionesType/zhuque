@@ -17,6 +17,22 @@ ref = iota.sc;
 }
 );
 width = 903;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (676,0);
+ref = iota.sc;
+}
+);
+width = 998;
 }
 );
 locked = 1;

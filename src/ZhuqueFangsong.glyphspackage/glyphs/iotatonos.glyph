@@ -34,6 +34,39 @@ ref = tonos;
 }
 );
 width = 268;
+},
+{
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,736,l),
+(235,787,l),
+(221,779,l),
+(221,779,o),
+(183,658,o),
+(142,541,c),
+(208,508,l),
+(231,513,l),
+(355,720,l)
+);
+}
+);
+};
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-68,0);
+ref = tonos;
+}
+);
+width = 268;
 }
 );
 locked = 1;

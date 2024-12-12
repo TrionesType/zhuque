@@ -16,6 +16,21 @@ ref = varia;
 }
 );
 width = 992;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = omegaypogegrammeni.sc.ss05;
+},
+{
+pos = (134,45);
+ref = varia;
+}
+);
+width = 992;
 }
 );
 locked = 1;

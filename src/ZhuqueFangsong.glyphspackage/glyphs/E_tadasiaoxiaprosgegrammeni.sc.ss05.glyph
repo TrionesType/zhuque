@@ -9,15 +9,32 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (226,0);
+pos = (-46,0);
 ref = Etaprosgegrammeni.sc.ss05;
 },
 {
-pos = (914,45);
+pos = (642,45);
 ref = dasiaoxia.case;
 }
 );
-width = 1299;
+width = 1050;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (394,0);
+ref = Etaprosgegrammeni.sc.ss05;
+},
+{
+pos = (1082,45);
+ref = dasiaoxia.case;
+}
+);
+width = 1455;
 }
 );
 locked = 1;

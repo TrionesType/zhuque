@@ -53,6 +53,7 @@ nodes = (
 width = 508;
 }
 );
+locked = 1;
 note = vhook;
 unicode = 651;
 }

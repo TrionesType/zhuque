@@ -17,6 +17,22 @@ ref = ypogegrammenicomb;
 }
 );
 width = 754;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+ref = Eta;
+},
+{
+pos = (227,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 739;
 }
 );
 locked = 1;

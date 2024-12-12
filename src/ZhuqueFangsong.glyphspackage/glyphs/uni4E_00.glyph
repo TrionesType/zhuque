@@ -1,9 +1,41 @@
 {
-color = 4;
+color = 8;
 glyphname = uni4E00;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(337,341,o),
+(701,364,o),
+(878,350,cs),
+(897,348,o),
+(912,365,o),
+(892,383,cs),
+(870,403,o),
+(846,418,o),
+(819,435,c),
+(798,425,o),
+(779,418,o),
+(757,413,cs),
+(663,391,o),
+(204,374,o),
+(83,379,c),
+(78,362,l),
+(160,313,l)
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = m01;
+layerId = "556FBCE0-5E24-4364-AEBB-7D214B9CCB1C";
 shapes = (
 {
 closed = 1;

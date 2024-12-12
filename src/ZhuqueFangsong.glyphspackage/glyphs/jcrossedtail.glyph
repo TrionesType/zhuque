@@ -138,6 +138,7 @@ nodes = (
 width = 250;
 }
 );
+locked = 1;
 note = jcrossedtail;
 unicode = 669;
 }

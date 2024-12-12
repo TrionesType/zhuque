@@ -18,6 +18,23 @@ ref = O;
 }
 );
 width = 692;
+},
+{
+anchors = (
+{
+name = topleft;
+pos = (-56,647);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = O;
+}
+);
+width = 692;
 }
 );
 locked = 1;

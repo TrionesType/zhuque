@@ -16,6 +16,21 @@ ref = macroncomb.case;
 }
 );
 width = 361;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (-19,0);
+ref = macroncomb.case;
+}
+);
+width = 361;
 }
 );
 locked = 1;

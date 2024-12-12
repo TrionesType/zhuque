@@ -79,6 +79,7 @@ nodes = (
 width = 597;
 }
 );
+locked = 1;
 note = dhook;
 unicode = 599;
 }

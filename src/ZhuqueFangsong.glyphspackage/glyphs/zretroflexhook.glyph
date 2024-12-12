@@ -66,6 +66,7 @@ nodes = (
 width = 491;
 }
 );
+locked = 1;
 note = zretroflexhook;
 unicode = 656;
 }

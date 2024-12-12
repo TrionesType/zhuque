@@ -67,6 +67,7 @@ nodes = (
 width = 510;
 }
 );
+locked = 1;
 note = bidentalpercussive;
 unicode = 685;
 }

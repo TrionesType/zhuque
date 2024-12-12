@@ -90,6 +90,5 @@ nodes = (
 width = 1000;
 }
 );
-locked = 1;
 unicode = 12502;
 }

@@ -16,6 +16,21 @@ ref = acutecomb.case;
 }
 );
 width = 493;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (64,0);
+ref = acutecomb.case;
+}
+);
+width = 493;
 }
 );
 locked = 1;
