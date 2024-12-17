@@ -1668,7 +1668,6 @@ sub asciitilde by asciitilde.full;
 tag = fwid;
 },
 {
-automatic = 1;
 code = "sub asmall-hira by asmall-hira.vert;
 sub ismall-hira by ismall-hira.vert;
 sub usmall-hira by usmall-hira.vert;
@@ -1717,7 +1716,11 @@ sub parenleft.full by parenleft.full.vert;
 sub parenright.full by parenright.full.vert;
 sub asciitilde.full by asciitilde.full.vert;
 sub prolonged-kana by prolonged-kana.vert;
-";
+
+sub quoteleft by cornerbracketleft.vert;
+sub quoteright by cornerbracketright.vert;
+sub quotedblleft by whitecornerbracketleft.vert;
+sub quotedblright by whitecornerbracketright.vert;";
 tag = vert;
 },
 {
@@ -1745,7 +1748,6 @@ sub wasmall-kata by wasmall-kata.vert;
 tag = vkna;
 },
 {
-automatic = 1;
 code = "sub asmall-hira by asmall-hira.vert;
 sub ismall-hira by ismall-hira.vert;
 sub usmall-hira by usmall-hira.vert;
@@ -1794,7 +1796,11 @@ sub parenleft.full by parenleft.full.vert;
 sub parenright.full by parenright.full.vert;
 sub asciitilde.full by asciitilde.full.vert;
 sub prolonged-kana by prolonged-kana.vert;
-";
+
+sub quoteleft by cornerbracketleft.vert;
+sub quoteright by cornerbracketright.vert;
+sub quotedblleft by whitecornerbracketleft.vert;
+sub quotedblright by whitecornerbracketright.vert;";
 tag = vrt2;
 },
 {
