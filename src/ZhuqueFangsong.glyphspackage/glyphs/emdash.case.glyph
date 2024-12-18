@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 9;
 glyphname = emdash.case;
 layers = (
 {
@@ -7,11 +7,10 @@ layerId = m01;
 shapes = (
 {
 pos = (0,60);
-ref = emdash;
+ref = emdash.lower;
 }
 );
 width = 918;
 }
 );
-locked = 1;
 }

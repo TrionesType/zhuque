@@ -7,7 +7,7 @@ layerId = m01;
 shapes = (
 {
 alignment = 1;
-ref = emdash;
+ref = emdash.lower;
 }
 );
 width = 918;

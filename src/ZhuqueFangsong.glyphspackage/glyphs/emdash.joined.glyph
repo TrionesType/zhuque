@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = emdash;
+glyphname = emdash.joined;
 layers = (
 {
 layerId = m01;
@@ -8,10 +8,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1000,321,l),
-(1000,379,l),
-(0,379,l),
-(0,321,l)
+(955,321,l),
+(955,379,l),
+(-200,379,l),
+(-200,321,l)
 );
 }
 );
@@ -70,5 +70,4 @@ nodes = (
 width = 924.03922;
 }
 );
-unicode = 8212;
 }

@@ -1,0 +1,28 @@
+{
+color = 2;
+glyphname = ellipsis.lower;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (210,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (420,0);
+ref = period;
+},
+{
+alignment = -1;
+ref = period;
+}
+);
+width = 658;
+}
+);
+}

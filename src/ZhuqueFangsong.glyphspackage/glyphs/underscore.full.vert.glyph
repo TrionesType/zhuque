@@ -8,7 +8,7 @@ shapes = (
 {
 angle = -90.24661;
 pos = (-159,812);
-ref = emdash;
+ref = emdash.lower;
 }
 );
 width = 1000;

@@ -1,8 +1,6 @@
 {
-color = 9;
-glyphname = emdash.loclZHS;
-kernLeft = hyphen;
-kernRight = hyphen;
+color = 2;
+glyphname = emdash.unjoined;
 layers = (
 {
 layerId = m01;
@@ -10,10 +8,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(0,321,l),
-(1000,321,l),
-(1000,379,l),
-(0,379,l)
+(955,321,l),
+(955,379,l),
+(45,379,l),
+(45,321,l)
 );
 }
 );

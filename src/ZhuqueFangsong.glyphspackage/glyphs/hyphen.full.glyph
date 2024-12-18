@@ -7,7 +7,7 @@ layerId = m01;
 shapes = (
 {
 pos = (41,96);
-ref = emdash;
+ref = emdash.lower;
 }
 );
 width = 1000;

@@ -1,0 +1,21 @@
+{
+color = 9;
+glyphname = emdash.unjoined.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,-105,l),
+(530,805,l),
+(470,805,l),
+(470,-105,l)
+);
+}
+);
+width = 1000;
+}
+);
+}

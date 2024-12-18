@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = emdash.lower;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,224,o),
+(594,226,o),
+(916,226,c),
+(924,277,l),
+(918,287,l),
+(904,287,o),
+(634,281,o),
+(474,281,cs),
+(302,281,o),
+(5,282,o),
+(5,282,c),
+(-6,233,l),
+(0,224,l)
+);
+}
+);
+width = 918;
+}
+);
+}
