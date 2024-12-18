@@ -1,0 +1,32 @@
+{
+color = 2;
+glyphname = periodcentered.lower;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,168,o),
+(179,196,o),
+(179,230,cs),
+(179,261,o),
+(159,287,o),
+(122,287,cs),
+(84,287,o),
+(60,259,o),
+(60,225,cs),
+(60,196,o),
+(78,168,o),
+(116,168,cs)
+);
+}
+);
+width = 238;
+}
+);
+locked = 1;
+}

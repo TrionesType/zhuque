@@ -1,0 +1,18 @@
+{
+color = 2;
+glyphname = quoteright.uv001;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 176;
+}
+);
+locked = 1;
+}

@@ -14,7 +14,7 @@ ref = l.sc;
 {
 alignment = -1;
 pos = (255,95);
-ref = periodcentered;
+ref = periodcentered.lower;
 }
 );
 width = 490;

@@ -131,12 +131,18 @@ tag = aalt;
 },
 {
 code = "sub @Lowercase emdash' by emdash.lower;
-sub @Uppercase emdash' by emdash.case;
+sub @Uppercase emdash' by emdash.upper;
 sub emdash.lower emdash' by emdash.lower;
-sub emdash.case emdash' by emdash.case;
+sub emdash.upper emdash' by emdash.upper;
+
 sub @Lowercase ellipsis' by ellipsis.lower;
 sub @Uppercase ellipsis' by ellipsis.lower;
 sub ellipsis.lower ellipsis' by ellipsis.lower;
+
+sub @Lowercase periodcentered' by periodcentered.lower;
+sub @Uppercase periodcentered' by periodcentered.upper;
+sub periodcentered.lower periodcentered' by periodcentered.lower;
+sub periodcentered.upper periodcentered' by periodcentered.upper;
 
 sub emdash by emdash.unjoined;
 sub emdash.unjoined emdash.unjoined' by emdash.joined;
@@ -1555,13 +1561,11 @@ tag = smcp;
 },
 {
 automatic = 1;
-code = "sub periodcentered by periodcentered.case;
-sub bullet by bullet.case;
+code = "sub bullet by bullet.case;
 sub slash by slash.case;
 sub backslash by backslash.case;
 sub hyphen by hyphen.case;
 sub endash by endash.case;
-sub emdash by emdash.case;
 sub parenleft by parenleft.case;
 sub parenright by parenright.case;
 sub braceleft by braceleft.case;
@@ -1651,7 +1655,6 @@ sub f l by fl;
 tag = liga;
 },
 {
-automatic = 1;
 code = "sub ampersand by ampersand.full;
 sub asterisk by asterisk.full;
 sub at by at.full;
@@ -1676,7 +1679,11 @@ sub bracketright by bracketright.full;
 sub parenleft by parenleft.full;
 sub parenright by parenright.full;
 sub asciitilde by asciitilde.full;
-";
+
+sub quotedblleft by quotedblleft.uv002;
+sub quotedblright by quotedblright.uv002;
+sub quoteleft by quoteleft.uv002;
+sub quoteright by quoteright.uv002;";
 tag = fwid;
 },
 {
@@ -1736,9 +1743,17 @@ sub ellipsis by ellipsis.vert;
 sub ellipsis.lower by ellipsis.vert;
 
 sub quoteleft by cornerbracketleft.vert;
+sub quoteleft.uv001 by cornerbracketleft.vert;
+sub quoteleft.uv002 by cornerbracketleft.vert;
 sub quoteright by cornerbracketright.vert;
+sub quoteright.uv001 by cornerbracketright.vert;
+sub quoteright.uv002 by cornerbracketright.vert;
 sub quotedblleft by whitecornerbracketleft.vert;
+sub quotedblleft.uv001 by whitecornerbracketleft.vert;
+sub quotedblleft.uv002 by whitecornerbracketleft.vert;
 sub quotedblright by whitecornerbracketright.vert;
+sub quotedblright.uv001 by whitecornerbracketright.vert;
+sub quotedblright.uv002 by whitecornerbracketright.vert;
 ";
 tag = vert;
 },
@@ -1823,9 +1838,17 @@ sub ellipsis by ellipsis.vert;
 sub ellipsis.lower by ellipsis.vert;
 
 sub quoteleft by cornerbracketleft.vert;
+sub quoteleft.uv001 by cornerbracketleft.vert;
+sub quoteleft.uv002 by cornerbracketleft.vert;
 sub quoteright by cornerbracketright.vert;
+sub quoteright.uv001 by cornerbracketright.vert;
+sub quoteright.uv002 by cornerbracketright.vert;
 sub quotedblleft by whitecornerbracketleft.vert;
+sub quotedblleft.uv001 by whitecornerbracketleft.vert;
+sub quotedblleft.uv002 by whitecornerbracketleft.vert;
 sub quotedblright by whitecornerbracketright.vert;
+sub quotedblright.uv001 by whitecornerbracketright.vert;
+sub quotedblright.uv002 by whitecornerbracketright.vert;
 ";
 tag = vrt2;
 },

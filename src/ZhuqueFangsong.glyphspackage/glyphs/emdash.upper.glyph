@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = emdash.case;
+glyphname = emdash.upper;
 layers = (
 {
 layerId = m01;

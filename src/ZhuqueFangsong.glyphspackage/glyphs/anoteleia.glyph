@@ -9,14 +9,14 @@ layerId = m01;
 shapes = (
 {
 pos = (0,96);
-ref = periodcentered;
+ref = periodcentered.lower;
 }
 );
 width = 238;
 }
 );
 locked = 1;
-metricLeft = "=periodcentered";
-metricRight = "=periodcentered";
+metricLeft = "=periodcentered.upper";
+metricRight = "=periodcentered.upper";
 unicode = 903;
 }

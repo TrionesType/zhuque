@@ -7,7 +7,7 @@ layerId = m01;
 shapes = (
 {
 alignment = 1;
-ref = periodcentered;
+ref = periodcentered.lower;
 }
 );
 width = 238;

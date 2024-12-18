@@ -1,13 +1,13 @@
 {
 color = 2;
-glyphname = periodcentered.case;
+glyphname = periodcentered.upper;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 pos = (0,80);
-ref = periodcentered;
+ref = periodcentered.lower;
 }
 );
 width = 238;

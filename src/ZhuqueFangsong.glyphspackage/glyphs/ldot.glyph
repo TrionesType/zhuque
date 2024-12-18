@@ -14,7 +14,7 @@ ref = l;
 {
 alignment = -1;
 pos = (148,51);
-ref = periodcentered;
+ref = periodcentered.lower;
 }
 );
 width = 332;
