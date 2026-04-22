@@ -1939,7 +1939,7 @@ sub omegaperispomeniypogegrammeni.sc by omegaperispomeniypogegrammeni.sc.ss05;
 labels = (
 {
 language = dflt;
-value = "Greek adscript iota\"";
+value = "Greek adscript iota";
 }
 );
 tag = ss05;
