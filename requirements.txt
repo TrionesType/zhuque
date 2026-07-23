@@ -1,2 +1,0 @@
-fontmake>=3.7.1
-fonttools>=4.38.0
